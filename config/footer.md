@@ -5,6 +5,7 @@
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 - [**Front-End-Checklist**](https://github.com/thedaviddias/Front-End-Checklist): The perfect Front-End Checklist for modern websites and meticulous developers.
+- [**Awesome React**](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
 
 ## Contribution
 
