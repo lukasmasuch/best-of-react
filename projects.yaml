@@ -34,8 +34,8 @@ categories:
     title: "Other Components"
     subtitle: "Collection of other components."
   - category: "other-components"
-    title: "Other Components"
-    subtitle: "Collection of other components."
+    title: "Developer Tools"
+    subtitle: "Tools to help with React development."
   - category: "admin-dashboards"
     title: "Admin Dashboards"
     subtitle: "Admin dashboards and frontend frameworks."
@@ -298,6 +298,10 @@ projects:
     github_id: eambit/bit
     npm_id: "bit-bin"
     description: "Build, distribute, and collaborate on components."
+    category: "dev-tools"
+  - name: Storybook
+    github_id: storybookjs/storybook
+    npm_id: "@storybook/react"
     category: "dev-tools"
   - name: Luna
     github_id: rvpanoz/luna
