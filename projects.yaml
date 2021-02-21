@@ -43,17 +43,17 @@ labels:
 projects:
   - name: Material-UI
     github_id: mui-org/material-ui
-    npm_id: @material-ui/core
+    npm_id: "@material-ui/core"
     labels: ["material-ui"]
     category: "ui-frameworks"
   - name: Ant Design
     github_id: ant-design/ant-design
-    npm_id: antd
+    npm_id: "antd"
     labels: ["ant-design"]
     category: "ui-frameworks"
   - name: Evergreen
     github_id: segmentio/evergreen
-    npm_id: evergreen-ui
+    npm_id: "evergreen-ui"
     category: "ui-frameworks"
   - name: Styled Components
     github_id: styled-components/styled-components
@@ -62,56 +62,56 @@ projects:
     category: "styling"
   - name: Tailewind CSS
     github_id: tailwindlabs/tailwindcss
-    npm_id: tailwindcss
+    npm_id: "tailwindcss"
     category: "styling"
   - name: emotion
     github_id: emotion-js/emotion
-    npm_id: @emotion/react
+    npm_id: "@emotion/react"
     category: "styling"
   - name: MUI-Datatables
     github_id: gregnb/mui-datatables
-    npm_id: mui-datatables
+    npm_id: "mui-datatables"
     labels: ["material-ui"]
     category: "data-tables"
   - name: material-table
     github_id: mbrn/material-table
-    npm_id: material-table
+    npm_id: "material-table"
     labels: ["material-ui"]
     category: "data-tables"
   - name: RevoGrid
     github_id: revolist/revogrid
-    npm_id: @revolist/revogrid
+    npm_id: "@revolist/revogrid"
     category: "data-tables"
   - name: react-data-grid
     github_id: adazzle/react-data-grid
-    npm_id: react-data-grid
+    npm_id: "react-data-grid"
     category: "data-tables"
   - name: React-Datasheet
     github_id: nadbm/react-datasheet
-    npm_id: react-datasheet
+    npm_id: "react-datasheet"
     category: "data-tables"
   - name: ag-Grid
     github_id: ag-grid/ag-grid
-    npm_id: ag-grid-community
+    npm_id: "ag-grid-community"
     category: "data-tables"
   - name: React Data Table
     github_id: jbetancur/react-data-table-component
-    npm_id: react-data-table-component
+    npm_id: "react-data-table-component"
     labels: ["styled-components"]
     demo_url: https://jbetancur.github.io/react-data-table-component/
     category: "data-tables"
   - name: Handsontable
     github_id: handsontable/handsontable
-    npm_id: handsontable
+    npm_id: "handsontable"
     demo_url: https://handsontable.com/examples
     category: "data-tables"
   - name: reactdatagrid
     github_id: inovua/reactdatagrid
-    npm_id: @inovua/reactdatagrid-community
+    npm_id: "@inovua/reactdatagrid-community"
     demo_url: https://reactdatagrid.io/demo
     category: "data-tables"
   - name: React Spreadsheet
     github_id: iddan/react-spreadsheet
-    npm_id: react-spreadsheet
+    npm_id: "react-spreadsheet"
     demo_url: https://iddan.github.io/react-spreadsheet
     category: "data-tables"
