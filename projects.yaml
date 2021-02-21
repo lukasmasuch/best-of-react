@@ -47,9 +47,6 @@ labels:
   - label: "ant-design"
     image: "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
     description: "Projects related to Ant Design Framework."
-  - label: "styled-components"
-    image: "https://styled-components.com/favicon.png"
-    description: "Projects related to Styled Components Framework."
   - label: "bootstrap"
     image: "https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png"
     description: "Projects related to Bootstrap UI Framework."
@@ -81,7 +78,6 @@ projects:
   - name: Styled Components
     github_id: styled-components/styled-components
     npm_id: styled-components
-    labels: ["styled-components"]
     category: "styling"
   - name: Tailewind CSS
     github_id: tailwindlabs/tailwindcss
@@ -120,7 +116,6 @@ projects:
   - name: React Data Table
     github_id: jbetancur/react-data-table-component
     npm_id: "react-data-table-component"
-    labels: ["styled-components"]
     demo_url: https://jbetancur.github.io/react-data-table-component/
     category: "data-tables"
   - name: Handsontable
