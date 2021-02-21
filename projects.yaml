@@ -144,6 +144,16 @@ projects:
     npm_id: "react-spreadsheet"
     demo_url: https://iddan.github.io/react-spreadsheet
     category: "data-tables"
+  - name: Recharts
+    github_id: recharts/recharts
+    npm_id: "recharts"
+    demo_url: http://recharts.org/en-US/examples
+    category: "data-viz"
+  - name: Viser
+    github_id: viserjs/viser
+    npm_id: "viser-react"
+    demo_url: https://viserjs.github.io/demoHome.html
+    category: "data-viz"
   - name: react-vis
     github_id: uber/react-vis
     npm_id: "react-vis"
@@ -154,10 +164,38 @@ projects:
     npm_id: "victory"
     demo_url: https://formidable.com/open-source/victory/gallery/
     category: "data-viz"
+  - name: BizCharts
+    github_id: alibaba/BizCharts
+    npm_id: "bizcharts"
+    category: "data-viz"
+  - name: Reaviz
+    github_id: reaviz/reaviz
+    npm_id: "reaviz"
+    category: "data-viz"
+  - name: nivo
+    github_id: plouc/nivo
+    npm_id: "@nivo/core"
+    demo_url: https://nivo.rocks/components/
+    category: "data-viz"
   - name: Semiotic
     github_id: nteract/semiotic
     npm_id: "semiotic"
     demo_url: https://semiotic.nteract.io/examples
+    category: "data-viz"
+  - name: React ApexCharts
+    github_id: apexcharts/react-apexcharts
+    npm_id: "react-apexcharts"
+    demo_url: https://apexcharts.com/react-chart-demos/
+    category: "data-viz"
+  - name: React Chartjs 2
+    github_id: reactchartjs/react-chartjs-2
+    npm_id: "react-chartjs-2"
+    demo_url: https://reactchartjs.github.io/react-chartjs-2/
+    category: "data-viz"
+  - name: visx
+    github_id: airbnb/visx
+    npm_id: "@visx/group"
+    demo_url: https://airbnb.io/visx/gallery
     category: "data-viz"
   - name: Monaco React
     github_id: suren-atoyan/monaco-react
@@ -209,6 +247,10 @@ projects:
     github_id: plotly/react-pivottable
     npm_id: "react-pivottable"
     demo_url: https://react-pivottable.js.org/
+    category: "data-tables"
+  - name: rsuite-table
+    github_id: rsuite/rsuite-table
+    npm_id: "rsuite-table"
     category: "data-tables"
   - name: react-virtualized
     github_id: vaughn/react-virtualized
@@ -290,6 +332,16 @@ projects:
     npm_id: "react-lazylog"
     demo_url: https://mozilla-frontend-infra.github.io/react-lazylog/#lazylog
     category: "other-components"
+  - name: React Flow
+    github_id: wbkd/react-flow
+    npm_id: "react-flow-renderer"
+    demo_url: https://reactflow.dev/examples/
+    category: "other-components"
+  - name: React Flow Chart
+    github_id: MrBlenny/react-flow-chart
+    npm_id: "@mrblenny/react-flow-chart"
+    demo_url: https://mrblenny.github.io/react-flow-chart/index.html?path=/story/state--internal-react-state
+    category: "other-components"
   - name: React Ansi
     github_id: RaoHai/react-ansi
     npm_id: "react-ansi"
@@ -319,9 +371,13 @@ projects:
     npm_id: "bit-bin"
     description: "Build, distribute, and collaborate on components."
     category: "dev-tools"
+  - name: Webpack
+    github_id: webpack/webpack
+    npm_id: webpack
+    category: "dev-tools"
   - name: Reactotron
     github_id: infinitered/reactotron
-    category: "dev-tools"
+    category: "dev-tools
   - name: docz
     github_id: doczjs/docz
     npm_id: docz
@@ -411,3 +467,23 @@ projects:
     npm_id: next
     demo_url: https://nextjs.org/showcase
     category: "cms-frameworks"
+  - name: Blueprint
+    github_id: palantir/blueprint
+    npm_id: "@blueprintjs/core"
+    demo_url: https://blueprintjs.com/docs/
+    category: "ui-frameworks"
+  - name: Semantic UI React
+    github_id: Semantic-Org/Semantic-UI-React
+    npm_id: "semantic-ui-react"
+    demo_url: https://react.semantic-ui.com/elements/button/
+    category: "ui-frameworks"
+  - name: Grommet
+    github_id: grommet/grommet
+    npm_id: "grommet"
+    demo_url: https://v2.grommet.io/components
+    category: "ui-frameworks"
+  - name: Rebass
+    github_id: rebassjs/rebass
+    npm_id: "rebass"
+    demo_url: https://codesandbox.io/s/github/rebassjs/rebass/tree/master/examples/sandbox
+    category: "ui-frameworks"
