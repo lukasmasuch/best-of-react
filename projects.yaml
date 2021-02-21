@@ -371,7 +371,7 @@ projects:
     github_id: sghall/react-move
     npm_id: react-move
     demo_url: https://react-move-docs.netlify.app/#/demos/node-group
-    category: "admin-dashboards"
+    category: "animations"
   - name: Volt React Dashboard
     github_id: themesberg/volt-react-dashboard
     labels: ["bootstrap"]
