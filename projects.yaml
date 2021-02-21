@@ -27,7 +27,16 @@ categories:
     subtitle: "File upload, download, and viewer components."
   - category: "editors"
     title: "Editor Components"
-    subtitle: "Code and text editor components."
+    subtitle: "Editor components for code, text, images and more."
+  - category: "other-components"
+    title: "Other Components"
+    subtitle: "Collection of other components."
+  - category: "other-components"
+    title: "Other Components"
+    subtitle: "Collection of other components."
+  - category: "admin-dashboards"
+    title: "Admin Dashboards"
+    subtitle: "Admin dashboards and frontend frameworks."
 
 labels:
   - label: "material-ui"
@@ -39,7 +48,10 @@ labels:
   - label: "styled-components"
     image: "https://styled-components.com/favicon.png"
     description: "Projects related to Styled Components Framework."
- 
+  - label: "bootstrap"
+    image: "https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png"
+    description: "Projects related to Bootstrap UI Framework."
+
 projects:
   - name: Material-UI
     github_id: mui-org/material-ui
@@ -50,6 +62,15 @@ projects:
     github_id: ant-design/ant-design
     npm_id: "antd"
     labels: ["ant-design"]
+    category: "ui-frameworks"
+  - name: Bootstrap React
+    github_id: react-bootstrap/react-bootstrap
+    npm_id: "react-bootstrap"
+    labels: [bootstrap"]
+    category: "ui-frameworks"
+  - name: Radix Primitives
+    github_id: radix-ui/primitives
+    npm_id: "@radix-ui/utils"
     category: "ui-frameworks"
   - name: Evergreen
     github_id: segmentio/evergreen
@@ -223,3 +244,61 @@ projects:
     npm_id: "react-dropzone"
     demo_url: https://react-dropzone.js.org/#section-basic-example
     category: "file-handling"
+  - name: material-ui-dropzone
+    github_id: Yuvaleros/material-ui-dropzone
+    npm_id: "material-ui-dropzone"
+    demo_url: https://yuvaleros.github.io/material-ui-dropzone/
+    labels: ["material-ui"]
+    category: "file-handling"
+  - name: Notistack
+    github_id: iamhosseindhv/notistack
+    npm_id: "notistack"
+    labels: ["material-ui"]
+    demo_url: https://iamhosseindhv.com/notistack/demos
+    category: "notifications"
+  - name: React Hot Toast
+    github_id: timolins/react-hot-toast
+    npm_id: "react-hot-toast"
+    demo_url: https://react-hot-toast.com/
+    category: "notifications"
+  - name: Material-UI Treasury
+    github_id: siriwatknp/mui-treasury
+    npm_id: "@mui-treasury/components"
+    labels: ["material-ui"]
+    demo_url: https://mui-treasury.com/components/
+    category: "other-components"
+  - name: material-ui-chip-input
+    github_id: TeamWertarbyte/material-ui-chip-input
+    npm_id: "material-ui-chip-input"
+    labels: ["material-ui"]
+    demo_url: https://mui.wertarbyte.com/#material-ui-chip-input
+    category: "other-components"
+  - name: Unstated Next
+    github_id: jamiebuilds/unstated-next
+    npm_id: "unstated-next"
+    category: "state-management"
+  - name: Bit
+    github_id: eambit/bit
+    npm_id: "bit-bin"
+    category: "dev-tools"
+  - name: React Admin
+    github_id: marmelab/react-admin
+    npm_id: "react-admin"
+    category: "admin-dashboards"
+    labels: ["material-ui"]
+    demo_url: https://marmelab.com/react-admin-demo/
+  - name: React Material Admin
+    github_id: flatlogic/react-material-admin
+    category: "admin-dashboards"
+    labels: ["material-ui"]
+    demo_url: https://flatlogic.com/templates/react-material-admin/demo
+  - name: React Dashboard
+    github_id: flatlogic/react-dashboard
+    labels: ["bootstrap"]
+    demo_url: https://flatlogic.com/templates/react-dashboard/demo
+    category: "admin-dashboards"
+  - name: Material Kit React
+    github_id: devias-io/material-kit-react
+    labels: ["material-ui"]
+    demo_url: https://react-material-dashboard.devias.io/app/dashboard
+    category: "admin-dashboards"
