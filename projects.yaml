@@ -70,7 +70,7 @@ projects:
     category: "ui-frameworks"
   - name: React Suite
     github_id: rsuite/rsuite
-    npm_id: "rsuite@next"
+    npm_id: "rsuite"
     demo_url: https://rsuitejs.com/components/overview/
     category: "ui-frameworks"
   - name: Bootstrap React
@@ -367,7 +367,7 @@ projects:
     npm_id: "unstated-next"
     category: "state-management"
   - name: Bit
-    github_id: eambit/bit
+    github_id: teambit/bit
     npm_id: "bit-bin"
     description: "Build, distribute, and collaborate on components."
     category: "dev-tools"
@@ -377,7 +377,7 @@ projects:
     category: "dev-tools"
   - name: Reactotron
     github_id: infinitered/reactotron
-    category: "dev-tools
+    category: "dev-tools"
   - name: docz
     github_id: doczjs/docz
     npm_id: docz
