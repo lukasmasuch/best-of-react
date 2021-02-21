@@ -33,12 +33,15 @@ categories:
   - category: "other-components"
     title: "Other Components"
     subtitle: "Collection of other components."
-  - category: "other-components"
+  - category: "dev-tools"
     title: "Developer Tools"
     subtitle: "Tools to help with React development."
+  - category: "desktop-apps"
+    title: "Desktop Applications"
+    subtitle: "Tools to build web-app based desktop applications."
   - category: "admin-dashboards"
     title: "Admin Dashboards"
-    subtitle: "Admin dashboards and frontend frameworks."
+    subtitle: "Admin frontend frameworks, dashboards and templates."
 
 labels:
   - label: "material-ui"
@@ -61,6 +64,11 @@ projects:
     github_id: ant-design/ant-design
     npm_id: "antd"
     labels: ["ant-design"]
+    category: "ui-frameworks"
+  - name: React Suite
+    github_id: rsuite/rsuite
+    npm_id: "rsuite@next"
+    demo_url: https://rsuitejs.com/components/overview/
     category: "ui-frameworks"
   - name: Bootstrap React
     github_id: react-bootstrap/react-bootstrap
@@ -263,11 +271,25 @@ projects:
     npm_id: "react-hot-toast"
     demo_url: https://react-hot-toast.com/
     category: "notifications"
+  - name: React-Toastify
+    github_id: fkhadra/react-toastify
+    npm_id: "react-toastify"
+    demo_url: https://fkhadra.github.io/react-toastify/introduction/
+    category: "notifications"
   - name: Material-UI Treasury
     github_id: siriwatknp/mui-treasury
     npm_id: "@mui-treasury/components"
     labels: ["material-ui"]
     demo_url: https://mui-treasury.com/components/
+    category: "other-components"
+  - name: React Lazylog
+    github_id: mozilla-frontend-infra/react-lazylog
+    npm_id: "react-lazylog"
+    demo_url: https://mozilla-frontend-infra.github.io/react-lazylog/#lazylog
+    category: "other-components"
+  - name: React Ansi
+    github_id: RaoHai/react-ansi
+    npm_id: "react-ansi"
     category: "other-components"
   - name: material-ui-chip-input
     github_id: TeamWertarbyte/material-ui-chip-input
@@ -294,9 +316,21 @@ projects:
     npm_id: "bit-bin"
     description: "Build, distribute, and collaborate on components."
     category: "dev-tools"
+  - name: Reactotron
+    github_id: infinitered/reactotron
+    category: "dev-tools"
+  - name: docz
+    github_id: doczjs/docz
+    npm_id: docz
+    category: "dev-tools"
   - name: Storybook
     github_id: storybookjs/storybook
     npm_id: "@storybook/react"
+    category: "dev-tools"
+  - name: Storybook Addon Material-UI
+    github_id: react-theming/storybook-addon-material-ui
+    labels: ["material-ui"]
+    npm_id: "storybook-addon-material-ui"
     category: "dev-tools"
   - name: Luna
     github_id: rvpanoz/luna
@@ -304,6 +338,11 @@ projects:
   - name: lerna
     github_id: lerna/lerna
     npm_id: lerna
+    category: "dev-tools"
+  - name: Material-UI Theme Creator
+    github_id: bareynol/mui-theme-creator
+    labels: ["material-ui"]
+    demo_url: https://bareynol.github.io/mui-theme-creator/
     category: "dev-tools"
   - name: React Admin
     github_id: marmelab/react-admin
@@ -332,4 +371,30 @@ projects:
     github_id: sghall/react-move
     npm_id: react-move
     demo_url: https://react-move-docs.netlify.app/#/demos/node-group
+    category: "admin-dashboards"
+  - name: Volt React Dashboard
+    github_id: themesberg/volt-react-dashboard
+    labels: ["bootstrap"]
+    demo_url: https://demo.themesberg.com/volt-react-dashboard/
+    category: "admin-dashboards"
+  - name: Ant Design Pro
+    github_id: ant-design/ant-design-pro
+    labels: ["ant-design"]
+    demo_url: https://preview.pro.ant.design/
+    category: "admin-dashboards"
+  - name: Tauri
+    github_id: tauri-apps/tauri
+    npm_id: tauri
+    category: "desktop-apps"
+  - name: Electron
+    github_id: electron/electron
+    npm_id: electron
+    category: "desktop-apps"
+  - name: React SaaS Template
+    github_id: dunky11/react-saas-template
+    demo_url: https://reactsaastemplate.com/
+    category: "admin-dashboards"
+  - name: Notus React
+    github_id: creativetimofficial/notus-react
+    demo_url: https://demos.creative-tim.com/notus-react/
     category: "admin-dashboards"
