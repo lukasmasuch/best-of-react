@@ -115,3 +115,111 @@ projects:
     npm_id: "react-spreadsheet"
     demo_url: https://iddan.github.io/react-spreadsheet
     category: "data-tables"
+  - name: react-vis
+    github_id: uber/react-vis
+    npm_id: "react-vis"
+    demo_url: http://uber.github.io/react-vis/examples/showcases/
+    category: "data-viz"
+  - name: Victory
+    github_id: FormidableLabs/victory
+    npm_id: "victory"
+    demo_url: https://formidable.com/open-source/victory/gallery/
+    category: "data-viz"
+  - name: Semiotic
+    github_id: nteract/semiotic
+    npm_id: "semiotic"
+    demo_url: https://semiotic.nteract.io/examples
+    category: "data-viz"
+  - name: Monaco React
+    github_id: suren-atoyan/monaco-react
+    npm_id: "@monaco-editor/react"
+    demo_url: https://monaco-react.surenatoyan.com/
+    category: "editors"
+  - name: Monaco Yaml
+    github_id: pengx17/monaco-yaml
+    npm_id: "monaco-yaml"
+    category: "editors"
+  - name: React Ace
+    github_id: securingsincity/react-ace
+    npm_id: "react-ace"
+    demo_url: https://securingsincity.github.io/react-ace/
+    category: "editors"
+  - name: Draft JS
+    github_id: facebook/draft-js
+    npm_id: "draft-js"
+    category: "editors"
+  - name: ReactPage
+    github_id: react-page/react-page
+    npm_id: "@react-page/editor"
+    category: "editors"
+  - name: React Email Editor
+    github_id: unlayer/react-email-editor
+    npm_id: "react-email-editor"
+    demo_url: https://react-email-editor-demo.netlify.app/
+    category: "editors"
+  - name: react-monaco-editor
+    github_id: react-monaco-editor/react-monaco-editor
+    npm_id: "react-monaco-editor"
+    category: "editors"
+  - name: react-mde
+    github_id: andrerpena/react-mde
+    npm_id: "react-mde"
+    demo_url: http://andrerpena.me/react-mde/
+    category: "editors"
+  - name: Slate
+    github_id: ianstormtaylor/slate
+    npm_id: "slate"
+    demo_url: https://www.slatejs.org/examples/richtext
+    category: "editors"
+  - name: ReactPivot
+    github_id: davidguttman/react-pivot
+    npm_id: "react-pivot"
+    demo_url: http://davidguttman.github.io/react-pivot/
+    category: "data-tables"
+  - name: react-pivottable
+    github_id: plotly/react-pivottable
+    npm_id: "react-pivottable"
+    demo_url: https://react-pivottable.js.org/
+    category: "data-tables"
+  - name: Perspective
+    github_id: finos/perspective
+    npm_id: "@finos/perspective"
+    pypi_id: perspective-python
+    demo_url: https://perspective.finos.org/
+    category: "data-tables"
+  - name: orb
+    github_id: nnajm/orb
+    npm_id: "orb"
+    demo_url: https://nnajm.github.io/orb/
+    category: "data-tables"
+  - name: react-csv
+    github_id: react-csv/react-csv
+    npm_id: "react-csv"
+    category: "file-handling"
+  - name: SheetJS
+    github_id: SheetJS/sheetjs
+    npm_id: "xlsx"
+    category: "file-handling"
+  - name: React-Data-Export
+    github_id: securedeveloper/react-data-export
+    npm_id: "react-data-export"
+    category: "file-handling"
+  - name: react-json-view
+    github_id: mac-s-g/react-json-view
+    npm_id: "react-json-view"
+    demo_url: https://mac-s-g.github.io/react-json-view/demo/dist/
+    category: "file-handling"
+  - name: react-file-viewer
+    github_id: plangrid/react-file-viewer
+    npm_id: "react-file-viewer"
+    category: "file-handling"
+  - name: React FilePond
+    github_id: pqina/react-filepond
+    npm_id: "react-filepond"
+    demo_url: https://codesandbox.io/s/react-filepond-live-demo-iw9ri
+    category: "file-handling"
+  - name: React Dropzone
+    github_id: react-dropzone/react-dropzone
+    npm_id: "react-dropzone"
+    demo_url: https://react-dropzone.js.org/#section-basic-example
+    category: "file-handling"
