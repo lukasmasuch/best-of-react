@@ -3,17 +3,115 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "ui-frameworks"
+    title: "UI Frameworks & Libraries "
+    # subtitle: ""
+  - category: "styling"
+    title: "Styling"
+    subtitle: "CSS and component styling frameworks."
+  - category: "data-tables"
+    title: "Data Tables & Grids"
+    subtitle: "Data grid, tables, and spreadsheet components."
+  - category: "state-management"
+    title: "State Management"
+  - category: "routing"
+    title: "Routing"
+  - category: "data-viz"
+    title: "Data Visualization"
+    subtitle: "Data visualization, chart and diagram components."
+  - category: "notifications"
+    title: "Notifications"
+    subtitle: "Toasts, snackbars, and notification system."
+  - category: "file-handling"
+    title: "File Handling"
+    subtitle: "File upload, download, and viewer components."
+  - category: "editors"
+    title: "Editor Components"
+    subtitle: "Code and text editor components."
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
-
+  - label: "material-ui"
+    image: "https://material-ui.com/static/favicon.ico"
+    description: "Projects related to Material UI Framework."
+  - label: "ant-design"
+    image: "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+    description: "Projects related to Ant Design Framework."
+  - label: "styled-components"
+    image: "https://styled-components.com/favicon.png"
+    description: "Projects related to Styled Components Framework."
+ 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: Material-UI
+    github_id: mui-org/material-ui
+    npm_id: @material-ui/core
+    labels: ["material-ui"]
+    category: "ui-frameworks"
+  - name: Ant Design
+    github_id: ant-design/ant-design
+    npm_id: antd
+    labels: ["ant-design"]
+    category: "ui-frameworks"
+  - name: Evergreen
+    github_id: segmentio/evergreen
+    npm_id: evergreen-ui
+    category: "ui-frameworks"
+  - name: Styled Components
+    github_id: styled-components/styled-components
+    npm_id: styled-components
+    labels: ["styled-components"]
+    category: "styling"
+  - name: Tailewind CSS
+    github_id: tailwindlabs/tailwindcss
+    npm_id: tailwindcss
+    category: "styling"
+  - name: emotion
+    github_id: emotion-js/emotion
+    npm_id: @emotion/react
+    category: "styling"
+  - name: MUI-Datatables
+    github_id: gregnb/mui-datatables
+    npm_id: mui-datatables
+    labels: ["material-ui"]
+    category: "data-tables"
+  - name: material-table
+    github_id: mbrn/material-table
+    npm_id: material-table
+    labels: ["material-ui"]
+    category: "data-tables"
+  - name: RevoGrid
+    github_id: revolist/revogrid
+    npm_id: @revolist/revogrid
+    category: "data-tables"
+  - name: react-data-grid
+    github_id: adazzle/react-data-grid
+    npm_id: react-data-grid
+    category: "data-tables"
+  - name: React-Datasheet
+    github_id: nadbm/react-datasheet
+    npm_id: react-datasheet
+    category: "data-tables"
+  - name: ag-Grid
+    github_id: ag-grid/ag-grid
+    npm_id: ag-grid-community
+    category: "data-tables"
+  - name: React Data Table
+    github_id: jbetancur/react-data-table-component
+    npm_id: react-data-table-component
+    labels: ["styled-components"]
+    demo_url: https://jbetancur.github.io/react-data-table-component/
+    category: "data-tables"
+  - name: Handsontable
+    github_id: handsontable/handsontable
+    npm_id: handsontable
+    demo_url: https://handsontable.com/examples
+    category: "data-tables"
+  - name: reactdatagrid
+    github_id: inovua/reactdatagrid
+    npm_id: @inovua/reactdatagrid-community
+    demo_url: https://reactdatagrid.io/demo
+    category: "data-tables"
+  - name: React Spreadsheet
+    github_id: iddan/react-spreadsheet
+    npm_id: react-spreadsheet
+    demo_url: https://iddan.github.io/react-spreadsheet
+    category: "data-tables"
