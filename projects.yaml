@@ -16,6 +16,8 @@ categories:
     title: "State Management"
   - category: "routing"
     title: "Routing"
+  - category: "adminations"
+    title: "Animations"
   - category: "data-viz"
     title: "Data Visualization"
     subtitle: "Data visualization, chart and diagram components."
@@ -202,6 +204,11 @@ projects:
     npm_id: "react-pivottable"
     demo_url: https://react-pivottable.js.org/
     category: "data-tables"
+  - name: react-virtualized
+    github_id: vaughn/react-virtualized
+    npm_id: "react-virtualized"
+    demo_url: https://bvaughn.github.io/react-virtualized/#/components/List
+    category: "data-tables"
   - name: Perspective
     github_id: finos/perspective
     npm_id: "@finos/perspective"
@@ -273,6 +280,16 @@ projects:
     labels: ["material-ui"]
     demo_url: https://mui.wertarbyte.com/#material-ui-chip-input
     category: "other-components"
+  - name: react-sortable-tree
+    github_id: frontend-collective/react-sortable-tree
+    npm_id: "react-sortable-tree"
+    demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
+    category: "other-components"
+  - name: Reactive Search
+    github_id: appbaseio/reactivesearch
+    npm_id: "@appbaseio/reactivesearch"
+    demo_url: https://opensource.appbase.io/reactivesearch/#examples
+    category: "other-components"
   - name: Unstated Next
     github_id: jamiebuilds/unstated-next
     npm_id: "unstated-next"
@@ -280,6 +297,14 @@ projects:
   - name: Bit
     github_id: eambit/bit
     npm_id: "bit-bin"
+    description: "Build, distribute, and collaborate on components."
+    category: "dev-tools"
+  - name: Luna
+    github_id: rvpanoz/luna
+    category: "dev-tools"
+  - name: lerna
+    github_id: lerna/lerna
+    npm_id: lerna
     category: "dev-tools"
   - name: React Admin
     github_id: marmelab/react-admin
@@ -301,4 +326,11 @@ projects:
     github_id: devias-io/material-kit-react
     labels: ["material-ui"]
     demo_url: https://react-material-dashboard.devias.io/app/dashboard
+    category: "admin-dashboards"
+  - name: Remotion
+    github_id: JonnyBurger/remotion
+  - name: React-Move
+    github_id: sghall/react-move
+    npm_id: react-move
+    demo_url: https://react-move-docs.netlify.app/#/demos/node-group
     category: "admin-dashboards"
