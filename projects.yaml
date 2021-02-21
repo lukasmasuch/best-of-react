@@ -6,7 +6,7 @@ categories:
   - category: "ui-frameworks"
     title: "UI Frameworks & Libraries"
     # subtitle: ""
-  - category: "web-frameworks"
+  - category: "cms-frameworks"
     title: "CMS Frameworks"
     subtitle: "Application frameworks, content management systems, and static site generators for React."
   - category: "styling"
@@ -405,9 +405,9 @@ projects:
     github_id: gatsbyjs/gatsby
     npm_id: gatsby
     demo_url: https://www.gatsbyjs.com/showcase/
-    category: "web-frameworks"
+    category: "cms-frameworks"
   - name: Next.js
     github_id: vercel/next.js
     npm_id: next
     demo_url: https://nextjs.org/showcase
-    category: "web-frameworks"
+    category: "cms-frameworks"
