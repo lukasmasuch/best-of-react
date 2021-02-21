@@ -4,8 +4,11 @@ configuration:
 
 categories:
   - category: "ui-frameworks"
-    title: "UI Frameworks & Libraries "
+    title: "UI Frameworks & Libraries"
     # subtitle: ""
+  - category: "web-frameworks"
+    title: "CMS Frameworks"
+    subtitle: "Application frameworks, content management systems, and static site generators for React."
   - category: "styling"
     title: "Styling"
     subtitle: "CSS and component styling frameworks."
@@ -398,3 +401,13 @@ projects:
     github_id: creativetimofficial/notus-react
     demo_url: https://demos.creative-tim.com/notus-react/
     category: "admin-dashboards"
+  - name: Gatsby
+    github_id: gatsbyjs/gatsby
+    npm_id: gatsby
+    demo_url: https://www.gatsbyjs.com/showcase/
+    category: "web-frameworks"
+  - name: Next.js
+    github_id: vercel/next.js
+    npm_id: next
+    demo_url: https://nextjs.org/showcase
+    category: "web-frameworks"
