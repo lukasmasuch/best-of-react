@@ -24,6 +24,8 @@ categories:
   - category: "data-viz"
     title: "Data Visualization"
     subtitle: "Data visualization, chart and diagram components."
+  - category: "data-fetching"
+    title: "Data Fetching"
   - category: "notifications"
     title: "Notifications"
     subtitle: "Toasts, snackbars, and notification system."
@@ -42,6 +44,10 @@ categories:
   - category: "desktop-apps"
     title: "Desktop Applications"
     subtitle: "Tools to build web-app based desktop applications."
+  - category: "utils"
+    title: "Utilities"
+  - category: "testing"
+    title: "Testing"
   - category: "admin-dashboards"
     title: "Admin Dashboards"
     subtitle: "Admin frontend frameworks, dashboards and templates."
@@ -253,7 +259,7 @@ projects:
     npm_id: "rsuite-table"
     category: "data-tables"
   - name: react-virtualized
-    github_id: vaughn/react-virtualized
+    github_id: bvaughn/react-virtualized
     npm_id: "react-virtualized"
     demo_url: https://bvaughn.github.io/react-virtualized/#/components/List
     category: "data-tables"
@@ -379,7 +385,7 @@ projects:
     github_id: infinitered/reactotron
     category: "dev-tools"
   - name: docz
-    github_id: doczjs/docz
+    github_id: pedronauck/docz
     npm_id: docz
     category: "dev-tools"
   - name: Storybook
@@ -425,7 +431,7 @@ projects:
     demo_url: https://react-material-dashboard.devias.io/app/dashboard
     category: "admin-dashboards"
   - name: Remotion
-    github_id: JonnyBurger/remotion
+    github_id: remotion-dev/remotion
   - name: React-Move
     github_id: sghall/react-move
     npm_id: react-move
@@ -487,3 +493,335 @@ projects:
     npm_id: "rebass"
     demo_url: https://codesandbox.io/s/github/rebassjs/rebass/tree/master/examples/sandbox
     category: "ui-frameworks"
+  - name: coreui-free-bootstrap-admin-template
+    github_id: coreui/coreui-free-bootstrap-admin-template
+    category: admin-dashboards
+  - name: matx-react
+    github_id: uilibrary/matx-react
+    category: admin-dashboards
+  - name: umi
+    github_id: umijs/umi
+    category: cms-frameworks
+    npm_id: umi
+  - name: react-query
+    github_id: tannerlinsley/react-query
+    category: data-fetching
+    npm_id: react-query
+  - name: swr
+    github_id: vercel/swr
+    category: data-fetching
+    npm_id: swr
+  - name: relay
+    github_id: facebook/relay
+    category: data-fetching
+    npm_id: relay
+  - name: react-refetch
+    github_id: heroku/react-refetch
+    category: data-fetching
+    npm_id: react-refetch
+  - name: restful-react
+    github_id: contiamo/restful-react
+    category: data-fetching
+    npm_id: restful-react
+  - name: react-table
+    github_id: tannerlinsley/react-table
+    category: data-tables
+    npm_id: react-table
+  - name: glide-data-grid
+    github_id: glideapps/glide-data-grid
+    category: data-tables
+    npm_id: '@glideapps/glide-data-grid'
+  - name: react-diagrams
+    github_id: projectstorm/react-diagrams
+    category: data-viz
+    npm_id: '@projectstorm/react-diagrams'
+  - name: GGEditor
+    github_id: alibaba/GGEditor
+    category: data-viz
+    npm_id: gg-editor
+  - name: Drawflow
+    github_id: jerosoler/Drawflow
+    category: data-viz
+    npm_id: drawflow
+  - name: ant-design-charts
+    github_id: ant-design/ant-design-charts
+    category: data-viz
+    labels: ["ant-design"]
+    npm_id: '@ant-design/charts'
+  - name: elastic-charts
+    github_id: elastic/elastic-charts
+    category: data-viz
+    npm_id: '@elastic/charts'
+  - name: esbuild
+    github_id: evanw/esbuild
+    category: dev-tools
+    npm_id: esbuild
+  - name: why-did-you-render
+    github_id: welldone-software/why-did-you-render
+    category: dev-tools
+    npm_id: why-did-you-render
+  - name: ncc
+    github_id: vercel/ncc
+    category: dev-tools
+    npm_id: '@vercel/ncc'
+  - name: tinymce
+    github_id: tinymce/tinymce
+    category: editors
+    npm_id: tinymce
+  - name: react-draft-wysiwyg
+    github_id: jpuri/react-draft-wysiwyg
+    category: editors
+    npm_id: react-draft-wysiwyg
+  - name: react-quill
+    github_id: zenoamaro/react-quill
+    category: editors
+    npm_id: react-quill
+  - name: react-rte
+    github_id: sstur/react-rte
+    category: editors
+    npm_id: react-rte
+  - name: react-digraph
+    github_id: uber/react-digraph
+    category: editors
+    npm_id: react-digraph
+  - name: codejar
+    github_id: antonmedv/codejar
+    category: editors
+    npm_id: codejar
+  - name: react-lz-editor
+    github_id: leejaen/react-lz-editor
+    category: editors
+    npm_id: react-lz-editor
+  - name: CodeFlask
+    github_id: kazzkiq/CodeFlask
+    category: editors
+    npm_id: codeflask
+  - name: react-simple-code-editor
+    github_id: satya164/react-simple-code-editor
+    category: editors
+    npm_id: react-simple-code-editor
+  - name: react-design-editor
+    github_id: salgum1114/react-design-editor
+    category: editors
+    npm_id: react-design-editor
+  - name: react-markdown-editor-lite
+    github_id: HarryChen0506/react-markdown-editor-lite
+    category: editors
+    npm_id: react-markdown-editor-lite
+  - name: uppy
+    github_id: transloadit/uppy
+    category: file-handling
+    npm_id: uppy
+  - name: atomic-layout
+    github_id: kettanaito/atomic-layout
+    category: layout
+    npm_id: atomic-layout
+  - name: blitz
+    github_id: blitz-js/blitz
+    category: cms-frameworks
+    npm_id: blitz
+  - name: react-beautiful-dnd
+    github_id: atlassian/react-beautiful-dnd
+    category: other-components
+    npm_id: react-beautiful-dnd
+  - name: sweetalert2
+    github_id: sweetalert2/sweetalert2
+    category: other-components
+    npm_id: sweetalert2
+  - name: react-slick
+    github_id: akiran/react-slick
+    category: other-components
+    npm_id: react-slick
+  - name: muuri
+    github_id: haltu/muuri
+    category: other-components
+    npm_id: muuri
+  - name: searchkit
+    github_id: searchkit/searchkit
+    category: other-components
+    npm_id: searchkit
+  - name: dnd-kit
+    github_id: clauderic/dnd-kit
+    category: other-components
+    npm_id: '@dnd-kit/core'
+  - name: react-avatar-editor
+    github_id: mosch/react-avatar-editor
+    category: other-components
+    npm_id: react-avatar-editor
+  - name: react-copy-to-clipboard
+    github_id: nkbt/react-copy-to-clipboard
+    category: other-components
+    npm_id: react-copy-to-clipboard
+  - name: fullcalendar-react
+    github_id: fullcalendar/fullcalendar-react
+    category: other-components
+    npm_id: '@fullcalendar/react'
+  - name: react-nice-avatar
+    github_id: chilllab/react-nice-avatar
+    category: other-components
+    npm_id: react-nice-avatar
+  - name: preact
+    github_id: preactjs/preact
+    category: others
+    npm_id: preact
+  - name: react-use
+    github_id: streamich/react-use
+    category: others
+    npm_id: react-use
+  - name: react-hook-form
+    github_id: react-hook-form/react-hook-form
+    category: others
+    npm_id: react-hook-form
+  - name: sql.js
+    github_id: sql-js/sql.js
+    category: others
+    npm_id: sql.js
+  - name: mozaik
+    github_id: plouc/mozaik
+    category: others
+  - name: datav
+    github_id: datav-io/datav
+    category: others
+  - name: iconify
+    github_id: iconify/iconify
+    category: others
+    npm_id: iconify
+  - name: localForage
+    github_id: localForage/localForage
+    category: state-management
+    npm_id: localforage
+  - name: zustand
+    github_id: pmndrs/zustand
+    category: state-management
+    npm_id: zustand
+  - name: redux-toolkit
+    github_id: reduxjs/redux-toolkit
+    category: state-management
+    npm_id: redux-toolkit
+  - name: twin.macro
+    github_id: ben-rogerson/twin.macro
+    category: styling
+    npm_id: twin.macro
+  - name: styletron
+    github_id: styletron/styletron
+    category: styling
+    npm_id: styletron
+  - name: jest
+    github_id: facebook/jest
+    category: testing
+    npm_id: jest
+  - name: cypress
+    github_id: cypress-io/cypress
+    category: testing
+    npm_id: cypress
+  - name: enzyme
+    github_id: enzymejs/enzyme
+    category: testing
+    npm_id: enzyme
+  - name: react-testing-library
+    github_id: testing-library/react-testing-library
+    category: testing
+    npm_id: react-testing-library
+  - name: Semantic-UI
+    github_id: Semantic-Org/Semantic-UI
+    category: ui-frameworks
+    npm_id: semantic-ui
+  - name: bulma
+    github_id: jgthms/bulma
+    category: ui-frameworks
+    npm_id: bulma
+  - name: tabler
+    github_id: tabler/tabler
+    category: ui-frameworks
+    labels: ["bootstrap"]
+    npm_id: tabler
+  - name: chakra-ui
+    github_id: chakra-ui/chakra-ui
+    category: ui-frameworks
+    npm_id: chakra-ui
+  - name: editor.js
+    github_id: codex-team/editor.js
+    category: editors
+    npm_id: '@editorjs/editorjs'
+  - name: fluentui
+    github_id: microsoft/fluentui
+    category: ui-frameworks
+    license: MIT
+    npm_id: "@fluentui/react"
+  - name: headlessui
+    github_id: tailwindlabs/headlessui
+    category: ui-frameworks
+    npm_id: headlessui
+  - name: baseweb
+    github_id: uber/baseweb
+    category: ui-frameworks
+    npm_id: baseui
+  - name: carbon
+    github_id: carbon-design-system/carbon
+    category: ui-frameworks
+    npm_id: carbon-components-react
+  - name: polaris-react
+    github_id: Shopify/polaris-react
+    category: ui-frameworks
+    license: MIT
+    npm_id: '@shopify/polaris'
+  - name: theme-ui
+    github_id: system-ui/theme-ui
+    category: ui-frameworks
+    npm_id: theme-ui
+  - name: eui
+    github_id: elastic/eui
+    category: ui-frameworks
+    npm_id: '@elastic/eui'
+  - name: primereact
+    github_id: primefaces/primereact
+    category: ui-frameworks
+    npm_id: primereact
+  - name: tabler-react
+    github_id: tabler/tabler-react
+    category: ui-frameworks
+    npm_id: tabler-react
+  - name: components
+    github_id: primer/components
+    category: ui-frameworks
+    npm_id: '@primer/components'
+  - name: atomize
+    github_id: proksh/atomize
+    category: ui-frameworks
+    npm_id: atomize
+  - name: shards-react
+    github_id: designrevision/shards-react
+    category: ui-frameworks
+    npm_id: shards-react
+  - name: Supabase UI
+    github_id: supabase/ui
+    category: ui-frameworks
+    npm_id: '@supabase/ui'
+  - name: dashboard-ui-kit
+    github_id: march08/dashboard-ui-kit
+    category: ui-frameworks
+    npm_id: '@duik/it'
+  - name: axios
+    github_id: axios/axios
+    category: utils
+    npm_id: axios
+  - name: lodash
+    github_id: lodash/lodash
+    category: utils
+    npm_id: lodash
+  - name: winston
+    github_id: winstonjs/winston
+    category: utils
+    npm_id: winston
+  - name: i18next
+    github_id: i18next/i18next
+    category: utils
+    npm_id: i18next
+  - name: log4js-node
+    github_id: log4js-node/log4js-node
+    category: utils
+    npm_id: log4js
+  - name: loglevel
+    github_id: pimterry/loglevel
+    category: utils
+    npm_id: loglevel
