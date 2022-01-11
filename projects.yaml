@@ -898,3 +898,223 @@ projects:
   - name: Remotion
     github_id: remotion-dev/remotion
     npm_id: '@remotion/renderer'
+  - name: plain-free-bootstrap-admin-template
+    github_id: PlainAdmin/plain-free-bootstrap-admin-template
+    category: admin-dashboards
+  - name: cube.js
+    github_id: cube-js/cube.js
+    category: cms-frameworks
+    npm_id: '@cubejs-backend/api-gateway'
+  - name: redwood
+    github_id: redwoodjs/redwood
+    category: cms-frameworks
+    npm_id: '@redwoodjs/core'
+  - name: unstorage
+    github_id: unjs/unstorage
+    category: data-fetching
+    npm_id: unstorage
+  - name: mleibman/SlickGrid
+    github_id: mleibman/SlickGrid
+    category: data-tables
+    npm_id: slickgrid
+  - name: jsgrid
+    github_id: tabalinas/jsgrid
+    category: data-tables
+    maven_id: org.webjars.bower:js-grid
+    npm_id: jsgrid
+  - name: material-ui-x
+    github_id: mui-org/material-ui-x
+    category: data-tables
+    labels: ["material-ui"]
+    npm_id: '@material-ui/data-grid'
+  - name: react-bootstrap-table2
+    github_id: react-bootstrap-table/react-bootstrap-table2
+    category: data-tables
+    labels: ["bootstrap"]
+    maven_id: org.webjars.npm:react-bootstrap-table2-filter
+    npm_id: react-bootstrap-table2-paginator
+  - name: jtable
+    github_id: volosoft/jtable
+    category: data-tables
+    npm_id: jtable
+  - name: fixed-data-table-2
+    github_id: schrodinger/fixed-data-table-2
+    category: data-tables
+    npm_id: fixed-data-table-2
+  - name: jspreadsheet
+    github_id: jspreadsheet/ce
+    category: data-tables
+    npm_id: jexcel
+  - name: tabulator
+    github_id: olifolkerd/tabulator
+    category: data-tables
+    maven_id: org.webjars.npm:tabulator-tables
+    npm_id: tabulator-tables
+  - name: SlickGrid
+    github_id: 6pac/SlickGrid
+    category: data-tables
+    maven_id: org.webjars.npm:slickgrid
+    npm_id: slickgrid
+  - name: gridjs
+    github_id: grid-js/gridjs
+    category: data-tables
+    npm_id: gridjs
+  - name: jqGrid
+    github_id: tonytomov/jqGrid
+    category: data-tables
+    maven_id: org.webjars.bower:jqgrid
+  - name: react-base-table
+    github_id: Autodesk/react-base-table
+    category: data-tables
+    npm_id: react-base-table
+  - name: datatable
+    github_id: frappe/datatable
+    category: data-tables
+    npm_id: frappe-datatable
+  - name: grid
+    github_id: paramquery/grid
+    category: data-tables
+    npm_id: "
+  - name: ka-table
+    github_id: komarovalexander/ka-table
+    category: data-tables
+    npm_id: ka-table
+  - name: react-smart-data-table
+    github_id: joaocarmo/react-smart-data-table
+    category: data-tables
+    npm_id: react-smart-data-table
+  - name: FancyGrid
+    github_id: FancyGrid/FancyGrid
+    category: data-tables
+    npm_id: fancygrid
+  - name: editablegrid
+    github_id: webismymind/editablegrid
+    category: data-tables
+  - name: flat-ui
+    github_id: githubocto/flat-ui
+    category: data-tables
+    npm_id: '@githubocto/flat-ui'
+  - name: editable-react-table
+    github_id: archit-p/editable-react-table
+    category: data-tables
+  - name: Chart.js
+    github_id: chartjs/Chart.js
+    category: data-viz
+    maven_id: org.webjars.npm:chart.js
+    npm_id: chart.js
+    pypi_id: XStatic-Chart.js
+  - name: d3
+    github_id: d3/d3
+    category: data-viz
+    npm_id: d3
+  - name: echarts
+    github_id: apache/echarts
+    category: data-viz
+    maven_id: org.webjars.npm:echarts
+    npm_id: '@mempool/echarts'
+  - name: three.js
+    github_id: mrdoob/three.js
+    category: data-viz
+    maven_id: org.webjars.npm:three
+    npm_id: three
+  - name: mermaid
+    github_id: mermaid-js/mermaid
+    category: data-viz
+    maven_id: org.webjars.npm:mermaid
+    npm_id: mermaid
+  - name: apexcharts.js
+    github_id: apexcharts/apexcharts.js
+    category: data-viz
+    maven_id: org.webjars.npm:apexcharts
+    npm_id: apexcharts
+  - name: charts
+    github_id: frappe/charts
+    category: data-viz
+    maven_id: org.webjars.npm:frappe-charts
+    npm_id: frappe-charts
+  - name: cal-heatmap
+    github_id: wa0x6e/cal-heatmap
+    category: data-viz
+    npm_id: cal-heatmap
+  - name: carbon-charts
+    github_id: carbon-design-system/carbon-charts
+    category: data-viz
+    maven_id: org.webjars.npm:carbon__charts
+    npm_id: '@carbon/charts'
+  - name: parcel
+    github_id: parcel-bundler/parcel
+    category: dev-tools
+    npm_id: parcel
+    conda_id: conda-forge/parceljs
+  - name: vite
+    github_id: vitejs/vite
+    category: dev-tools
+    npm_id: vite
+  - name: yarn
+    github_id: yarnpkg/berry
+    category: dev-tools
+    npm_id: '@yarnpkg/pnpify'
+  - name: jodit
+    github_id: xdan/jodit
+    category: editors
+    maven_id: org.webjars.npm:jodit
+    npm_id: jodit
+  - name: prosemirror
+    github_id: ProseMirror/prosemirror
+    category: editors
+    maven_id: org.webjars.npm:prosemirror
+    npm_id: prosemirror
+  - name: react-day-picker
+    github_id: gpbl/react-day-picker
+    category: other-components
+    maven_id: org.webjars.npm:react-day-picker
+    npm_id: react-day-picker
+  - name: DevExtreme
+    github_id: DevExpress/DevExtreme
+    category: other-components
+    npm_id: devextreme
+  - name: react-contenteditable
+    github_id: lovasoa/react-contenteditable
+    category: other-components
+    maven_id: org.webjars.bowergithub.lovasoa:react-contenteditable
+    npm_id: react-contenteditable
+  - name: formik
+    github_id: jaredpalmer/formik
+    category: others
+    npm_id: formik
+  - name: FluidFramework
+    github_id: microsoft/FluidFramework
+    category: others
+    npm_id: '@fluidframework/eslint-config-fluid'
+  - name: bulletproof-react
+    github_id: alan2207/bulletproof-react
+    category: others
+  - name: liveblocks
+    github_id: liveblocks/liveblocks
+    category: others
+    npm_id: '@liveblocks/react'
+  - name: react-redux
+    github_id: reduxjs/react-redux
+    category: state-management
+    maven_id: org.webjars.npm:react-redux
+    npm_id: react-redux
+  - name: history
+    github_id: remix-run/history
+    category: state-management
+    maven_id: org.webjars.npm:history
+    npm_id: history
+  - name: polished
+    github_id: styled-components/polished
+    category: styling
+    maven_id: org.webjars.npm:polished
+    npm_id: polished
+  - name: date-fns
+    github_id: date-fns/date-fns
+    category: utils
+    maven_id: org.webjars.npm:date-fns
+    npm_id: date-fns
+  - name: yup
+    github_id: jquense/yup
+    category: utils
+    maven_id: org.webjars.npm:yup
+    npm_id: yup
