@@ -974,7 +974,6 @@ projects:
   - name: grid
     github_id: paramquery/grid
     category: data-tables
-    npm_id: "
   - name: ka-table
     github_id: komarovalexander/ka-table
     category: data-tables
