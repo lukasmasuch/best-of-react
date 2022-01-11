@@ -64,838 +64,838 @@ labels:
     description: "Projects related to Bootstrap UI Framework."
 
 projects:
-- name: React Admin
-  github_id: marmelab/react-admin
-  npm_id: react-admin
-  labels: ["material-ui"]
-  category: admin-dashboards
-  maven_id: org.webjars.npm:ra-language-english
-  demo_url: https://marmelab.com/react-admin-demo/
-- name: React Material Admin
-  github_id: flatlogic/react-material-admin
-  labels: ["material-ui"]
-  category: admin-dashboards
-  demo_url: https://flatlogic.com/templates/react-material-admin/demo
-- name: React Dashboard
-  github_id: flatlogic/react-dashboard
-  labels: ["bootstrap"]
-  category: admin-dashboards
-  demo_url: https://flatlogic.com/templates/react-dashboard/demo
-- name: Material Kit React
-  github_id: devias-io/material-kit-react
-  labels: ["material-ui"]
-  category: admin-dashboards
-- name: Volt React Dashboard
-  github_id: themesberg/volt-react-dashboard
-  npm_id: '@themesberg/volt-react-dashboard'
-  labels: ["bootstrap"]
-  category: admin-dashboards
-  demo_url: https://demo.themesberg.com/volt-react-dashboard/
-- name: Ant Design Pro
-  github_id: ant-design/ant-design-pro
-  npm_id: ant-design-pro
-  labels: ["ant-design"]
-  category: admin-dashboards
-  demo_url: https://preview.pro.ant.design/
-- name: React SaaS Template
-  github_id: dunky11/react-saas-template
-  category: admin-dashboards
-  demo_url: https://reactsaastemplate.com/
-- name: Notus React
-  github_id: creativetimofficial/notus-react
-  npm_id: notus-react
-  category: admin-dashboards
-  demo_url: https://demos.creative-tim.com/notus-react/
-- name: coreui-free-bootstrap-admin-template
-  github_id: coreui/coreui-free-bootstrap-admin-template
-  npm_id: '@coreui/ajax'
-  category: admin-dashboards
-  maven_id: org.webjars.npm:coreui__ajax
-- name: matx-react
-  github_id: uilibrary/matx-react
-  category: admin-dashboards
-- name: React-Move
-  github_id: sghall/react-move
-  npm_id: react-move
-  category: animations
-  maven_id: org.webjars.npm:github-com-tannerlinsley-react-move
-  demo_url: https://react-move-docs.netlify.app/#/demos/node-group
-- name: Gatsby
-  github_id: gatsbyjs/gatsby
-  npm_id: gatsby
-  category: cms-frameworks
-  demo_url: https://www.gatsbyjs.com/showcase/
-- name: Next.js
-  github_id: vercel/next.js
-  npm_id: next
-  category: cms-frameworks
-  demo_url: https://nextjs.org/showcase
-  pypi_id: EmeaTigMal
-- name: umi
-  github_id: umijs/umi
-  npm_id: umi
-  category: cms-frameworks
-- name: blitz
-  github_id: blitz-js/blitz
-  npm_id: blitz
-  category: cms-frameworks
-- name: react-query
-  github_id: tannerlinsley/react-query
-  npm_id: react-query
-  category: data-fetching
-- name: swr
-  github_id: vercel/swr
-  npm_id: swr
-  category: data-fetching
-  maven_id: org.webjars.npm:swr
-- name: relay
-  github_id: facebook/relay
-  npm_id: relay
-  category: data-fetching
-- name: react-refetch
-  github_id: heroku/react-refetch
-  npm_id: react-refetch
-  category: data-fetching
-- name: restful-react
-  github_id: contiamo/restful-react
-  npm_id: restful-react
-  category: data-fetching
-- name: MUI-Datatables
-  github_id: gregnb/mui-datatables
-  npm_id: mui-datatables
-  labels: ["material-ui"]
-  category: data-tables
-- name: material-table
-  github_id: mbrn/material-table
-  npm_id: material-table
-  labels: ["material-ui"]
-  category: data-tables
-- name: RevoGrid
-  github_id: revolist/revogrid
-  npm_id: '@revolist/revogrid'
-  category: data-tables
-- name: react-data-grid
-  github_id: adazzle/react-data-grid
-  npm_id: react-data-grid
-  category: data-tables
-  maven_id: org.webjars.npm:react-data-grid
-- name: React-Datasheet
-  github_id: nadbm/react-datasheet
-  npm_id: react-datasheet
-  category: data-tables
-- name: ag-Grid
-  github_id: ag-grid/ag-grid
-  npm_id: ag-grid-community
-  category: data-tables
-  maven_id: org.webjars.npm:ag-grid-community__csv-export
-- name: React Data Table
-  github_id: jbetancur/react-data-table-component
-  npm_id: react-data-table-component
-  category: data-tables
-  demo_url: https://jbetancur.github.io/react-data-table-component/
-- name: Handsontable
-  github_id: handsontable/handsontable
-  npm_id: handsontable
-  category: data-tables
-  maven_id: org.webjars.npm:handsontable
-  demo_url: https://handsontable.com/examples
-  nuget_id: Handsontable
-- name: reactdatagrid
-  github_id: inovua/reactdatagrid
-  npm_id: '@inovua/reactdatagrid-community'
-  category: data-tables
-  demo_url: https://reactdatagrid.io/demo
-- name: React Spreadsheet
-  github_id: iddan/react-spreadsheet
-  npm_id: react-spreadsheet
-  category: data-tables
-  demo_url: https://iddan.github.io/react-spreadsheet
-- name: ReactPivot
-  github_id: davidguttman/react-pivot
-  npm_id: react-pivot
-  category: data-tables
-  demo_url: http://davidguttman.github.io/react-pivot/
-- name: react-pivottable
-  github_id: plotly/react-pivottable
-  npm_id: react-pivottable
-  category: data-tables
-  demo_url: https://react-pivottable.js.org/
-- name: rsuite-table
-  github_id: rsuite/rsuite-table
-  npm_id: rsuite-table
-  category: data-tables
-- name: react-virtualized
-  github_id: bvaughn/react-virtualized
-  npm_id: react-virtualized
-  category: data-tables
-  maven_id: org.webjars.npm:react-virtualized
-  demo_url: https://bvaughn.github.io/react-virtualized/#/components/List
-- name: Perspective
-  github_id: finos/perspective
-  npm_id: '@finos/perspective'
-  category: data-tables
-  demo_url: https://perspective.finos.org/
-  pypi_id: perspective-python
-  conda_id: conda-forge/perspective
-- name: orb
-  github_id: nnajm/orb
-  npm_id: orb
-  category: data-tables
-  demo_url: https://nnajm.github.io/orb/
-  nuget_id: orb
-- name: react-table
-  github_id: tannerlinsley/react-table
-  npm_id: react-table
-  category: data-tables
-  maven_id: org.webjars.npm:react-table
-- name: glide-data-grid
-  github_id: glideapps/glide-data-grid
-  npm_id: '@glideapps/glide-data-grid'
-  category: data-tables
-- name: Recharts
-  github_id: recharts/recharts
-  npm_id: recharts
-  category: data-viz
-  maven_id: org.webjars.npm:recharts
-  demo_url: http://recharts.org/en-US/examples
-- name: Viser
-  github_id: viserjs/viser
-  npm_id: viser-react
-  category: data-viz
-  demo_url: https://viserjs.github.io/demoHome.html
-- name: react-vis
-  github_id: uber/react-vis
-  npm_id: react-vis
-  category: data-viz
-  maven_id: cljsjs:react-vis
-  demo_url: http://uber.github.io/react-vis/examples/showcases/
-- name: Victory
-  github_id: FormidableLabs/victory
-  npm_id: victory
-  category: data-viz
-  maven_id: org.webjars.npm:victory
-  demo_url: https://formidable.com/open-source/victory/gallery/
-- name: BizCharts
-  github_id: alibaba/BizCharts
-  npm_id: bizcharts
-  category: data-viz
-- name: Reaviz
-  github_id: reaviz/reaviz
-  npm_id: reaviz
-  category: data-viz
-- name: nivo
-  github_id: plouc/nivo
-  npm_id: '@nivo/core'
-  category: data-viz
-  demo_url: https://nivo.rocks/components/
-- name: Semiotic
-  github_id: nteract/semiotic
-  npm_id: semiotic
-  category: data-viz
-  demo_url: https://semiotic.nteract.io/examples
-- name: React ApexCharts
-  github_id: apexcharts/react-apexcharts
-  npm_id: react-apexcharts
-  category: data-viz
-  demo_url: https://apexcharts.com/react-chart-demos/
-- name: React Chartjs 2
-  github_id: reactchartjs/react-chartjs-2
-  npm_id: react-chartjs-2
-  category: data-viz
-  maven_id: org.webjars.npm:react-chartjs-2
-  demo_url: https://reactchartjs.github.io/react-chartjs-2/
-- name: visx
-  github_id: airbnb/visx
-  npm_id: '@visx/group'
-  category: data-viz
-  demo_url: https://airbnb.io/visx/gallery
-- name: react-diagrams
-  github_id: projectstorm/react-diagrams
-  npm_id: '@projectstorm/react-diagrams'
-  category: data-viz
-  maven_id: org.webjars.npm:storm-react-diagrams
-- name: GGEditor
-  github_id: alibaba/GGEditor
-  npm_id: gg-editor
-  category: data-viz
-- name: Drawflow
-  github_id: jerosoler/Drawflow
-  npm_id: drawflow
-  category: data-viz
-- name: ant-design-charts
-  github_id: ant-design/ant-design-charts
-  npm_id: '@ant-design/charts'
-  labels: ["ant-design"]
-  category: data-viz
-- name: elastic-charts
-  github_id: elastic/elastic-charts
-  npm_id: '@elastic/charts'
-  category: data-viz
-- name: Tauri
-  github_id: tauri-apps/tauri
-  npm_id: tauri
-  category: desktop-apps
-  cargo_id: tauri-utils
-- name: Electron
-  github_id: electron/electron
-  npm_id: electron
-  category: desktop-apps
-- name: Bit
-  github_id: teambit/bit
-  npm_id: bit-bin
-  category: dev-tools
-  description: Build, distribute, and collaborate on components.
-- name: Webpack
-  github_id: webpack/webpack
-  npm_id: webpack
-  category: dev-tools
-  maven_id: org.webjars.npm:webpack
-- name: Reactotron
-  github_id: infinitered/reactotron
-  npm_id: reactotron
-  category: dev-tools
-- name: docz
-  github_id: doczjs/docz
-  npm_id: docz
-  category: dev-tools
-- name: Storybook
-  github_id: storybookjs/storybook
-  npm_id: '@storybook/react'
-  category: dev-tools
-- name: Storybook Addon Material-UI
-  github_id: react-theming/storybook-addon-material-ui
-  npm_id: storybook-addon-material-ui
-  labels: ["material-ui"]
-  category: dev-tools
-- name: Luna
-  github_id: rvpanoz/luna
-  category: dev-tools
-- name: lerna
-  github_id: lerna/lerna
-  npm_id: lerna
-  category: dev-tools
-- name: Material-UI Theme Creator
-  github_id: bareynol/mui-theme-creator
-  labels: ["material-ui"]
-  category: dev-tools
-  demo_url: https://bareynol.github.io/mui-theme-creator/
-- name: esbuild
-  github_id: evanw/esbuild
-  npm_id: esbuild
-  category: dev-tools
-  go_id: github.com/evanw/esbuild
-- name: why-did-you-render
-  github_id: welldone-software/why-did-you-render
-  npm_id: why-did-you-render
-  category: dev-tools
-- name: ncc
-  github_id: vercel/ncc
-  npm_id: '@vercel/ncc'
-  category: dev-tools
-  brew_id: ncc
-- name: Monaco React
-  github_id: suren-atoyan/monaco-react
-  npm_id: '@monaco-editor/react'
-  category: editors
-  demo_url: https://monaco-react.surenatoyan.com/
-- name: Monaco Yaml
-  github_id: remcohaszing/monaco-yaml
-  npm_id: monaco-yaml
-  category: editors
-- name: React Ace
-  github_id: securingsincity/react-ace
-  npm_id: react-ace
-  category: editors
-  maven_id: org.webjars.npm:react-ace
-  demo_url: https://securingsincity.github.io/react-ace/
-- name: Draft JS
-  github_id: facebook/draft-js
-  npm_id: draft-js
-  category: editors
-  maven_id: org.webjars.npm:draft-js
-- name: ReactPage
-  github_id: react-page/react-page
-  npm_id: '@react-page/editor'
-  category: editors
-- name: React Email Editor
-  github_id: unlayer/react-email-editor
-  npm_id: react-email-editor
-  category: editors
-  demo_url: https://react-email-editor-demo.netlify.app/
-- name: react-monaco-editor
-  github_id: react-monaco-editor/react-monaco-editor
-  npm_id: react-monaco-editor
-  category: editors
-- name: react-mde
-  github_id: andrerpena/react-mde
-  npm_id: react-mde
-  category: editors
-  demo_url: http://andrerpena.me/react-mde/
-- name: Slate
-  github_id: ianstormtaylor/slate
-  npm_id: slate
-  category: editors
-  demo_url: https://www.slatejs.org/examples/richtext
-- name: tinymce
-  github_id: tinymce/tinymce
-  npm_id: tinymce
-  category: editors
-  maven_id: org.webjars.npm:tinymce
-- name: react-draft-wysiwyg
-  github_id: jpuri/react-draft-wysiwyg
-  npm_id: react-draft-wysiwyg
-  category: editors
-- name: react-quill
-  github_id: zenoamaro/react-quill
-  npm_id: react-quill
-  category: editors
-- name: react-rte
-  github_id: sstur/react-rte
-  npm_id: react-rte
-  category: editors
-  maven_id: org.webjars.npm:github-com-sstur-react-rte
-- name: react-digraph
-  github_id: uber/react-digraph
-  npm_id: react-digraph
-  category: editors
-- name: codejar
-  github_id: antonmedv/codejar
-  npm_id: codejar
-  category: editors
-- name: react-lz-editor
-  github_id: leejaen/react-lz-editor
-  npm_id: react-lz-editor
-  category: editors
-- name: CodeFlask
-  github_id: kazzkiq/CodeFlask
-  npm_id: codeflask
-  category: editors
-- name: react-simple-code-editor
-  github_id: satya164/react-simple-code-editor
-  npm_id: react-simple-code-editor
-  category: editors
-  maven_id: org.webjars.npm:react-simple-code-editor
-- name: react-design-editor
-  github_id: salgum1114/react-design-editor
-  npm_id: react-design-editor
-  category: editors
-- name: react-markdown-editor-lite
-  github_id: HarryChen0506/react-markdown-editor-lite
-  npm_id: react-markdown-editor-lite
-  category: editors
-- name: editor.js
-  github_id: codex-team/editor.js
-  npm_id: '@editorjs/editorjs'
-  category: editors
-  maven_id: org.webjars.npm:editorjs__editorjs
-- name: react-csv
-  github_id: react-csv/react-csv
-  npm_id: react-csv
-  category: file-handling
-- name: SheetJS
-  github_id: SheetJS/sheetjs
-  npm_id: xlsx
-  category: file-handling
-  maven_id: org.webjars.bower:js-xlsx
-- name: React-Data-Export
-  github_id: securedeveloper/react-data-export
-  npm_id: react-data-export
-  category: file-handling
-- name: react-json-view
-  github_id: mac-s-g/react-json-view
-  npm_id: react-json-view
-  category: file-handling
-  maven_id: org.webjars.npm:react-json-view
-  demo_url: https://mac-s-g.github.io/react-json-view/demo/dist/
-- name: react-file-viewer
-  github_id: plangrid/react-file-viewer
-  npm_id: react-file-viewer
-  category: file-handling
-- name: React FilePond
-  github_id: pqina/react-filepond
-  npm_id: react-filepond
-  category: file-handling
-  demo_url: https://codesandbox.io/s/react-filepond-live-demo-iw9ri
-- name: React Dropzone
-  github_id: react-dropzone/react-dropzone
-  npm_id: react-dropzone
-  category: file-handling
-  maven_id: org.webjars.npm:react-dropzone
-  demo_url: https://react-dropzone.js.org/#section-basic-example
-- name: material-ui-dropzone
-  github_id: Yuvaleros/material-ui-dropzone
-  npm_id: material-ui-dropzone
-  labels: ["material-ui"]
-  category: file-handling
-  demo_url: https://yuvaleros.github.io/material-ui-dropzone/
-- name: uppy
-  github_id: transloadit/uppy
-  npm_id: uppy
-  category: file-handling
-  maven_id: org.webjars.npm:uppy__provider-views
-- name: atomic-layout
-  github_id: kettanaito/atomic-layout
-  npm_id: atomic-layout
-  category: layout
-- name: Notistack
-  github_id: iamhosseindhv/notistack
-  npm_id: notistack
-  labels: ["material-ui"]
-  category: notifications
-  demo_url: https://iamhosseindhv.com/notistack/demos
-- name: React Hot Toast
-  github_id: timolins/react-hot-toast
-  npm_id: react-hot-toast
-  category: notifications
-  demo_url: https://react-hot-toast.com/
-- name: React-Toastify
-  github_id: fkhadra/react-toastify
-  npm_id: react-toastify
-  category: notifications
-  demo_url: https://fkhadra.github.io/react-toastify/introduction/
-- name: Material-UI Treasury
-  github_id: siriwatknp/mui-treasury
-  npm_id: '@mui-treasury/components'
-  labels: ["material-ui"]
-  category: other-components
-  demo_url: https://mui-treasury.com/components/
-- name: React Lazylog
-  github_id: mozilla-frontend-infra/react-lazylog
-  npm_id: react-lazylog
-  category: other-components
-  demo_url: https://mozilla-frontend-infra.github.io/react-lazylog/#lazylog
-- name: React Flow
-  github_id: wbkd/react-flow
-  npm_id: react-flow-renderer
-  category: other-components
-  demo_url: https://reactflow.dev/examples/
-- name: React Flow Chart
-  github_id: MrBlenny/react-flow-chart
-  npm_id: '@mrblenny/react-flow-chart'
-  category: other-components
-  demo_url: https://mrblenny.github.io/react-flow-chart/index.html?path=/story/state--internal-react-state
-- name: React Ansi
-  github_id: RaoHai/react-ansi
-  npm_id: react-ansi
-  category: other-components
-- name: material-ui-chip-input
-  github_id: TeamWertarbyte/material-ui-chip-input
-  npm_id: material-ui-chip-input
-  labels: ["material-ui"]
-  category: other-components
-  maven_id: org.webjars.npm:material-ui-chip-input
-  demo_url: https://mui.wertarbyte.com/#material-ui-chip-input
-- name: react-sortable-tree
-  github_id: frontend-collective/react-sortable-tree
-  npm_id: react-sortable-tree
-  category: other-components
-  maven_id: org.webjars.npm:react-sortable-tree
-  demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
-- name: Reactive Search
-  github_id: appbaseio/reactivesearch
-  npm_id: '@appbaseio/reactivesearch'
-  category: other-components
-  demo_url: https://opensource.appbase.io/reactivesearch/#examples
-- name: react-beautiful-dnd
-  github_id: atlassian/react-beautiful-dnd
-  npm_id: react-beautiful-dnd
-  category: other-components
-  maven_id: org.webjars.npm:react-beautiful-dnd
-- name: sweetalert2
-  github_id: sweetalert2/sweetalert2
-  npm_id: sweetalert2
-  category: other-components
-  maven_id: org.webjars.bower:sweetalert2
-  nuget_id: JSoftCR_SweetAlert
-- name: react-slick
-  github_id: akiran/react-slick
-  npm_id: react-slick
-  category: other-components
-- name: muuri
-  github_id: haltu/muuri
-  npm_id: muuri
-  category: other-components
-  maven_id: org.webjars.npm:muuri
-- name: searchkit
-  github_id: searchkit/searchkit
-  npm_id: searchkit
-  category: other-components
-- name: dnd-kit
-  github_id: clauderic/dnd-kit
-  npm_id: '@dnd-kit/core'
-  category: other-components
-- name: react-avatar-editor
-  github_id: mosch/react-avatar-editor
-  npm_id: react-avatar-editor
-  category: other-components
-  maven_id: org.webjars.npm:react-avatar-editor
-- name: react-copy-to-clipboard
-  github_id: nkbt/react-copy-to-clipboard
-  npm_id: react-copy-to-clipboard
-  category: other-components
-  maven_id: org.webjars.npm:react-copy-to-clipboard
-- name: fullcalendar-react
-  github_id: fullcalendar/fullcalendar-react
-  npm_id: '@fullcalendar/react'
-  category: other-components
-- name: react-nice-avatar
-  github_id: dapilab/react-nice-avatar
-  npm_id: react-nice-avatar
-  category: other-components
-- name: preact
-  github_id: preactjs/preact
-  npm_id: preact
-  category: others
-  maven_id: org.webjars.npm:preact
-- name: react-use
-  github_id: streamich/react-use
-  npm_id: react-use
-  category: others
-  maven_id: org.webjars.npm:react-use
-- name: react-hook-form
-  github_id: react-hook-form/react-hook-form
-  npm_id: react-hook-form
-  category: others
-- name: sql.js
-  github_id: sql-js/sql.js
-  npm_id: sql.js
-  category: others
-- name: mozaik
-  github_id: plouc/mozaik
-  npm_id: mozaik
-  category: others
-- name: datav
-  github_id: sunface/datav
-  category: others
-- name: iconify
-  github_id: iconify/iconify
-  npm_id: iconify
-  category: others
-- name: Unstated Next
-  github_id: jamiebuilds/unstated-next
-  npm_id: unstated-next
-  category: state-management
-- name: localForage
-  github_id: localForage/localForage
-  npm_id: localforage
-  category: state-management
-  maven_id: org.webjars.npm:localforage
-  nuget_id: localForage
-- name: zustand
-  github_id: pmndrs/zustand
-  npm_id: zustand
-  category: state-management
-- name: redux-toolkit
-  github_id: reduxjs/redux-toolkit
-  npm_id: redux-toolkit
-  category: state-management
-  maven_id: org.webjars.npm:reduxjs__toolkit
-- name: Styled Components
-  github_id: styled-components/styled-components
-  npm_id: styled-components
-  category: styling
-  maven_id: org.webjars.npm:styled-components
-- name: Tailewind CSS
-  github_id: tailwindlabs/tailwindcss
-  npm_id: tailwindcss
-  category: styling
-  maven_id: org.webjars.npm:tailwindcss
-- name: emotion
-  github_id: emotion-js/emotion
-  npm_id: '@emotion/react'
-  category: styling
-  maven_id: org.webjars.npm:emotion__core
-- name: twin.macro
-  github_id: ben-rogerson/twin.macro
-  npm_id: twin.macro
-  category: styling
-- name: styletron
-  github_id: styletron/styletron
-  npm_id: styletron
-  category: styling
-- name: jest
-  github_id: facebook/jest
-  npm_id: jest
-  category: testing
-- name: cypress
-  github_id: cypress-io/cypress
-  npm_id: cypress
-  category: testing
-- name: enzyme
-  github_id: enzymejs/enzyme
-  npm_id: enzyme
-  category: testing
-  maven_id: cljsjs:enzyme
-- name: react-testing-library
-  github_id: testing-library/react-testing-library
-  npm_id: react-testing-library
-  category: testing
-- name: Material-UI
-  github_id: mui-org/material-ui
-  npm_id: '@material-ui/core'
-  labels: ["material-ui"]
-  category: ui-frameworks
-  maven_id: org.webjars.npm:material-ui__styles
-- name: Ant Design
-  github_id: ant-design/ant-design
-  npm_id: antd
-  labels: ["ant-design"]
-  category: ui-frameworks
-  maven_id: org.webjars.npm:antd
-- name: React Suite
-  github_id: rsuite/rsuite
-  npm_id: rsuite
-  category: ui-frameworks
-  demo_url: https://rsuitejs.com/components/overview/
-- name: Bootstrap React
-  github_id: react-bootstrap/react-bootstrap
-  npm_id: react-bootstrap
-  labels: ["bootstrap"]
-  category: ui-frameworks
-  maven_id: org.webjars.npm:react-bootstrap
-- name: Radix Primitives
-  github_id: radix-ui/primitives
-  npm_id: '@radix-ui/utils'
-  category: ui-frameworks
-- name: Evergreen
-  github_id: segmentio/evergreen
-  npm_id: evergreen-ui
-  category: ui-frameworks
-  maven_id: org.webjars.npm:github-com-segmentio-evergreen
-- name: Blueprint
-  github_id: palantir/blueprint
-  npm_id: '@blueprintjs/core'
-  category: ui-frameworks
-  maven_id: org.webjars.npm:blueprintjs__datetime
-  demo_url: https://blueprintjs.com/docs/
-- name: Semantic UI React
-  github_id: Semantic-Org/Semantic-UI-React
-  npm_id: semantic-ui-react
-  category: ui-frameworks
-  maven_id: org.webjars.npm:semantic-ui-react
-  demo_url: https://react.semantic-ui.com/elements/button/
-- name: Grommet
-  github_id: grommet/grommet
-  npm_id: grommet
-  category: ui-frameworks
-  maven_id: org.webjars.npm:grommet
-  demo_url: https://v2.grommet.io/components
-- name: Rebass
-  github_id: rebassjs/rebass
-  npm_id: rebass
-  category: ui-frameworks
-  maven_id: org.webjars.npm:rebass
-  demo_url: https://codesandbox.io/s/github/rebassjs/rebass/tree/master/examples/sandbox
-- name: Semantic-UI
-  github_id: Semantic-Org/Semantic-UI
-  npm_id: semantic-ui
-  category: ui-frameworks
-  maven_id: org.webjars.bower:github-com-Semantic-Org-Semantic-UI
-- name: bulma
-  github_id: jgthms/bulma
-  npm_id: bulma
-  category: ui-frameworks
-  maven_id: org.webjars.npm:bulma
-- name: tabler
-  github_id: tabler/tabler
-  npm_id: tabler
-  labels: ["bootstrap"]
-  category: ui-frameworks
-  maven_id: org.webjars.npm:tabler
-- name: chakra-ui
-  github_id: chakra-ui/chakra-ui
-  npm_id: chakra-ui
-  category: ui-frameworks
-- name: fluentui
-  github_id: microsoft/fluentui
-  npm_id: '@fluentui/react'
-  category: ui-frameworks
-  license: MIT
-- name: headlessui
-  github_id: tailwindlabs/headlessui
-  npm_id: headlessui
-  category: ui-frameworks
-- name: baseweb
-  github_id: uber/baseweb
-  npm_id: baseui
-  category: ui-frameworks
-- name: carbon
-  github_id: carbon-design-system/carbon
-  npm_id: carbon-components-react
-  category: ui-frameworks
-  maven_id: org.webjars.npm:carbon-components-react
-- name: polaris-react
-  github_id: Shopify/polaris-react
-  npm_id: '@shopify/polaris'
-  category: ui-frameworks
-  maven_id: org.webjars.npm:shopify__polaris
-  license: MIT
-- name: theme-ui
-  github_id: system-ui/theme-ui
-  npm_id: theme-ui
-  category: ui-frameworks
-- name: eui
-  github_id: elastic/eui
-  npm_id: '@elastic/eui'
-  category: ui-frameworks
-  maven_id: org.webjars.npm:elastic__eui
-- name: primereact
-  github_id: primefaces/primereact
-  npm_id: primereact
-  category: ui-frameworks
-  maven_id: org.webjars.npm:primereact
-- name: tabler-react
-  github_id: tabler/tabler-react
-  npm_id: tabler-react
-  category: ui-frameworks
-- name: components
-  github_id: primer/react
-  npm_id: '@primer/components'
-  category: ui-frameworks
-- name: atomize
-  github_id: proksh/atomize
-  npm_id: atomize
-  category: ui-frameworks
-- name: shards-react
-  github_id: designrevision/shards-react
-  npm_id: shards-react
-  category: ui-frameworks
-- name: Supabase UI
-  github_id: supabase/ui
-  npm_id: '@supabase/ui'
-  category: ui-frameworks
-- name: dashboard-ui-kit
-  github_id: march08/dashboard-ui-kit
-  npm_id: '@duik/it'
-  category: ui-frameworks
-- name: axios
-  github_id: axios/axios
-  npm_id: axios
-  category: utils
-  nuget_id: axios.js
-- name: lodash
-  github_id: lodash/lodash
-  npm_id: lodash
-  category: utils
-  maven_id: org.webjars.npm:lodash.uniqby
-- name: winston
-  github_id: winstonjs/winston
-  npm_id: winston
-  category: utils
-  maven_id: org.webjars.npm:winston
-- name: i18next
-  github_id: i18next/i18next
-  npm_id: i18next
-  category: utils
-- name: log4js-node
-  github_id: log4js-node/log4js-node
-  npm_id: log4js
-  category: utils
-  maven_id: org.webjars.npm:log4js
-- name: loglevel
-  github_id: pimterry/loglevel
-  npm_id: loglevel
-  category: utils
-- name: Remotion
-  github_id: remotion-dev/remotion
-  npm_id: '@remotion/renderer'
+  - name: React Admin
+    github_id: marmelab/react-admin
+    npm_id: react-admin
+    labels: ["material-ui"]
+    category: admin-dashboards
+    maven_id: org.webjars.npm:ra-language-english
+    demo_url: https://marmelab.com/react-admin-demo/
+  - name: React Material Admin
+    github_id: flatlogic/react-material-admin
+    labels: ["material-ui"]
+    category: admin-dashboards
+    demo_url: https://flatlogic.com/templates/react-material-admin/demo
+  - name: React Dashboard
+    github_id: flatlogic/react-dashboard
+    labels: ["bootstrap"]
+    category: admin-dashboards
+    demo_url: https://flatlogic.com/templates/react-dashboard/demo
+  - name: Material Kit React
+    github_id: devias-io/material-kit-react
+    labels: ["material-ui"]
+    category: admin-dashboards
+  - name: Volt React Dashboard
+    github_id: themesberg/volt-react-dashboard
+    npm_id: '@themesberg/volt-react-dashboard'
+    labels: ["bootstrap"]
+    category: admin-dashboards
+    demo_url: https://demo.themesberg.com/volt-react-dashboard/
+  - name: Ant Design Pro
+    github_id: ant-design/ant-design-pro
+    npm_id: ant-design-pro
+    labels: ["ant-design"]
+    category: admin-dashboards
+    demo_url: https://preview.pro.ant.design/
+  - name: React SaaS Template
+    github_id: dunky11/react-saas-template
+    category: admin-dashboards
+    demo_url: https://reactsaastemplate.com/
+  - name: Notus React
+    github_id: creativetimofficial/notus-react
+    npm_id: notus-react
+    category: admin-dashboards
+    demo_url: https://demos.creative-tim.com/notus-react/
+  - name: coreui-free-bootstrap-admin-template
+    github_id: coreui/coreui-free-bootstrap-admin-template
+    npm_id: '@coreui/ajax'
+    category: admin-dashboards
+    maven_id: org.webjars.npm:coreui__ajax
+  - name: matx-react
+    github_id: uilibrary/matx-react
+    category: admin-dashboards
+  - name: React-Move
+    github_id: sghall/react-move
+    npm_id: react-move
+    category: animations
+    maven_id: org.webjars.npm:github-com-tannerlinsley-react-move
+    demo_url: https://react-move-docs.netlify.app/#/demos/node-group
+  - name: Gatsby
+    github_id: gatsbyjs/gatsby
+    npm_id: gatsby
+    category: cms-frameworks
+    demo_url: https://www.gatsbyjs.com/showcase/
+  - name: Next.js
+    github_id: vercel/next.js
+    npm_id: next
+    category: cms-frameworks
+    demo_url: https://nextjs.org/showcase
+    pypi_id: EmeaTigMal
+  - name: umi
+    github_id: umijs/umi
+    npm_id: umi
+    category: cms-frameworks
+  - name: blitz
+    github_id: blitz-js/blitz
+    npm_id: blitz
+    category: cms-frameworks
+  - name: react-query
+    github_id: tannerlinsley/react-query
+    npm_id: react-query
+    category: data-fetching
+  - name: swr
+    github_id: vercel/swr
+    npm_id: swr
+    category: data-fetching
+    maven_id: org.webjars.npm:swr
+  - name: relay
+    github_id: facebook/relay
+    npm_id: relay
+    category: data-fetching
+  - name: react-refetch
+    github_id: heroku/react-refetch
+    npm_id: react-refetch
+    category: data-fetching
+  - name: restful-react
+    github_id: contiamo/restful-react
+    npm_id: restful-react
+    category: data-fetching
+  - name: MUI-Datatables
+    github_id: gregnb/mui-datatables
+    npm_id: mui-datatables
+    labels: ["material-ui"]
+    category: data-tables
+  - name: material-table
+    github_id: mbrn/material-table
+    npm_id: material-table
+    labels: ["material-ui"]
+    category: data-tables
+  - name: RevoGrid
+    github_id: revolist/revogrid
+    npm_id: '@revolist/revogrid'
+    category: data-tables
+  - name: react-data-grid
+    github_id: adazzle/react-data-grid
+    npm_id: react-data-grid
+    category: data-tables
+    maven_id: org.webjars.npm:react-data-grid
+  - name: React-Datasheet
+    github_id: nadbm/react-datasheet
+    npm_id: react-datasheet
+    category: data-tables
+  - name: ag-Grid
+    github_id: ag-grid/ag-grid
+    npm_id: ag-grid-community
+    category: data-tables
+    maven_id: org.webjars.npm:ag-grid-community__csv-export
+  - name: React Data Table
+    github_id: jbetancur/react-data-table-component
+    npm_id: react-data-table-component
+    category: data-tables
+    demo_url: https://jbetancur.github.io/react-data-table-component/
+  - name: Handsontable
+    github_id: handsontable/handsontable
+    npm_id: handsontable
+    category: data-tables
+    maven_id: org.webjars.npm:handsontable
+    demo_url: https://handsontable.com/examples
+    nuget_id: Handsontable
+  - name: reactdatagrid
+    github_id: inovua/reactdatagrid
+    npm_id: '@inovua/reactdatagrid-community'
+    category: data-tables
+    demo_url: https://reactdatagrid.io/demo
+  - name: React Spreadsheet
+    github_id: iddan/react-spreadsheet
+    npm_id: react-spreadsheet
+    category: data-tables
+    demo_url: https://iddan.github.io/react-spreadsheet
+  - name: ReactPivot
+    github_id: davidguttman/react-pivot
+    npm_id: react-pivot
+    category: data-tables
+    demo_url: http://davidguttman.github.io/react-pivot/
+  - name: react-pivottable
+    github_id: plotly/react-pivottable
+    npm_id: react-pivottable
+    category: data-tables
+    demo_url: https://react-pivottable.js.org/
+  - name: rsuite-table
+    github_id: rsuite/rsuite-table
+    npm_id: rsuite-table
+    category: data-tables
+  - name: react-virtualized
+    github_id: bvaughn/react-virtualized
+    npm_id: react-virtualized
+    category: data-tables
+    maven_id: org.webjars.npm:react-virtualized
+    demo_url: https://bvaughn.github.io/react-virtualized/#/components/List
+  - name: Perspective
+    github_id: finos/perspective
+    npm_id: '@finos/perspective'
+    category: data-tables
+    demo_url: https://perspective.finos.org/
+    pypi_id: perspective-python
+    conda_id: conda-forge/perspective
+  - name: orb
+    github_id: nnajm/orb
+    npm_id: orb
+    category: data-tables
+    demo_url: https://nnajm.github.io/orb/
+    nuget_id: orb
+  - name: react-table
+    github_id: tannerlinsley/react-table
+    npm_id: react-table
+    category: data-tables
+    maven_id: org.webjars.npm:react-table
+  - name: glide-data-grid
+    github_id: glideapps/glide-data-grid
+    npm_id: '@glideapps/glide-data-grid'
+    category: data-tables
+  - name: Recharts
+    github_id: recharts/recharts
+    npm_id: recharts
+    category: data-viz
+    maven_id: org.webjars.npm:recharts
+    demo_url: http://recharts.org/en-US/examples
+  - name: Viser
+    github_id: viserjs/viser
+    npm_id: viser-react
+    category: data-viz
+    demo_url: https://viserjs.github.io/demoHome.html
+  - name: react-vis
+    github_id: uber/react-vis
+    npm_id: react-vis
+    category: data-viz
+    maven_id: cljsjs:react-vis
+    demo_url: http://uber.github.io/react-vis/examples/showcases/
+  - name: Victory
+    github_id: FormidableLabs/victory
+    npm_id: victory
+    category: data-viz
+    maven_id: org.webjars.npm:victory
+    demo_url: https://formidable.com/open-source/victory/gallery/
+  - name: BizCharts
+    github_id: alibaba/BizCharts
+    npm_id: bizcharts
+    category: data-viz
+  - name: Reaviz
+    github_id: reaviz/reaviz
+    npm_id: reaviz
+    category: data-viz
+  - name: nivo
+    github_id: plouc/nivo
+    npm_id: '@nivo/core'
+    category: data-viz
+    demo_url: https://nivo.rocks/components/
+  - name: Semiotic
+    github_id: nteract/semiotic
+    npm_id: semiotic
+    category: data-viz
+    demo_url: https://semiotic.nteract.io/examples
+  - name: React ApexCharts
+    github_id: apexcharts/react-apexcharts
+    npm_id: react-apexcharts
+    category: data-viz
+    demo_url: https://apexcharts.com/react-chart-demos/
+  - name: React Chartjs 2
+    github_id: reactchartjs/react-chartjs-2
+    npm_id: react-chartjs-2
+    category: data-viz
+    maven_id: org.webjars.npm:react-chartjs-2
+    demo_url: https://reactchartjs.github.io/react-chartjs-2/
+  - name: visx
+    github_id: airbnb/visx
+    npm_id: '@visx/group'
+    category: data-viz
+    demo_url: https://airbnb.io/visx/gallery
+  - name: react-diagrams
+    github_id: projectstorm/react-diagrams
+    npm_id: '@projectstorm/react-diagrams'
+    category: data-viz
+    maven_id: org.webjars.npm:storm-react-diagrams
+  - name: GGEditor
+    github_id: alibaba/GGEditor
+    npm_id: gg-editor
+    category: data-viz
+  - name: Drawflow
+    github_id: jerosoler/Drawflow
+    npm_id: drawflow
+    category: data-viz
+  - name: ant-design-charts
+    github_id: ant-design/ant-design-charts
+    npm_id: '@ant-design/charts'
+    labels: ["ant-design"]
+    category: data-viz
+  - name: elastic-charts
+    github_id: elastic/elastic-charts
+    npm_id: '@elastic/charts'
+    category: data-viz
+  - name: Tauri
+    github_id: tauri-apps/tauri
+    npm_id: tauri
+    category: desktop-apps
+    cargo_id: tauri-utils
+  - name: Electron
+    github_id: electron/electron
+    npm_id: electron
+    category: desktop-apps
+  - name: Bit
+    github_id: teambit/bit
+    npm_id: bit-bin
+    category: dev-tools
+    description: Build, distribute, and collaborate on components.
+  - name: Webpack
+    github_id: webpack/webpack
+    npm_id: webpack
+    category: dev-tools
+    maven_id: org.webjars.npm:webpack
+  - name: Reactotron
+    github_id: infinitered/reactotron
+    npm_id: reactotron
+    category: dev-tools
+  - name: docz
+    github_id: doczjs/docz
+    npm_id: docz
+    category: dev-tools
+  - name: Storybook
+    github_id: storybookjs/storybook
+    npm_id: '@storybook/react'
+    category: dev-tools
+  - name: Storybook Addon Material-UI
+    github_id: react-theming/storybook-addon-material-ui
+    npm_id: storybook-addon-material-ui
+    labels: ["material-ui"]
+    category: dev-tools
+  - name: Luna
+    github_id: rvpanoz/luna
+    category: dev-tools
+  - name: lerna
+    github_id: lerna/lerna
+    npm_id: lerna
+    category: dev-tools
+  - name: Material-UI Theme Creator
+    github_id: bareynol/mui-theme-creator
+    labels: ["material-ui"]
+    category: dev-tools
+    demo_url: https://bareynol.github.io/mui-theme-creator/
+  - name: esbuild
+    github_id: evanw/esbuild
+    npm_id: esbuild
+    category: dev-tools
+    go_id: github.com/evanw/esbuild
+  - name: why-did-you-render
+    github_id: welldone-software/why-did-you-render
+    npm_id: why-did-you-render
+    category: dev-tools
+  - name: ncc
+    github_id: vercel/ncc
+    npm_id: '@vercel/ncc'
+    category: dev-tools
+    brew_id: ncc
+  - name: Monaco React
+    github_id: suren-atoyan/monaco-react
+    npm_id: '@monaco-editor/react'
+    category: editors
+    demo_url: https://monaco-react.surenatoyan.com/
+  - name: Monaco Yaml
+    github_id: remcohaszing/monaco-yaml
+    npm_id: monaco-yaml
+    category: editors
+  - name: React Ace
+    github_id: securingsincity/react-ace
+    npm_id: react-ace
+    category: editors
+    maven_id: org.webjars.npm:react-ace
+    demo_url: https://securingsincity.github.io/react-ace/
+  - name: Draft JS
+    github_id: facebook/draft-js
+    npm_id: draft-js
+    category: editors
+    maven_id: org.webjars.npm:draft-js
+  - name: ReactPage
+    github_id: react-page/react-page
+    npm_id: '@react-page/editor'
+    category: editors
+  - name: React Email Editor
+    github_id: unlayer/react-email-editor
+    npm_id: react-email-editor
+    category: editors
+    demo_url: https://react-email-editor-demo.netlify.app/
+  - name: react-monaco-editor
+    github_id: react-monaco-editor/react-monaco-editor
+    npm_id: react-monaco-editor
+    category: editors
+  - name: react-mde
+    github_id: andrerpena/react-mde
+    npm_id: react-mde
+    category: editors
+    demo_url: http://andrerpena.me/react-mde/
+  - name: Slate
+    github_id: ianstormtaylor/slate
+    npm_id: slate
+    category: editors
+    demo_url: https://www.slatejs.org/examples/richtext
+  - name: tinymce
+    github_id: tinymce/tinymce
+    npm_id: tinymce
+    category: editors
+    maven_id: org.webjars.npm:tinymce
+  - name: react-draft-wysiwyg
+    github_id: jpuri/react-draft-wysiwyg
+    npm_id: react-draft-wysiwyg
+    category: editors
+  - name: react-quill
+    github_id: zenoamaro/react-quill
+    npm_id: react-quill
+    category: editors
+  - name: react-rte
+    github_id: sstur/react-rte
+    npm_id: react-rte
+    category: editors
+    maven_id: org.webjars.npm:github-com-sstur-react-rte
+  - name: react-digraph
+    github_id: uber/react-digraph
+    npm_id: react-digraph
+    category: editors
+  - name: codejar
+    github_id: antonmedv/codejar
+    npm_id: codejar
+    category: editors
+  - name: react-lz-editor
+    github_id: leejaen/react-lz-editor
+    npm_id: react-lz-editor
+    category: editors
+  - name: CodeFlask
+    github_id: kazzkiq/CodeFlask
+    npm_id: codeflask
+    category: editors
+  - name: react-simple-code-editor
+    github_id: satya164/react-simple-code-editor
+    npm_id: react-simple-code-editor
+    category: editors
+    maven_id: org.webjars.npm:react-simple-code-editor
+  - name: react-design-editor
+    github_id: salgum1114/react-design-editor
+    npm_id: react-design-editor
+    category: editors
+  - name: react-markdown-editor-lite
+    github_id: HarryChen0506/react-markdown-editor-lite
+    npm_id: react-markdown-editor-lite
+    category: editors
+  - name: editor.js
+    github_id: codex-team/editor.js
+    npm_id: '@editorjs/editorjs'
+    category: editors
+    maven_id: org.webjars.npm:editorjs__editorjs
+  - name: react-csv
+    github_id: react-csv/react-csv
+    npm_id: react-csv
+    category: file-handling
+  - name: SheetJS
+    github_id: SheetJS/sheetjs
+    npm_id: xlsx
+    category: file-handling
+    maven_id: org.webjars.bower:js-xlsx
+  - name: React-Data-Export
+    github_id: securedeveloper/react-data-export
+    npm_id: react-data-export
+    category: file-handling
+  - name: react-json-view
+    github_id: mac-s-g/react-json-view
+    npm_id: react-json-view
+    category: file-handling
+    maven_id: org.webjars.npm:react-json-view
+    demo_url: https://mac-s-g.github.io/react-json-view/demo/dist/
+  - name: react-file-viewer
+    github_id: plangrid/react-file-viewer
+    npm_id: react-file-viewer
+    category: file-handling
+  - name: React FilePond
+    github_id: pqina/react-filepond
+    npm_id: react-filepond
+    category: file-handling
+    demo_url: https://codesandbox.io/s/react-filepond-live-demo-iw9ri
+  - name: React Dropzone
+    github_id: react-dropzone/react-dropzone
+    npm_id: react-dropzone
+    category: file-handling
+    maven_id: org.webjars.npm:react-dropzone
+    demo_url: https://react-dropzone.js.org/#section-basic-example
+  - name: material-ui-dropzone
+    github_id: Yuvaleros/material-ui-dropzone
+    npm_id: material-ui-dropzone
+    labels: ["material-ui"]
+    category: file-handling
+    demo_url: https://yuvaleros.github.io/material-ui-dropzone/
+  - name: uppy
+    github_id: transloadit/uppy
+    npm_id: uppy
+    category: file-handling
+    maven_id: org.webjars.npm:uppy__provider-views
+  - name: atomic-layout
+    github_id: kettanaito/atomic-layout
+    npm_id: atomic-layout
+    category: layout
+  - name: Notistack
+    github_id: iamhosseindhv/notistack
+    npm_id: notistack
+    labels: ["material-ui"]
+    category: notifications
+    demo_url: https://iamhosseindhv.com/notistack/demos
+  - name: React Hot Toast
+    github_id: timolins/react-hot-toast
+    npm_id: react-hot-toast
+    category: notifications
+    demo_url: https://react-hot-toast.com/
+  - name: React-Toastify
+    github_id: fkhadra/react-toastify
+    npm_id: react-toastify
+    category: notifications
+    demo_url: https://fkhadra.github.io/react-toastify/introduction/
+  - name: Material-UI Treasury
+    github_id: siriwatknp/mui-treasury
+    npm_id: '@mui-treasury/components'
+    labels: ["material-ui"]
+    category: other-components
+    demo_url: https://mui-treasury.com/components/
+  - name: React Lazylog
+    github_id: mozilla-frontend-infra/react-lazylog
+    npm_id: react-lazylog
+    category: other-components
+    demo_url: https://mozilla-frontend-infra.github.io/react-lazylog/#lazylog
+  - name: React Flow
+    github_id: wbkd/react-flow
+    npm_id: react-flow-renderer
+    category: other-components
+    demo_url: https://reactflow.dev/examples/
+  - name: React Flow Chart
+    github_id: MrBlenny/react-flow-chart
+    npm_id: '@mrblenny/react-flow-chart'
+    category: other-components
+    demo_url: https://mrblenny.github.io/react-flow-chart/index.html?path=/story/state--internal-react-state
+  - name: React Ansi
+    github_id: RaoHai/react-ansi
+    npm_id: react-ansi
+    category: other-components
+  - name: material-ui-chip-input
+    github_id: TeamWertarbyte/material-ui-chip-input
+    npm_id: material-ui-chip-input
+    labels: ["material-ui"]
+    category: other-components
+    maven_id: org.webjars.npm:material-ui-chip-input
+    demo_url: https://mui.wertarbyte.com/#material-ui-chip-input
+  - name: react-sortable-tree
+    github_id: frontend-collective/react-sortable-tree
+    npm_id: react-sortable-tree
+    category: other-components
+    maven_id: org.webjars.npm:react-sortable-tree
+    demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
+  - name: Reactive Search
+    github_id: appbaseio/reactivesearch
+    npm_id: '@appbaseio/reactivesearch'
+    category: other-components
+    demo_url: https://opensource.appbase.io/reactivesearch/#examples
+  - name: react-beautiful-dnd
+    github_id: atlassian/react-beautiful-dnd
+    npm_id: react-beautiful-dnd
+    category: other-components
+    maven_id: org.webjars.npm:react-beautiful-dnd
+  - name: sweetalert2
+    github_id: sweetalert2/sweetalert2
+    npm_id: sweetalert2
+    category: other-components
+    maven_id: org.webjars.bower:sweetalert2
+    nuget_id: JSoftCR_SweetAlert
+  - name: react-slick
+    github_id: akiran/react-slick
+    npm_id: react-slick
+    category: other-components
+  - name: muuri
+    github_id: haltu/muuri
+    npm_id: muuri
+    category: other-components
+    maven_id: org.webjars.npm:muuri
+  - name: searchkit
+    github_id: searchkit/searchkit
+    npm_id: searchkit
+    category: other-components
+  - name: dnd-kit
+    github_id: clauderic/dnd-kit
+    npm_id: '@dnd-kit/core'
+    category: other-components
+  - name: react-avatar-editor
+    github_id: mosch/react-avatar-editor
+    npm_id: react-avatar-editor
+    category: other-components
+    maven_id: org.webjars.npm:react-avatar-editor
+  - name: react-copy-to-clipboard
+    github_id: nkbt/react-copy-to-clipboard
+    npm_id: react-copy-to-clipboard
+    category: other-components
+    maven_id: org.webjars.npm:react-copy-to-clipboard
+  - name: fullcalendar-react
+    github_id: fullcalendar/fullcalendar-react
+    npm_id: '@fullcalendar/react'
+    category: other-components
+  - name: react-nice-avatar
+    github_id: dapilab/react-nice-avatar
+    npm_id: react-nice-avatar
+    category: other-components
+  - name: preact
+    github_id: preactjs/preact
+    npm_id: preact
+    category: others
+    maven_id: org.webjars.npm:preact
+  - name: react-use
+    github_id: streamich/react-use
+    npm_id: react-use
+    category: others
+    maven_id: org.webjars.npm:react-use
+  - name: react-hook-form
+    github_id: react-hook-form/react-hook-form
+    npm_id: react-hook-form
+    category: others
+  - name: sql.js
+    github_id: sql-js/sql.js
+    npm_id: sql.js
+    category: others
+  - name: mozaik
+    github_id: plouc/mozaik
+    npm_id: mozaik
+    category: others
+  - name: datav
+    github_id: sunface/datav
+    category: others
+  - name: iconify
+    github_id: iconify/iconify
+    npm_id: iconify
+    category: others
+  - name: Unstated Next
+    github_id: jamiebuilds/unstated-next
+    npm_id: unstated-next
+    category: state-management
+  - name: localForage
+    github_id: localForage/localForage
+    npm_id: localforage
+    category: state-management
+    maven_id: org.webjars.npm:localforage
+    nuget_id: localForage
+  - name: zustand
+    github_id: pmndrs/zustand
+    npm_id: zustand
+    category: state-management
+  - name: redux-toolkit
+    github_id: reduxjs/redux-toolkit
+    npm_id: redux-toolkit
+    category: state-management
+    maven_id: org.webjars.npm:reduxjs__toolkit
+  - name: Styled Components
+    github_id: styled-components/styled-components
+    npm_id: styled-components
+    category: styling
+    maven_id: org.webjars.npm:styled-components
+  - name: Tailewind CSS
+    github_id: tailwindlabs/tailwindcss
+    npm_id: tailwindcss
+    category: styling
+    maven_id: org.webjars.npm:tailwindcss
+  - name: emotion
+    github_id: emotion-js/emotion
+    npm_id: '@emotion/react'
+    category: styling
+    maven_id: org.webjars.npm:emotion__core
+  - name: twin.macro
+    github_id: ben-rogerson/twin.macro
+    npm_id: twin.macro
+    category: styling
+  - name: styletron
+    github_id: styletron/styletron
+    npm_id: styletron
+    category: styling
+  - name: jest
+    github_id: facebook/jest
+    npm_id: jest
+    category: testing
+  - name: cypress
+    github_id: cypress-io/cypress
+    npm_id: cypress
+    category: testing
+  - name: enzyme
+    github_id: enzymejs/enzyme
+    npm_id: enzyme
+    category: testing
+    maven_id: cljsjs:enzyme
+  - name: react-testing-library
+    github_id: testing-library/react-testing-library
+    npm_id: react-testing-library
+    category: testing
+  - name: Material-UI
+    github_id: mui-org/material-ui
+    npm_id: '@material-ui/core'
+    labels: ["material-ui"]
+    category: ui-frameworks
+    maven_id: org.webjars.npm:material-ui__styles
+  - name: Ant Design
+    github_id: ant-design/ant-design
+    npm_id: antd
+    labels: ["ant-design"]
+    category: ui-frameworks
+    maven_id: org.webjars.npm:antd
+  - name: React Suite
+    github_id: rsuite/rsuite
+    npm_id: rsuite
+    category: ui-frameworks
+    demo_url: https://rsuitejs.com/components/overview/
+  - name: Bootstrap React
+    github_id: react-bootstrap/react-bootstrap
+    npm_id: react-bootstrap
+    labels: ["bootstrap"]
+    category: ui-frameworks
+    maven_id: org.webjars.npm:react-bootstrap
+  - name: Radix Primitives
+    github_id: radix-ui/primitives
+    npm_id: '@radix-ui/utils'
+    category: ui-frameworks
+  - name: Evergreen
+    github_id: segmentio/evergreen
+    npm_id: evergreen-ui
+    category: ui-frameworks
+    maven_id: org.webjars.npm:github-com-segmentio-evergreen
+  - name: Blueprint
+    github_id: palantir/blueprint
+    npm_id: '@blueprintjs/core'
+    category: ui-frameworks
+    maven_id: org.webjars.npm:blueprintjs__datetime
+    demo_url: https://blueprintjs.com/docs/
+  - name: Semantic UI React
+    github_id: Semantic-Org/Semantic-UI-React
+    npm_id: semantic-ui-react
+    category: ui-frameworks
+    maven_id: org.webjars.npm:semantic-ui-react
+    demo_url: https://react.semantic-ui.com/elements/button/
+  - name: Grommet
+    github_id: grommet/grommet
+    npm_id: grommet
+    category: ui-frameworks
+    maven_id: org.webjars.npm:grommet
+    demo_url: https://v2.grommet.io/components
+  - name: Rebass
+    github_id: rebassjs/rebass
+    npm_id: rebass
+    category: ui-frameworks
+    maven_id: org.webjars.npm:rebass
+    demo_url: https://codesandbox.io/s/github/rebassjs/rebass/tree/master/examples/sandbox
+  - name: Semantic-UI
+    github_id: Semantic-Org/Semantic-UI
+    npm_id: semantic-ui
+    category: ui-frameworks
+    maven_id: org.webjars.bower:github-com-Semantic-Org-Semantic-UI
+  - name: bulma
+    github_id: jgthms/bulma
+    npm_id: bulma
+    category: ui-frameworks
+    maven_id: org.webjars.npm:bulma
+  - name: tabler
+    github_id: tabler/tabler
+    npm_id: tabler
+    labels: ["bootstrap"]
+    category: ui-frameworks
+    maven_id: org.webjars.npm:tabler
+  - name: chakra-ui
+    github_id: chakra-ui/chakra-ui
+    npm_id: chakra-ui
+    category: ui-frameworks
+  - name: fluentui
+    github_id: microsoft/fluentui
+    npm_id: '@fluentui/react'
+    category: ui-frameworks
+    license: MIT
+  - name: headlessui
+    github_id: tailwindlabs/headlessui
+    npm_id: headlessui
+    category: ui-frameworks
+  - name: baseweb
+    github_id: uber/baseweb
+    npm_id: baseui
+    category: ui-frameworks
+  - name: carbon
+    github_id: carbon-design-system/carbon
+    npm_id: carbon-components-react
+    category: ui-frameworks
+    maven_id: org.webjars.npm:carbon-components-react
+  - name: polaris-react
+    github_id: Shopify/polaris-react
+    npm_id: '@shopify/polaris'
+    category: ui-frameworks
+    maven_id: org.webjars.npm:shopify__polaris
+    license: MIT
+  - name: theme-ui
+    github_id: system-ui/theme-ui
+    npm_id: theme-ui
+    category: ui-frameworks
+  - name: eui
+    github_id: elastic/eui
+    npm_id: '@elastic/eui'
+    category: ui-frameworks
+    maven_id: org.webjars.npm:elastic__eui
+  - name: primereact
+    github_id: primefaces/primereact
+    npm_id: primereact
+    category: ui-frameworks
+    maven_id: org.webjars.npm:primereact
+  - name: tabler-react
+    github_id: tabler/tabler-react
+    npm_id: tabler-react
+    category: ui-frameworks
+  - name: components
+    github_id: primer/react
+    npm_id: '@primer/components'
+    category: ui-frameworks
+  - name: atomize
+    github_id: proksh/atomize
+    npm_id: atomize
+    category: ui-frameworks
+  - name: shards-react
+    github_id: designrevision/shards-react
+    npm_id: shards-react
+    category: ui-frameworks
+  - name: Supabase UI
+    github_id: supabase/ui
+    npm_id: '@supabase/ui'
+    category: ui-frameworks
+  - name: dashboard-ui-kit
+    github_id: march08/dashboard-ui-kit
+    npm_id: '@duik/it'
+    category: ui-frameworks
+  - name: axios
+    github_id: axios/axios
+    npm_id: axios
+    category: utils
+    nuget_id: axios.js
+  - name: lodash
+    github_id: lodash/lodash
+    npm_id: lodash
+    category: utils
+    maven_id: org.webjars.npm:lodash.uniqby
+  - name: winston
+    github_id: winstonjs/winston
+    npm_id: winston
+    category: utils
+    maven_id: org.webjars.npm:winston
+  - name: i18next
+    github_id: i18next/i18next
+    npm_id: i18next
+    category: utils
+  - name: log4js-node
+    github_id: log4js-node/log4js-node
+    npm_id: log4js
+    category: utils
+    maven_id: org.webjars.npm:log4js
+  - name: loglevel
+    github_id: pimterry/loglevel
+    npm_id: loglevel
+    category: utils
+  - name: Remotion
+    github_id: remotion-dev/remotion
+    npm_id: '@remotion/renderer'
