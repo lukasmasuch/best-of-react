@@ -87,7 +87,7 @@ projects:
     category: admin-dashboards
   - name: Volt React Dashboard
     github_id: themesberg/volt-react-dashboard
-    npm_id: '@themesberg/volt-react-dashboard'
+    npm_id: "@themesberg/volt-react-dashboard"
     labels: ["bootstrap"]
     category: admin-dashboards
     demo_url: https://demo.themesberg.com/volt-react-dashboard/
@@ -108,7 +108,7 @@ projects:
     demo_url: https://demos.creative-tim.com/notus-react/
   - name: coreui-free-bootstrap-admin-template
     github_id: coreui/coreui-free-bootstrap-admin-template
-    npm_id: '@coreui/ajax'
+    npm_id: "@coreui/ajax"
     category: admin-dashboards
     maven_id: org.webjars.npm:coreui__ajax
   - name: matx-react
@@ -171,7 +171,7 @@ projects:
     category: data-tables
   - name: RevoGrid
     github_id: revolist/revogrid
-    npm_id: '@revolist/revogrid'
+    npm_id: "@revolist/revogrid"
     category: data-tables
   - name: react-data-grid
     github_id: adazzle/react-data-grid
@@ -201,7 +201,7 @@ projects:
     nuget_id: Handsontable
   - name: reactdatagrid
     github_id: inovua/reactdatagrid
-    npm_id: '@inovua/reactdatagrid-community'
+    npm_id: "@inovua/reactdatagrid-community"
     category: data-tables
     demo_url: https://reactdatagrid.io/demo
   - name: React Spreadsheet
@@ -231,7 +231,7 @@ projects:
     demo_url: https://bvaughn.github.io/react-virtualized/#/components/List
   - name: Perspective
     github_id: finos/perspective
-    npm_id: '@finos/perspective'
+    npm_id: "@finos/perspective"
     category: data-tables
     demo_url: https://perspective.finos.org/
     pypi_id: perspective-python
@@ -249,7 +249,7 @@ projects:
     maven_id: org.webjars.npm:react-table
   - name: glide-data-grid
     github_id: glideapps/glide-data-grid
-    npm_id: '@glideapps/glide-data-grid'
+    npm_id: "@glideapps/glide-data-grid"
     category: data-tables
   - name: Recharts
     github_id: recharts/recharts
@@ -284,7 +284,7 @@ projects:
     category: data-viz
   - name: nivo
     github_id: plouc/nivo
-    npm_id: '@nivo/core'
+    npm_id: "@nivo/core"
     category: data-viz
     demo_url: https://nivo.rocks/components/
   - name: Semiotic
@@ -305,12 +305,12 @@ projects:
     demo_url: https://reactchartjs.github.io/react-chartjs-2/
   - name: visx
     github_id: airbnb/visx
-    npm_id: '@visx/group'
+    npm_id: "@visx/group"
     category: data-viz
     demo_url: https://airbnb.io/visx/gallery
   - name: react-diagrams
     github_id: projectstorm/react-diagrams
-    npm_id: '@projectstorm/react-diagrams'
+    npm_id: "@projectstorm/react-diagrams"
     category: data-viz
     maven_id: org.webjars.npm:storm-react-diagrams
   - name: GGEditor
@@ -323,12 +323,12 @@ projects:
     category: data-viz
   - name: ant-design-charts
     github_id: ant-design/ant-design-charts
-    npm_id: '@ant-design/charts'
+    npm_id: "@ant-design/charts"
     labels: ["ant-design"]
     category: data-viz
   - name: elastic-charts
     github_id: elastic/elastic-charts
-    npm_id: '@elastic/charts'
+    npm_id: "@elastic/charts"
     category: data-viz
   - name: Tauri
     github_id: tauri-apps/tauri
@@ -359,7 +359,7 @@ projects:
     category: dev-tools
   - name: Storybook
     github_id: storybookjs/storybook
-    npm_id: '@storybook/react'
+    npm_id: "@storybook/react"
     category: dev-tools
   - name: Storybook Addon Material-UI
     github_id: react-theming/storybook-addon-material-ui
@@ -389,12 +389,12 @@ projects:
     category: dev-tools
   - name: ncc
     github_id: vercel/ncc
-    npm_id: '@vercel/ncc'
+    npm_id: "@vercel/ncc"
     category: dev-tools
     brew_id: ncc
   - name: Monaco React
     github_id: suren-atoyan/monaco-react
-    npm_id: '@monaco-editor/react'
+    npm_id: "@monaco-editor/react"
     category: editors
     demo_url: https://monaco-react.surenatoyan.com/
   - name: Monaco Yaml
@@ -414,7 +414,7 @@ projects:
     maven_id: org.webjars.npm:draft-js
   - name: ReactPage
     github_id: react-page/react-page
-    npm_id: '@react-page/editor'
+    npm_id: "@react-page/editor"
     category: editors
   - name: React Email Editor
     github_id: unlayer/react-email-editor
@@ -484,7 +484,7 @@ projects:
     category: editors
   - name: editor.js
     github_id: codex-team/editor.js
-    npm_id: '@editorjs/editorjs'
+    npm_id: "@editorjs/editorjs"
     category: editors
     maven_id: org.webjars.npm:editorjs__editorjs
   - name: react-csv
@@ -554,7 +554,7 @@ projects:
     demo_url: https://fkhadra.github.io/react-toastify/introduction/
   - name: Material-UI Treasury
     github_id: siriwatknp/mui-treasury
-    npm_id: '@mui-treasury/components'
+    npm_id: "@mui-treasury/components"
     labels: ["material-ui"]
     category: other-components
     demo_url: https://mui-treasury.com/components/
@@ -570,7 +570,7 @@ projects:
     demo_url: https://reactflow.dev/examples/
   - name: React Flow Chart
     github_id: MrBlenny/react-flow-chart
-    npm_id: '@mrblenny/react-flow-chart'
+    npm_id: "@mrblenny/react-flow-chart"
     category: other-components
     demo_url: https://mrblenny.github.io/react-flow-chart/index.html?path=/story/state--internal-react-state
   - name: React Ansi
@@ -592,7 +592,7 @@ projects:
     demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
   - name: Reactive Search
     github_id: appbaseio/reactivesearch
-    npm_id: '@appbaseio/reactivesearch'
+    npm_id: "@appbaseio/reactivesearch"
     category: other-components
     demo_url: https://opensource.appbase.io/reactivesearch/#examples
   - name: react-beautiful-dnd
@@ -621,7 +621,7 @@ projects:
     category: other-components
   - name: dnd-kit
     github_id: clauderic/dnd-kit
-    npm_id: '@dnd-kit/core'
+    npm_id: "@dnd-kit/core"
     category: other-components
   - name: react-avatar-editor
     github_id: mosch/react-avatar-editor
@@ -635,7 +635,7 @@ projects:
     maven_id: org.webjars.npm:react-copy-to-clipboard
   - name: fullcalendar-react
     github_id: fullcalendar/fullcalendar-react
-    npm_id: '@fullcalendar/react'
+    npm_id: "@fullcalendar/react"
     category: other-components
   - name: react-nice-avatar
     github_id: dapilab/react-nice-avatar
@@ -701,7 +701,7 @@ projects:
     maven_id: org.webjars.npm:tailwindcss
   - name: emotion
     github_id: emotion-js/emotion
-    npm_id: '@emotion/react'
+    npm_id: "@emotion/react"
     category: styling
     maven_id: org.webjars.npm:emotion__core
   - name: twin.macro
@@ -731,7 +731,7 @@ projects:
     category: testing
   - name: Material-UI
     github_id: mui-org/material-ui
-    npm_id: '@material-ui/core'
+    npm_id: "@material-ui/core"
     labels: ["material-ui"]
     category: ui-frameworks
     maven_id: org.webjars.npm:material-ui__styles
@@ -754,7 +754,7 @@ projects:
     maven_id: org.webjars.npm:react-bootstrap
   - name: Radix Primitives
     github_id: radix-ui/primitives
-    npm_id: '@radix-ui/utils'
+    npm_id: "@radix-ui/utils"
     category: ui-frameworks
   - name: Evergreen
     github_id: segmentio/evergreen
@@ -763,7 +763,7 @@ projects:
     maven_id: org.webjars.npm:github-com-segmentio-evergreen
   - name: Blueprint
     github_id: palantir/blueprint
-    npm_id: '@blueprintjs/core'
+    npm_id: "@blueprintjs/core"
     category: ui-frameworks
     maven_id: org.webjars.npm:blueprintjs__datetime
     demo_url: https://blueprintjs.com/docs/
@@ -807,7 +807,7 @@ projects:
     category: ui-frameworks
   - name: fluentui
     github_id: microsoft/fluentui
-    npm_id: '@fluentui/react'
+    npm_id: "@fluentui/react"
     category: ui-frameworks
     license: MIT
   - name: headlessui
@@ -825,7 +825,7 @@ projects:
     maven_id: org.webjars.npm:carbon-components-react
   - name: polaris-react
     github_id: Shopify/polaris-react
-    npm_id: '@shopify/polaris'
+    npm_id: "@shopify/polaris"
     category: ui-frameworks
     maven_id: org.webjars.npm:shopify__polaris
     license: MIT
@@ -835,7 +835,7 @@ projects:
     category: ui-frameworks
   - name: eui
     github_id: elastic/eui
-    npm_id: '@elastic/eui'
+    npm_id: "@elastic/eui"
     category: ui-frameworks
     maven_id: org.webjars.npm:elastic__eui
   - name: primereact
@@ -849,7 +849,7 @@ projects:
     category: ui-frameworks
   - name: components
     github_id: primer/react
-    npm_id: '@primer/components'
+    npm_id: "@primer/components"
     category: ui-frameworks
   - name: atomize
     github_id: proksh/atomize
@@ -861,11 +861,11 @@ projects:
     category: ui-frameworks
   - name: Supabase UI
     github_id: supabase/ui
-    npm_id: '@supabase/ui'
+    npm_id: "@supabase/ui"
     category: ui-frameworks
   - name: dashboard-ui-kit
     github_id: march08/dashboard-ui-kit
-    npm_id: '@duik/it'
+    npm_id: "@duik/it"
     category: ui-frameworks
   - name: axios
     github_id: axios/axios
@@ -897,18 +897,18 @@ projects:
     category: utils
   - name: Remotion
     github_id: remotion-dev/remotion
-    npm_id: '@remotion/renderer'
+    npm_id: "@remotion/renderer"
   - name: plain-free-bootstrap-admin-template
     github_id: PlainAdmin/plain-free-bootstrap-admin-template
     category: admin-dashboards
   - name: cube.js
     github_id: cube-js/cube.js
     category: cms-frameworks
-    npm_id: '@cubejs-backend/api-gateway'
+    npm_id: "@cubejs-backend/api-gateway"
   - name: redwood
     github_id: redwoodjs/redwood
     category: cms-frameworks
-    npm_id: '@redwoodjs/core'
+    npm_id: "@redwoodjs/core"
   - name: unstorage
     github_id: unjs/unstorage
     category: data-fetching
@@ -926,7 +926,7 @@ projects:
     github_id: mui-org/material-ui-x
     category: data-tables
     labels: ["material-ui"]
-    npm_id: '@material-ui/data-grid'
+    npm_id: "@material-ui/data-grid"
   - name: react-bootstrap-table2
     github_id: react-bootstrap-table/react-bootstrap-table2
     category: data-tables
@@ -992,7 +992,7 @@ projects:
   - name: flat-ui
     github_id: githubocto/flat-ui
     category: data-tables
-    npm_id: '@githubocto/flat-ui'
+    npm_id: "@githubocto/flat-ui"
   - name: editable-react-table
     github_id: archit-p/editable-react-table
     category: data-tables
@@ -1010,7 +1010,7 @@ projects:
     github_id: apache/echarts
     category: data-viz
     maven_id: org.webjars.npm:echarts
-    npm_id: '@mempool/echarts'
+    npm_id: "@mempool/echarts"
   - name: three.js
     github_id: mrdoob/three.js
     category: data-viz
@@ -1039,7 +1039,7 @@ projects:
     github_id: carbon-design-system/carbon-charts
     category: data-viz
     maven_id: org.webjars.npm:carbon__charts
-    npm_id: '@carbon/charts'
+    npm_id: "@carbon/charts"
   - name: parcel
     github_id: parcel-bundler/parcel
     category: dev-tools
@@ -1052,7 +1052,7 @@ projects:
   - name: yarn
     github_id: yarnpkg/berry
     category: dev-tools
-    npm_id: '@yarnpkg/pnpify'
+    npm_id: "@yarnpkg/pnpify"
   - name: jodit
     github_id: xdan/jodit
     category: editors
@@ -1084,14 +1084,14 @@ projects:
   - name: FluidFramework
     github_id: microsoft/FluidFramework
     category: others
-    npm_id: '@fluidframework/eslint-config-fluid'
+    npm_id: "@fluidframework/eslint-config-fluid"
   - name: bulletproof-react
     github_id: alan2207/bulletproof-react
     category: others
   - name: liveblocks
     github_id: liveblocks/liveblocks
     category: others
-    npm_id: '@liveblocks/react'
+    npm_id: "@liveblocks/react"
   - name: react-redux
     github_id: reduxjs/react-redux
     category: state-management
