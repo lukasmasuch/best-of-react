@@ -130,7 +130,6 @@ projects:
     npm_id: next
     category: cms-frameworks
     demo_url: https://nextjs.org/showcase
-    pypi_id: EmeaTigMal
   - name: umi
     github_id: umijs/umi
     npm_id: umi
