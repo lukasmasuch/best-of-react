@@ -1117,3 +1117,46 @@ projects:
     category: utils
     maven_id: org.webjars.npm:yup
     npm_id: yup
+  - name: chartify
+    github_id: kis/chartify
+    category: data-viz
+    npm_id: chartify
+  - name: ej2-react-ui-components
+    github_id: syncfusion/ej2-react-ui-components
+    category: data-viz
+    npm_id: '@syncfusion/ej2-react-base'
+  - name: react-chartist
+    github_id: fraserxu/react-chartist
+    category: data-viz
+    maven_id: org.webjars.npm:react-chartist
+    npm_id: react-chartist
+  - name: react-charty
+    github_id: 99ff00/react-charty
+    category: data-viz
+    npm_id: react-charty
+  - name: react-google-charts
+    github_id: RakanNimer/react-google-charts
+    category: data-viz
+    maven_id: org.webjars.npm:react-google-charts
+    npm_id: react-google-charts
+  - name: react-highcharts
+    github_id: kirjs/react-highcharts
+    category: data-viz
+    maven_id: org.webjars.npm:react-highcharts
+    npm_id: react-highcharts
+  - name: react-sigma
+    github_id: dunnock/react-sigma
+    category: data-viz
+    npm_id: react-sigma
+  - name: react-sparklines
+    github_id: borisyankov/react-sparklines
+    category: data-viz
+    npm_id: react-sparklines
+  - name: react-timeseries-charts
+    github_id: esnet/react-timeseries-charts
+    category: data-viz
+    npm_id: react-timeseries-charts
+  - name: rumble-charts
+    github_id: rumble-charts/rumble-charts
+    category: data-viz
+    npm_id: rumble-charts
