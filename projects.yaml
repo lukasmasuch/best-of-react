@@ -1608,3 +1608,20 @@ projects:
     category: ui-frameworks
     pypi_id: PDTest
     npm_id: '@douyinfe/semi-animation-react'
+  - name: jss
+    github_id: cssinjs/jss
+    category: styling
+    npm_id: react-jss
+    maven_id: org.webjars.npm:jss-plugin-camel-case
+  - name: linaria
+    github_id: callstack/linaria
+    category: styling
+    npm_id: linaria
+  - name: stitches
+    github_id: modulz/stitches
+    category: styling
+    npm_id: '@stitches/react'
+  - name: vanilla-extract
+    github_id: seek-oss/vanilla-extract
+    category: styling
+    npm_id: '@vanilla-extract/integration'
