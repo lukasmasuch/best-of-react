@@ -1803,3 +1803,55 @@ projects:
     github_id: ant-design/ant-design-mobile
     category: ui-frameworks
     npm_id: antd-mobile
+  - name: date-range-picker
+    github_id: almogtavor/date-range-picker
+    category: input-components
+    npm_id: dates-picker
+  - name: react-date-range
+    github_id: hypeserver/react-date-range
+    category: input-components
+    npm_id: react-date-range
+  - name: react-datepicker2
+    github_id: mberneti/react-datepicker2
+    category: input-components
+    npm_id: react-datepicker2
+  - name: react-datetime
+    github_id: arqex/react-datetime
+    category: input-components
+    npm_id: react-datetime
+  - name: react-flatpickr
+    github_id: haoxins/react-flatpickr
+    category: input-components
+    npm_id: react-flatpickr
+  - name: react-nice-dates
+    github_id: hernansartorio/react-nice-dates
+    category: input-components
+    npm_id: react-nice-dates
+  - name: react-simple-timefield
+    github_id: antonfisher/react-simple-timefield
+    category: input-components
+    npm_id: react-simple-timefield
+  - name: react-timezone-select
+    github_id: ndom91/react-timezone-select
+    category: input-components
+    npm_id: react-timezone-select
+  - name: react-yearly-calendar
+    github_id: BelkaLab/react-yearly-calendar
+    category: input-components
+    npm_id: react-yearly-calendar
+  - name: react-date-picker
+    github_id: wojtekmaj/react-date-picker
+    category: input-components
+    npm_id: react-date-picker
+  - name: formsy-material-ui
+    github_id: formsy/formsy-material-ui
+    category: input-components
+    npm_id: formsy-material-ui
+  - name: formsy-react-components
+    github_id: twisty/formsy-react-components
+    category: input-components
+    npm_id: formsy-react-components
+  - name: react-input-enhancements
+    github_id: alexkuz/react-input-enhancements
+    category: input-components
+    npm_id: react-input-enhancements
