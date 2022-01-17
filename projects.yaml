@@ -1625,3 +1625,51 @@ projects:
     github_id: seek-oss/vanilla-extract
     category: styling
     npm_id: '@vanilla-extract/integration'
+  - name: react-hot-loader
+    github_id: gaearon/react-hot-loader
+    category: dev-tools
+    npm_id: react-hot-loader
+    maven_id: org.webjars.npm:react-hot-loader
+  - name: react-loadable
+    github_id: jamiebuilds/react-loadable
+    category: dev-tools
+    npm_id: react-loadable
+    maven_id: org.webjars.bowergithub.jamiebuilds:react-loadable
+  - name: loadable-components
+    github_id: gregberge/loadable-components
+    category: dev-tools
+    npm_id: '@loadable/component'
+  - name: react-styleguidist
+    github_id: styleguidist/react-styleguidist
+    category: dev-tools
+    npm_id: react-styleguidist
+    maven_id: org.webjars.npm:react-styleguidist
+  - name: react-cosmos
+    github_id: react-cosmos/react-cosmos
+    category: dev-tools
+    npm_id: react-cosmos
+  - name: eslint-plugin-react
+    github_id: yannickcr/eslint-plugin-react
+    category: dev-tools
+    npm_id: eslint-plugin-react
+    maven_id: org.webjars.npm:eslint-plugin-react
+  - name: eslint-plugin-jsx-a11y
+    github_id: jsx-eslint/eslint-plugin-jsx-a11y
+    category: dev-tools
+    npm_id: canglang-cli
+  - name: axe-core-npm
+    github_id: dequelabs/axe-core-npm
+    category: dev-tools
+    npm_id: '@axe-core/webdriverjs'
+  - name: dataformsjs
+    github_id: dataformsjs/dataformsjs
+    category: dev-tools
+    npm_id: dataformsjs
+  - name: jsx-ast-utils
+    github_id: jsx-eslint/jsx-ast-utils
+    category: dev-tools
+    npm_id: jsx-ast-utils
+  - name: react-scanner
+    github_id: moroshko/react-scanner
+    category: dev-tools
+    npm_id: react-scanner
