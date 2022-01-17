@@ -7,7 +7,7 @@ categories:
     title: "UI Frameworks & Libraries"
     # subtitle: ""
   - category: "cms-frameworks"
-    title: "CMS Frameworks"
+    title: "App Frameworks"
     subtitle: "Application frameworks, content management systems, and static site generators for React."
   - category: "styling"
     title: "Styling"
