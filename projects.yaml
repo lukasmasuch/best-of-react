@@ -1160,3 +1160,28 @@ projects:
     github_id: rumble-charts/rumble-charts
     category: data-viz
     npm_id: rumble-charts
+  - name: cogo-toast
+    github_id: Cogoport/cogo-toast
+    category: notifications
+    npm_id: cogo-toast
+  - name: react-notifications-component
+    github_id: teodosii/react-notifications-component
+    category: notifications
+    npm_id: react-notifications-component
+  - name: react-toast
+    github_id: moharnadreza/react-toast
+    category: notifications
+    npm_id: react-toast
+  - name: react-toast-notifications
+    github_id: jossmac/react-toast-notifications
+    category: notifications
+    npm_id: react-toast-notifications
+  - name: reapop
+    github_id: LouisBarranqueiro/reapop
+    category: notifications
+    maven_id: org.webjars.npm:reapop
+    npm_id: reapop
+  - name: simple-react-notifications
+    github_id: alexpermiakov/simple-react-notifications
+    category: notifications
+    npm_id: simple-react-notifications
