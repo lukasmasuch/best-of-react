@@ -64,7 +64,7 @@ categories:
  
 labels:
   - label: "material-ui"
-    image: "https://material-ui.com/static/favicon.ico"
+    image: "https://mui.com/static/favicon.ico"
     description: "Projects related to Material UI Framework."
   - label: "ant-design"
     image: "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
