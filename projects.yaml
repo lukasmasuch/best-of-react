@@ -1302,3 +1302,50 @@ projects:
     github_id: aeagle/react-spaces
     category: layout
     npm_id: react-spaces
+  - name: react-tweenful
+    github_id: teodosii/react-tweenful
+    category: animations
+    npm_id: react-tweenful
+  - name: react-anime
+    github_id: plus1tv/react-anime
+    category: animations
+    npm_id: react-anime
+  - name: react-flip-move
+    github_id: joshwcomeau/react-flip-move
+    category: animations
+    npm_id: react-flip-move
+    maven_id: org.webjars.npm:react-flip-move
+  - name: tsparticles
+    github_id: matteobruni/tsparticles
+    category: animations
+    npm_id: tsparticles-core
+  - name: react-motion
+    github_id: chenglou/react-motion
+    category: animations
+    npm_id: react-motion
+    maven_id: org.webjars.npm:react-motion
+  - name: react-router-transition
+    github_id: maisano/react-router-transition
+    category: animations
+    npm_id: react-router-transition
+    maven_id: org.webjars.npm:react-router-transition
+  - name: react-spring
+    github_id: pmndrs/react-spring
+    category: animations
+    npm_id: react-spring
+  - name: motion
+    github_id: framer/motion
+    category: animations
+    npm_id: framer-motion
+  - name: particles-bg
+    github_id: lindelof/particles-bg
+    category: animations
+    npm_id: '@eugle/particles-bg'
+  - name: gooey-react
+    github_id: luukdv/gooey-react
+    category: animations
+    npm_id: gooey-react
+  - name: react-parallax-tilt
+    github_id: mkosir/react-parallax-tilt
+    category: animations
+    npm_id: react-parallax-tilt
