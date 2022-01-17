@@ -1533,3 +1533,78 @@ projects:
     github_id: hustcc/echarts-for-react
     category: data-viz
     npm_id: echarts-for-react
+  - name: reactstrap
+    github_id: reactstrap/reactstrap
+    category: ui-frameworks
+    maven_id: org.webjars.npm:reactstrap
+    npm_id: reactstrap
+  - name: reakit
+    github_id: reakit/reakit
+    category: ui-frameworks
+    npm_id: reakit
+  - name: react-spectrum
+    github_id: adobe/react-spectrum
+    category: ui-frameworks
+    npm_id: react-aria
+  - name: ring-ui
+    github_id: JetBrains/ring-ui
+    category: ui-frameworks
+    maven_id: org.webjars.npm:github-com-JetBrains-ring-ui
+    npm_id: '@jetbrains/ring-ui'
+  - name: react-bulma-components
+    github_id: couds/react-bulma-components
+    category: ui-frameworks
+    npm_id: react-bulma-components
+  - name: trunx
+    github_id: fibo/trunx
+    category: ui-frameworks
+    npm_id: trunx
+  - name: bumbag-ui
+    github_id: jxom/bumbag-ui
+    category: ui-frameworks
+    npm_id: bumbag
+  - name: mantine
+    github_id: mantinedev/mantine
+    category: ui-frameworks
+    npm_id: '@mantine/tag-picker'
+  - name: react
+    github_id: geist-org/react
+    category: ui-frameworks
+    npm_id: '@geist-ui/react'
+  - name: coreui-react
+    github_id: coreui/coreui-react
+    category: ui-frameworks
+    npm_id: '@coreui/react'
+  - name: fluent-windows
+    github_id: fluent-org/fluent-windows
+    category: ui-frameworks
+    npm_id: '@fluent-ui/core'
+  - name: gestalt
+    github_id: pinterest/gestalt
+    category: ui-frameworks
+    npm_id: gestalt
+  - name: orbit
+    github_id: kiwicom/orbit
+    category: ui-frameworks
+    npm_id: '@kiwicom/orbit-components'
+  - name: pivotal-ui
+    github_id: pivotal-cf/pivotal-ui
+    category: ui-frameworks
+    npm_id: '@npmcorp/pui-react-helpers'
+  - name: react-foundation
+    github_id: digiaonline/react-foundation
+    category: ui-frameworks
+    npm_id: react-foundation
+  - name: shineout
+    github_id: sheinsight/shineout
+    category: ui-frameworks
+    npm_id: shineout
+  - name: ChatUI
+    github_id: alibaba/ChatUI
+    category: ui-frameworks
+    npm_id: '@chatui/core'
+  - name: semi-design
+    github_id: DouyinFE/semi-design
+    category: ui-frameworks
+    pypi_id: PDTest
+    npm_id: '@douyinfe/semi-animation-react'
