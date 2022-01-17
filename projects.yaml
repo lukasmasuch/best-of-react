@@ -12,6 +12,9 @@ categories:
   - category: "styling"
     title: "Styling"
     subtitle: "CSS and component styling frameworks."
+  - category: "layout"
+    title: "Layout"
+    subtitle: "Components to layout the UI elements."
   - category: "data-tables"
     title: "Data Tables & Grids"
     subtitle: "Data grid, tables, and spreadsheet components."
@@ -1261,3 +1264,41 @@ projects:
     github_id: DominicTobias/react-image-crop
     category: editors
     npm_id: react-image-crop
+  - name: autoresponsive-react
+    github_id: xudafeng/autoresponsive-react
+    category: layout
+    npm_id: autoresponsive-react
+  - name: golden-layout
+    github_id: golden-layout/golden-layout
+    category: layout
+    maven_id: org.webjars.bower:golden-layout
+    npm_id: golden-layout
+  - name: hedron
+    github_id: garetmckinley/hedron
+    category: layout
+    npm_id: hedron
+  - name: React-Splitters
+    github_id: martinnov92/React-Splitters
+    category: layout
+    npm_id: m-react-splitters
+  - name: muuri-react
+    github_id: Paol-imi/muuri-react
+    category: layout
+    npm_id: muuri-react
+  - name: react-grid-layout
+    github_id: react-grid-layout/react-grid-layout
+    category: layout
+    npm_id: react-grid-layout
+  - name: react-masonry-component
+    github_id: eiriklv/react-masonry-component
+    category: layout
+    maven_id: org.webjars.npm:react-masonry-component
+    npm_id: react-masonry-component
+  - name: Re-Flex
+    github_id: leefsmp/Re-Flex
+    category: layout
+    npm_id: react-reflex
+  - name: react-spaces
+    github_id: aeagle/react-spaces
+    category: layout
+    npm_id: react-spaces
