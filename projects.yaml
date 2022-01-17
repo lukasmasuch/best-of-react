@@ -1529,3 +1529,7 @@ projects:
     github_id: teafuljs/teaful
     category: state-management
     npm_id: teaful
+  - name: echarts-for-react
+    github_id: hustcc/echarts-for-react
+    category: data-viz
+    npm_id: echarts-for-react
