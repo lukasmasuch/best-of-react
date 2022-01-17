@@ -18,6 +18,11 @@ categories:
   - category: "data-tables"
     title: "Data Tables & Grids"
     subtitle: "Data grid, tables, and spreadsheet components."
+  - category: "input-components"
+    title: "Input Components"
+    subtitle: "Input and form components."
+  - category: "i18"
+    title: "Internationalization & Localization"
   - category: "state-management"
     title: "State Management"
   - category: "routing"
@@ -38,9 +43,8 @@ categories:
   - category: "editors"
     title: "Editor Components"
     subtitle: "Editor components for code, text, images and more."
-  - category: "other-components"
-    title: "Other Components"
-    subtitle: "Collection of other components."
+  - category: "dnd"
+    title: "Drag & Drop"
   - category: "dev-tools"
     title: "Developer Tools"
     subtitle: "Tools to help with React development."
@@ -54,10 +58,13 @@ categories:
   - category: "admin-dashboards"
     title: "Admin Dashboards"
     subtitle: "Admin frontend frameworks, dashboards and templates."
-
+  - category: "other-components"
+    title: "Other Components"
+    subtitle: "Collection of other components."
+ 
 labels:
   - label: "material-ui"
-    image: "https://material-ui.com/static/favicon.ico"
+    image: "https://mui.com/static/favicon.ico"
     description: "Projects related to Material UI Framework."
   - label: "ant-design"
     image: "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
@@ -590,7 +597,7 @@ projects:
   - name: react-sortable-tree
     github_id: frontend-collective/react-sortable-tree
     npm_id: react-sortable-tree
-    category: other-components
+    category: dnd
     maven_id: org.webjars.npm:react-sortable-tree
     demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
   - name: Reactive Search
@@ -601,7 +608,7 @@ projects:
   - name: react-beautiful-dnd
     github_id: atlassian/react-beautiful-dnd
     npm_id: react-beautiful-dnd
-    category: other-components
+    category: dnd
     maven_id: org.webjars.npm:react-beautiful-dnd
   - name: sweetalert2
     github_id: sweetalert2/sweetalert2
@@ -616,7 +623,7 @@ projects:
   - name: muuri
     github_id: haltu/muuri
     npm_id: muuri
-    category: other-components
+    category: dnd
     maven_id: org.webjars.npm:muuri
   - name: searchkit
     github_id: searchkit/searchkit
@@ -625,7 +632,7 @@ projects:
   - name: dnd-kit
     github_id: clauderic/dnd-kit
     npm_id: "@dnd-kit/core"
-    category: other-components
+    category: dnd
   - name: react-avatar-editor
     github_id: mosch/react-avatar-editor
     npm_id: react-avatar-editor
@@ -1673,3 +1680,282 @@ projects:
     github_id: moroshko/react-scanner
     category: dev-tools
     npm_id: react-scanner
+  - name: react-dnd
+    github_id: react-dnd/react-dnd
+    category: dnd
+    maven_id: org.webjars.npm:react-dnd
+    npm_id: react-dnd-html5-backend
+  - name: react-draggable
+    github_id: react-grid-layout/react-draggable
+    category: dnd
+    maven_id: org.webjars.npm:react-draggable
+    npm_id: react-draggable
+  - name: react-dragula
+    github_id: bevacqua/react-dragula
+    category: dnd
+    maven_id: org.webjars.npm:github-com-bevacqua-react-dragula
+    npm_id: react-dragula
+  - name: react-movable
+    github_id: tajo/react-movable
+    category: dnd
+    npm_id: react-movable
+  - name: react-sortable-pane
+    github_id: bokuweb/react-sortable-pane
+    category: dnd
+    npm_id: react-sortable-pane
+  - name: react-rnd
+    github_id: bokuweb/react-rnd
+    category: dnd
+    npm_id: react-rnd
+  - name: react-sortable
+    github_id: danielstocks/react-sortable
+    category: dnd
+    npm_id: react-sortable
+  - name: Sortable
+    github_id: SortableJS/Sortable
+    category: dnd
+    maven_id: org.webjars.npm:sortablejs
+    npm_id: sortablejs
+  - name: apollo-client
+    github_id: apollographql/apollo-client
+    category: data-fetching
+    maven_id: org.webjars.npm:apollo-client
+    npm_id: apollo-utilities
+  - name: react-window
+    github_id: bvaughn/react-window
+    category: data-tables
+    maven_id: org.webjars.npm:react-window
+    npm_id: react-window
+  - name: react-three-fiber
+    github_id: pmndrs/react-three-fiber
+    category: data-viz
+    npm_id: react-three-fiber
+  - name: create-react-app
+    github_id: facebook/create-react-app
+    category: dev-tools
+    npm_id: '@gd-uikit/react-scripts'
+  - name: electron-react-boilerplate
+    github_id: electron-react-boilerplate/electron-react-boilerplate
+    category: dev-tools
+    npm_id: mib-browser
+  - name: react-boilerplate
+    github_id: react-boilerplate/react-boilerplate
+    category: dev-tools
+    npm_id: artcube-2-dev-plugin
+  - name: react-intersection-observer
+    github_id: thebuilder/react-intersection-observer
+    category: dev-tools
+    maven_id: org.webjars.npm:github-com-thebuilder-react-intersection-observer
+    npm_id: react-intersection-observer
+  - name: formatjs
+    github_id: formatjs/formatjs
+    category: i18
+    npm_id: react-intl
+  - name: react-i18next
+    github_id: i18next/react-i18next
+    category: i18
+    maven_id: org.webjars.npm:react-i18next
+    npm_id: react-i18next
+  - name: js-lingui
+    github_id: lingui/js-lingui
+    category: i18
+    npm_id: '@lingui/macro'
+  - name: react-datepicker
+    github_id: Hacker0x01/react-datepicker
+    category: input-components
+    npm_id: react-datepicker
+  - name: react-select
+    github_id: JedWatson/react-select
+    category: input-components
+    maven_id: org.webjars.npm:react-select
+    npm_id: react-select
+  - name: react-jsonschema-form
+    github_id: rjsf-team/react-jsonschema-form
+    category: input-components
+    npm_id: '@rjsf/antd'
+  - name: downshift
+    github_id: downshift-js/downshift
+    category: input-components
+    maven_id: org.webjars.npm:downshift
+    npm_id: downshift
+  - name: cleave.js
+    github_id: nosir/cleave.js
+    category: input-components
+    maven_id: org.webjars.npm:cleave.js
+    npm_id: cleave.js
+  - name: react-dates
+    github_id: airbnb/react-dates
+    category: input-components
+    maven_id: org.webjars.npm:react-dates
+    npm_id: '@fmauneko/react-dates'
+  - name: react-widgets
+    github_id: jquense/react-widgets
+    category: input-components
+    maven_id: org.webjars.npm:react-widgets
+    npm_id: react-widgets
+  - name: unform
+    github_id: unform/unform
+    category: input-components
+    npm_id: '@unform/core'
+  - name: survey-library
+    github_id: surveyjs/survey-library
+    category: input-components
+    maven_id: org.webjars.npm:survey-jquery
+    npm_id: survey-knockout
+  - name: react-popper
+    github_id: floating-ui/react-popper
+    category: layout
+    npm_id: react-popper
+  - name: react-big-calendar
+    github_id: jquense/react-big-calendar
+    category: other-components
+    maven_id: org.webjars.npm:github-com-intljusticemission-react-big-calendar
+    npm_id: react-big-calendar
+  - name: react-markdown
+    github_id: remarkjs/react-markdown
+    category: other-components
+    maven_id: org.webjars.npm:react-markdown
+    npm_id: react-markdown
+  - name: react-tabs
+    github_id: reactjs/react-tabs
+    category: other-components
+    maven_id: org.webjars.npm:react-tabs
+    npm_id: react-tabs
+  - name: react-modal
+    github_id: reactjs/react-modal
+    category: other-components
+    maven_id: org.webjars.npm:react-modal
+    npm_id: react-modal
+  - name: react-fontawesome
+    github_id: FortAwesome/react-fontawesome
+    category: other-components
+    maven_id: org.webjars.npm:fortawesome__react-fontawesome
+    npm_id: '@fortawesome/react-fontawesome'
+  - name: react-map-gl
+    github_id: visgl/react-map-gl
+    category: other-components
+    maven_id: org.webjars.npm:github-com-uber-react-map-gl
+    npm_id: react-map-gl
+  - name: react-instantsearch
+    github_id: algolia/react-instantsearch
+    category: other-components
+    npm_id: react-instantsearch
+  - name: react-calendar
+    github_id: wojtekmaj/react-calendar
+    category: other-components
+    maven_id: org.webjars.npm:react-calendar
+    npm_id: react-calendar
+  - name: react-paginate
+    github_id: AdeleD/react-paginate
+    category: other-components
+    maven_id: org.webjars.npm:react-paginate
+    npm_id: react-paginate
+  - name: react-pdf
+    github_id: wojtekmaj/react-pdf
+    category: other-components
+    npm_id: react-pdf
+  - name: react-autosuggest
+    github_id: moroshko/react-autosuggest
+    category: other-components
+    maven_id: org.webjars.npm:react-autosuggest
+    npm_id: react-autosuggest
+  - name: react-tooltip
+    github_id: wwayne/react-tooltip
+    category: other-components
+    maven_id: org.webjars.npm:react-tooltip
+    npm_id: react-tooltip
+  - name: react-image-gallery
+    github_id: xiaolin/react-image-gallery
+    category: other-components
+    maven_id: org.webjars.npm:react-image-gallery
+    npm_id: react-image-gallery
+  - name: react-responsive-carousel
+    github_id: leandrowd/react-responsive-carousel
+    category: other-components
+    maven_id: org.webjars.npm:react-responsive-carousel
+    npm_id: react-responsive-carousel
+  - name: react-content-loader
+    github_id: danilowoz/react-content-loader
+    category: other-components
+    npm_id: react-content-loader
+  - name: react-youtube
+    github_id: tjallingt/react-youtube
+    category: other-components
+    maven_id: org.webjars.npm:react-youtube
+    npm_id: react-youtube
+  - name: video-react
+    github_id: video-react/video-react
+    category: other-components
+    maven_id: org.webjars.npm:video-react
+    npm_id: video-react
+  - name: google-map-react
+    github_id: google-map-react/google-map-react
+    category: other-components
+    maven_id: org.webjars.npm:google-map-react
+    npm_id: google-map-react
+  - name: lightGallery
+    github_id: sachinchoolur/lightGallery
+    category: other-components
+    maven_id: org.webjars.npm:lightgallery
+    npm_id: lightgallery
+  - name: react-split-pane
+    github_id: tomkp/react-split-pane
+    category: other-components
+    maven_id: org.webjars.npm:react-split-pane
+    npm_id: react-split-pane
+  - name: react-leaflet
+    github_id: PaulLeCam/react-leaflet
+    category: other-components
+    maven_id: org.webjars.bower:react-leaflet
+    npm_id: react-leaflet
+  - name: react-helmet
+    github_id: nfl/react-helmet
+    category: others
+    maven_id: org.webjars.npm:react-helmet
+    npm_id: react-helmet
+  - name: react-icons
+    github_id: react-icons/react-icons
+    category: others
+    maven_id: org.webjars.npm:react-icons
+    npm_id: react-icons
+  - name: aframe
+    github_id: ngokevin/aframe
+    category: others
+    npm_id: aframe
+  - name: diegomura/react-pdf
+    github_id: diegomura/react-pdf
+    category: others
+    npm_id: '@react-pdf/png-js'
+  - name: react-syntax-highlighter
+    github_id: react-syntax-highlighter/react-syntax-highlighter
+    category: others
+    maven_id: org.webjars.npm:react-syntax-highlighter
+    npm_id: react-syntax-highlighter
+  - name: reactfire
+    github_id: FirebaseExtended/reactfire
+    category: others
+    maven_id: org.webjars.bower:reactfire
+    npm_id: reactfire
+  - name: immutable-js
+    github_id: immutable-js/immutable-js
+    category: state-management
+    maven_id: org.webjars.npm:immutable
+    npm_id: immutable
+  - name: immer
+    github_id: immerjs/immer
+    category: state-management
+    maven_id: org.webjars.npm:immer
+    npm_id: immer
+  - name: rxdb
+    github_id: pubkey/rxdb
+    category: state-management
+    npm_id: rxdb
+  - name: react-final-form
+    github_id: final-form/react-final-form
+    category: state-management
+    npm_id: react-final-form
+  - name: ant-design-mobile
+    github_id: ant-design/ant-design-mobile
+    category: ui-frameworks
+    maven_id: org.webjars.npm:antd-mobile
+    npm_id: antd-mobile
