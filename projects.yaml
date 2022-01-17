@@ -79,7 +79,6 @@ projects:
     npm_id: react-admin
     labels: ["material-ui"]
     category: admin-dashboards
-    maven_id: org.webjars.npm:ra-language-english
     demo_url: https://marmelab.com/react-admin-demo/
   - name: React Material Admin
     github_id: flatlogic/react-material-admin
@@ -120,7 +119,6 @@ projects:
     github_id: coreui/coreui-free-bootstrap-admin-template
     npm_id: "@coreui/ajax"
     category: admin-dashboards
-    maven_id: org.webjars.npm:coreui__ajax
   - name: matx-react
     github_id: uilibrary/matx-react
     category: admin-dashboards
@@ -128,7 +126,6 @@ projects:
     github_id: sghall/react-move
     npm_id: react-move
     category: animations
-    maven_id: org.webjars.npm:github-com-tannerlinsley-react-move
     demo_url: https://react-move-docs.netlify.app/#/demos/node-group
   - name: Gatsby
     github_id: gatsbyjs/gatsby
@@ -156,7 +153,6 @@ projects:
     github_id: vercel/swr
     npm_id: swr
     category: data-fetching
-    maven_id: org.webjars.npm:swr
   - name: relay
     github_id: facebook/relay
     npm_id: relay
@@ -187,7 +183,6 @@ projects:
     github_id: adazzle/react-data-grid
     npm_id: react-data-grid
     category: data-tables
-    maven_id: org.webjars.npm:react-data-grid
   - name: React-Datasheet
     github_id: nadbm/react-datasheet
     npm_id: react-datasheet
@@ -196,7 +191,6 @@ projects:
     github_id: ag-grid/ag-grid
     npm_id: ag-grid-community
     category: data-tables
-    maven_id: org.webjars.npm:ag-grid-community__csv-export
   - name: React Data Table
     github_id: jbetancur/react-data-table-component
     npm_id: react-data-table-component
@@ -206,7 +200,6 @@ projects:
     github_id: handsontable/handsontable
     npm_id: handsontable
     category: data-tables
-    maven_id: org.webjars.npm:handsontable
     demo_url: https://handsontable.com/examples
     nuget_id: Handsontable
   - name: reactdatagrid
@@ -237,7 +230,6 @@ projects:
     github_id: bvaughn/react-virtualized
     npm_id: react-virtualized
     category: data-tables
-    maven_id: org.webjars.npm:react-virtualized
     demo_url: https://bvaughn.github.io/react-virtualized/#/components/List
   - name: Perspective
     github_id: finos/perspective
@@ -256,7 +248,6 @@ projects:
     github_id: tannerlinsley/react-table
     npm_id: react-table
     category: data-tables
-    maven_id: org.webjars.npm:react-table
   - name: glide-data-grid
     github_id: glideapps/glide-data-grid
     npm_id: "@glideapps/glide-data-grid"
@@ -265,7 +256,6 @@ projects:
     github_id: recharts/recharts
     npm_id: recharts
     category: data-viz
-    maven_id: org.webjars.npm:recharts
     demo_url: http://recharts.org/en-US/examples
   - name: Viser
     github_id: viserjs/viser
@@ -276,13 +266,11 @@ projects:
     github_id: uber/react-vis
     npm_id: react-vis
     category: data-viz
-    maven_id: cljsjs:react-vis
     demo_url: http://uber.github.io/react-vis/examples/showcases/
   - name: Victory
     github_id: FormidableLabs/victory
     npm_id: victory
     category: data-viz
-    maven_id: org.webjars.npm:victory
     demo_url: https://formidable.com/open-source/victory/gallery/
   - name: BizCharts
     github_id: alibaba/BizCharts
@@ -311,7 +299,6 @@ projects:
     github_id: reactchartjs/react-chartjs-2
     npm_id: react-chartjs-2
     category: data-viz
-    maven_id: org.webjars.npm:react-chartjs-2
     demo_url: https://reactchartjs.github.io/react-chartjs-2/
   - name: visx
     github_id: airbnb/visx
@@ -322,7 +309,6 @@ projects:
     github_id: projectstorm/react-diagrams
     npm_id: "@projectstorm/react-diagrams"
     category: data-viz
-    maven_id: org.webjars.npm:storm-react-diagrams
   - name: GGEditor
     github_id: alibaba/GGEditor
     npm_id: gg-editor
@@ -358,7 +344,6 @@ projects:
     github_id: webpack/webpack
     npm_id: webpack
     category: dev-tools
-    maven_id: org.webjars.npm:webpack
   - name: Reactotron
     github_id: infinitered/reactotron
     npm_id: reactotron
@@ -415,13 +400,11 @@ projects:
     github_id: securingsincity/react-ace
     npm_id: react-ace
     category: editors
-    maven_id: org.webjars.npm:react-ace
     demo_url: https://securingsincity.github.io/react-ace/
   - name: Draft JS
     github_id: facebook/draft-js
     npm_id: draft-js
     category: editors
-    maven_id: org.webjars.npm:draft-js
   - name: ReactPage
     github_id: react-page/react-page
     npm_id: "@react-page/editor"
@@ -449,7 +432,6 @@ projects:
     github_id: tinymce/tinymce
     npm_id: tinymce
     category: editors
-    maven_id: org.webjars.npm:tinymce
   - name: react-draft-wysiwyg
     github_id: jpuri/react-draft-wysiwyg
     npm_id: react-draft-wysiwyg
@@ -462,7 +444,6 @@ projects:
     github_id: sstur/react-rte
     npm_id: react-rte
     category: editors
-    maven_id: org.webjars.npm:github-com-sstur-react-rte
   - name: react-digraph
     github_id: uber/react-digraph
     npm_id: react-digraph
@@ -483,7 +464,6 @@ projects:
     github_id: satya164/react-simple-code-editor
     npm_id: react-simple-code-editor
     category: editors
-    maven_id: org.webjars.npm:react-simple-code-editor
   - name: react-design-editor
     github_id: salgum1114/react-design-editor
     npm_id: react-design-editor
@@ -496,7 +476,6 @@ projects:
     github_id: codex-team/editor.js
     npm_id: "@editorjs/editorjs"
     category: editors
-    maven_id: org.webjars.npm:editorjs__editorjs
   - name: react-csv
     github_id: react-csv/react-csv
     npm_id: react-csv
@@ -505,7 +484,6 @@ projects:
     github_id: SheetJS/sheetjs
     npm_id: xlsx
     category: file-handling
-    maven_id: org.webjars.bower:js-xlsx
   - name: React-Data-Export
     github_id: securedeveloper/react-data-export
     npm_id: react-data-export
@@ -514,7 +492,6 @@ projects:
     github_id: mac-s-g/react-json-view
     npm_id: react-json-view
     category: file-handling
-    maven_id: org.webjars.npm:react-json-view
     demo_url: https://mac-s-g.github.io/react-json-view/demo/dist/
   - name: react-file-viewer
     github_id: plangrid/react-file-viewer
@@ -529,7 +506,6 @@ projects:
     github_id: react-dropzone/react-dropzone
     npm_id: react-dropzone
     category: file-handling
-    maven_id: org.webjars.npm:react-dropzone
     demo_url: https://react-dropzone.js.org/#section-basic-example
   - name: material-ui-dropzone
     github_id: Yuvaleros/material-ui-dropzone
@@ -541,7 +517,6 @@ projects:
     github_id: transloadit/uppy
     npm_id: uppy
     category: file-handling
-    maven_id: org.webjars.npm:uppy__provider-views
   - name: atomic-layout
     github_id: kettanaito/atomic-layout
     npm_id: atomic-layout
@@ -592,13 +567,11 @@ projects:
     npm_id: material-ui-chip-input
     labels: ["material-ui"]
     category: other-components
-    maven_id: org.webjars.npm:material-ui-chip-input
     demo_url: https://mui.wertarbyte.com/#material-ui-chip-input
   - name: react-sortable-tree
     github_id: frontend-collective/react-sortable-tree
     npm_id: react-sortable-tree
     category: dnd
-    maven_id: org.webjars.npm:react-sortable-tree
     demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
   - name: Reactive Search
     github_id: appbaseio/reactivesearch
@@ -609,12 +582,10 @@ projects:
     github_id: atlassian/react-beautiful-dnd
     npm_id: react-beautiful-dnd
     category: dnd
-    maven_id: org.webjars.npm:react-beautiful-dnd
   - name: sweetalert2
     github_id: sweetalert2/sweetalert2
     npm_id: sweetalert2
     category: other-components
-    maven_id: org.webjars.bower:sweetalert2
     nuget_id: JSoftCR_SweetAlert
   - name: react-slick
     github_id: akiran/react-slick
@@ -624,7 +595,6 @@ projects:
     github_id: haltu/muuri
     npm_id: muuri
     category: dnd
-    maven_id: org.webjars.npm:muuri
   - name: searchkit
     github_id: searchkit/searchkit
     npm_id: searchkit
@@ -637,12 +607,10 @@ projects:
     github_id: mosch/react-avatar-editor
     npm_id: react-avatar-editor
     category: other-components
-    maven_id: org.webjars.npm:react-avatar-editor
   - name: react-copy-to-clipboard
     github_id: nkbt/react-copy-to-clipboard
     npm_id: react-copy-to-clipboard
     category: other-components
-    maven_id: org.webjars.npm:react-copy-to-clipboard
   - name: fullcalendar-react
     github_id: fullcalendar/fullcalendar-react
     npm_id: "@fullcalendar/react"
@@ -655,12 +623,10 @@ projects:
     github_id: preactjs/preact
     npm_id: preact
     category: others
-    maven_id: org.webjars.npm:preact
   - name: react-use
     github_id: streamich/react-use
     npm_id: react-use
     category: others
-    maven_id: org.webjars.npm:react-use
   - name: react-hook-form
     github_id: react-hook-form/react-hook-form
     npm_id: react-hook-form
@@ -688,7 +654,6 @@ projects:
     github_id: localForage/localForage
     npm_id: localforage
     category: state-management
-    maven_id: org.webjars.npm:localforage
     nuget_id: localForage
   - name: zustand
     github_id: pmndrs/zustand
@@ -698,22 +663,18 @@ projects:
     github_id: reduxjs/redux-toolkit
     npm_id: redux-toolkit
     category: state-management
-    maven_id: org.webjars.npm:reduxjs__toolkit
   - name: Styled Components
     github_id: styled-components/styled-components
     npm_id: styled-components
     category: styling
-    maven_id: org.webjars.npm:styled-components
   - name: Tailewind CSS
     github_id: tailwindlabs/tailwindcss
     npm_id: tailwindcss
     category: styling
-    maven_id: org.webjars.npm:tailwindcss
   - name: emotion
     github_id: emotion-js/emotion
     npm_id: "@emotion/react"
     category: styling
-    maven_id: org.webjars.npm:emotion__core
   - name: twin.macro
     github_id: ben-rogerson/twin.macro
     npm_id: twin.macro
@@ -734,7 +695,6 @@ projects:
     github_id: enzymejs/enzyme
     npm_id: enzyme
     category: testing
-    maven_id: cljsjs:enzyme
   - name: react-testing-library
     github_id: testing-library/react-testing-library
     npm_id: react-testing-library
@@ -744,13 +704,11 @@ projects:
     npm_id: "@material-ui/core"
     labels: ["material-ui"]
     category: ui-frameworks
-    maven_id: org.webjars.npm:material-ui__styles
   - name: Ant Design
     github_id: ant-design/ant-design
     npm_id: antd
     labels: ["ant-design"]
     category: ui-frameworks
-    maven_id: org.webjars.npm:antd
   - name: React Suite
     github_id: rsuite/rsuite
     npm_id: rsuite
@@ -761,7 +719,6 @@ projects:
     npm_id: react-bootstrap
     labels: ["bootstrap"]
     category: ui-frameworks
-    maven_id: org.webjars.npm:react-bootstrap
   - name: Radix Primitives
     github_id: radix-ui/primitives
     npm_id: "@radix-ui/utils"
@@ -770,47 +727,39 @@ projects:
     github_id: segmentio/evergreen
     npm_id: evergreen-ui
     category: ui-frameworks
-    maven_id: org.webjars.npm:github-com-segmentio-evergreen
   - name: Blueprint
     github_id: palantir/blueprint
     npm_id: "@blueprintjs/core"
     category: ui-frameworks
-    maven_id: org.webjars.npm:blueprintjs__datetime
     demo_url: https://blueprintjs.com/docs/
   - name: Semantic UI React
     github_id: Semantic-Org/Semantic-UI-React
     npm_id: semantic-ui-react
     category: ui-frameworks
-    maven_id: org.webjars.npm:semantic-ui-react
     demo_url: https://react.semantic-ui.com/elements/button/
   - name: Grommet
     github_id: grommet/grommet
     npm_id: grommet
     category: ui-frameworks
-    maven_id: org.webjars.npm:grommet
     demo_url: https://v2.grommet.io/components
   - name: Rebass
     github_id: rebassjs/rebass
     npm_id: rebass
     category: ui-frameworks
-    maven_id: org.webjars.npm:rebass
     demo_url: https://codesandbox.io/s/github/rebassjs/rebass/tree/master/examples/sandbox
   - name: Semantic-UI
     github_id: Semantic-Org/Semantic-UI
     npm_id: semantic-ui
     category: ui-frameworks
-    maven_id: org.webjars.bower:github-com-Semantic-Org-Semantic-UI
   - name: bulma
     github_id: jgthms/bulma
     npm_id: bulma
     category: ui-frameworks
-    maven_id: org.webjars.npm:bulma
   - name: tabler
     github_id: tabler/tabler
     npm_id: tabler
     labels: ["bootstrap"]
     category: ui-frameworks
-    maven_id: org.webjars.npm:tabler
   - name: chakra-ui
     github_id: chakra-ui/chakra-ui
     npm_id: chakra-ui
@@ -832,12 +781,10 @@ projects:
     github_id: carbon-design-system/carbon
     npm_id: carbon-components-react
     category: ui-frameworks
-    maven_id: org.webjars.npm:carbon-components-react
   - name: polaris-react
     github_id: Shopify/polaris-react
     npm_id: "@shopify/polaris"
     category: ui-frameworks
-    maven_id: org.webjars.npm:shopify__polaris
     license: MIT
   - name: theme-ui
     github_id: system-ui/theme-ui
@@ -847,12 +794,10 @@ projects:
     github_id: elastic/eui
     npm_id: "@elastic/eui"
     category: ui-frameworks
-    maven_id: org.webjars.npm:elastic__eui
   - name: primereact
     github_id: primefaces/primereact
     npm_id: primereact
     category: ui-frameworks
-    maven_id: org.webjars.npm:primereact
   - name: tabler-react
     github_id: tabler/tabler-react
     npm_id: tabler-react
@@ -886,12 +831,10 @@ projects:
     github_id: lodash/lodash
     npm_id: lodash
     category: utils
-    maven_id: org.webjars.npm:lodash.uniqby
   - name: winston
     github_id: winstonjs/winston
     npm_id: winston
     category: utils
-    maven_id: org.webjars.npm:winston
   - name: i18next
     github_id: i18next/i18next
     npm_id: i18next
@@ -900,7 +843,6 @@ projects:
     github_id: log4js-node/log4js-node
     npm_id: log4js
     category: utils
-    maven_id: org.webjars.npm:log4js
   - name: loglevel
     github_id: pimterry/loglevel
     npm_id: loglevel
@@ -930,7 +872,6 @@ projects:
   - name: jsgrid
     github_id: tabalinas/jsgrid
     category: data-tables
-    maven_id: org.webjars.bower:js-grid
     npm_id: jsgrid
   - name: material-ui-x
     github_id: mui-org/material-ui-x
@@ -941,7 +882,6 @@ projects:
     github_id: react-bootstrap-table/react-bootstrap-table2
     category: data-tables
     labels: ["bootstrap"]
-    maven_id: org.webjars.npm:react-bootstrap-table2-filter
     npm_id: react-bootstrap-table2-paginator
   - name: jtable
     github_id: volosoft/jtable
@@ -958,12 +898,10 @@ projects:
   - name: tabulator
     github_id: olifolkerd/tabulator
     category: data-tables
-    maven_id: org.webjars.npm:tabulator-tables
     npm_id: tabulator-tables
   - name: SlickGrid
     github_id: 6pac/SlickGrid
     category: data-tables
-    maven_id: org.webjars.npm:slickgrid
     npm_id: slickgrid
   - name: gridjs
     github_id: grid-js/gridjs
@@ -972,7 +910,6 @@ projects:
   - name: jqGrid
     github_id: tonytomov/jqGrid
     category: data-tables
-    maven_id: org.webjars.bower:jqgrid
   - name: react-base-table
     github_id: Autodesk/react-base-table
     category: data-tables
@@ -1009,9 +946,7 @@ projects:
   - name: Chart.js
     github_id: chartjs/Chart.js
     category: data-viz
-    maven_id: org.webjars.npm:chart.js
     npm_id: chart.js
-    pypi_id: XStatic-Chart.js
   - name: d3
     github_id: d3/d3
     category: data-viz
@@ -1019,27 +954,22 @@ projects:
   - name: echarts
     github_id: apache/echarts
     category: data-viz
-    maven_id: org.webjars.npm:echarts
     npm_id: "@mempool/echarts"
   - name: three.js
     github_id: mrdoob/three.js
     category: data-viz
-    maven_id: org.webjars.npm:three
     npm_id: three
   - name: mermaid
     github_id: mermaid-js/mermaid
     category: data-viz
-    maven_id: org.webjars.npm:mermaid
     npm_id: mermaid
   - name: apexcharts.js
     github_id: apexcharts/apexcharts.js
     category: data-viz
-    maven_id: org.webjars.npm:apexcharts
     npm_id: apexcharts
   - name: charts
     github_id: frappe/charts
     category: data-viz
-    maven_id: org.webjars.npm:frappe-charts
     npm_id: frappe-charts
   - name: cal-heatmap
     github_id: wa0x6e/cal-heatmap
@@ -1048,7 +978,6 @@ projects:
   - name: carbon-charts
     github_id: carbon-design-system/carbon-charts
     category: data-viz
-    maven_id: org.webjars.npm:carbon__charts
     npm_id: "@carbon/charts"
   - name: parcel
     github_id: parcel-bundler/parcel
@@ -1066,17 +995,14 @@ projects:
   - name: jodit
     github_id: xdan/jodit
     category: editors
-    maven_id: org.webjars.npm:jodit
     npm_id: jodit
   - name: prosemirror
     github_id: ProseMirror/prosemirror
     category: editors
-    maven_id: org.webjars.npm:prosemirror
     npm_id: prosemirror
   - name: react-day-picker
     github_id: gpbl/react-day-picker
     category: other-components
-    maven_id: org.webjars.npm:react-day-picker
     npm_id: react-day-picker
   - name: DevExtreme
     github_id: DevExpress/DevExtreme
@@ -1085,7 +1011,6 @@ projects:
   - name: react-contenteditable
     github_id: lovasoa/react-contenteditable
     category: other-components
-    maven_id: org.webjars.bowergithub.lovasoa:react-contenteditable
     npm_id: react-contenteditable
   - name: formik
     github_id: jaredpalmer/formik
@@ -1105,27 +1030,22 @@ projects:
   - name: react-redux
     github_id: reduxjs/react-redux
     category: state-management
-    maven_id: org.webjars.npm:react-redux
     npm_id: react-redux
   - name: history
     github_id: remix-run/history
     category: state-management
-    maven_id: org.webjars.npm:history
     npm_id: history
   - name: polished
     github_id: styled-components/polished
     category: styling
-    maven_id: org.webjars.npm:polished
     npm_id: polished
   - name: date-fns
     github_id: date-fns/date-fns
     category: utils
-    maven_id: org.webjars.npm:date-fns
     npm_id: date-fns
   - name: yup
     github_id: jquense/yup
     category: utils
-    maven_id: org.webjars.npm:yup
     npm_id: yup
   - name: chartify
     github_id: kis/chartify
@@ -1138,7 +1058,6 @@ projects:
   - name: react-chartist
     github_id: fraserxu/react-chartist
     category: data-viz
-    maven_id: org.webjars.npm:react-chartist
     npm_id: react-chartist
   - name: react-charty
     github_id: 99ff00/react-charty
@@ -1147,12 +1066,10 @@ projects:
   - name: react-google-charts
     github_id: RakanNimer/react-google-charts
     category: data-viz
-    maven_id: org.webjars.npm:react-google-charts
     npm_id: react-google-charts
   - name: react-highcharts
     github_id: kirjs/react-highcharts
     category: data-viz
-    maven_id: org.webjars.npm:react-highcharts
     npm_id: react-highcharts
   - name: react-sigma
     github_id: dunnock/react-sigma
@@ -1189,7 +1106,6 @@ projects:
   - name: reapop
     github_id: LouisBarranqueiro/reapop
     category: notifications
-    maven_id: org.webjars.npm:reapop
     npm_id: reapop
   - name: simple-react-notifications
     github_id: alexpermiakov/simple-react-notifications
@@ -1198,7 +1114,6 @@ projects:
   - name: alloy-editor
     github_id: liferay/alloy-editor
     category: editors
-    maven_id: org.webjars.npm:alloyeditor
     npm_id: alloyeditor
   - name: ckeditor4-react
     github_id: ckeditor/ckeditor4-react
@@ -1247,17 +1162,14 @@ projects:
   - name: react-simplemde-editor
     github_id: RIP21/react-simplemde-editor
     category: editors
-    maven_id: org.webjars.npm:github-com-benrlodge-react-simplemde-editor
     npm_id: react-simplemde-editor
   - name: easy-markdown-editor
     github_id: Ionaru/easy-markdown-editor
     category: editors
-    maven_id: org.webjars.npm:easymde
     npm_id: easymde
   - name: react-md-editor
     github_id: uiwjs/react-md-editor
     category: editors
-    maven_id: org.webjars.npm:uiw__react-md-editor
     npm_id: '@uiw/react-md-editor'
   - name: react-avatar-generator
     github_id: JosephSmith127/react-avatar-generator
@@ -1278,7 +1190,6 @@ projects:
   - name: golden-layout
     github_id: golden-layout/golden-layout
     category: layout
-    maven_id: org.webjars.bower:golden-layout
     npm_id: golden-layout
   - name: hedron
     github_id: garetmckinley/hedron
@@ -1299,7 +1210,6 @@ projects:
   - name: react-masonry-component
     github_id: eiriklv/react-masonry-component
     category: layout
-    maven_id: org.webjars.npm:react-masonry-component
     npm_id: react-masonry-component
   - name: Re-Flex
     github_id: leefsmp/Re-Flex
@@ -1321,7 +1231,6 @@ projects:
     github_id: joshwcomeau/react-flip-move
     category: animations
     npm_id: react-flip-move
-    maven_id: org.webjars.npm:react-flip-move
   - name: tsparticles
     github_id: matteobruni/tsparticles
     category: animations
@@ -1330,12 +1239,10 @@ projects:
     github_id: chenglou/react-motion
     category: animations
     npm_id: react-motion
-    maven_id: org.webjars.npm:react-motion
   - name: react-router-transition
     github_id: maisano/react-router-transition
     category: animations
     npm_id: react-router-transition
-    maven_id: org.webjars.npm:react-router-transition
   - name: react-spring
     github_id: pmndrs/react-spring
     category: animations
@@ -1363,17 +1270,14 @@ projects:
   - name: aphrodite
     github_id: Khan/aphrodite
     category: styling
-    maven_id: org.webjars.npm:aphrodite
     npm_id: aphrodite
   - name: inline-style-prefixer
     github_id: robinweser/inline-style-prefixer
     category: styling
-    maven_id: org.webjars.npm:inline-style-prefixer
     npm_id: inline-style-prefixer
   - name: radium
     github_id: FormidableLabs/radium
     category: styling
-    maven_id: org.webjars.npm:radium
     npm_id: radium
   - name: react-container-query
     github_id: react-container-query/react-container-query
@@ -1382,13 +1286,11 @@ projects:
   - name: react-responsive
     github_id: yocontra/react-responsive
     category: styling
-    maven_id: org.webjars.npm:react-responsive
     npm_id: react-responsive
   - name: react-router
     github_id: remix-run/react-router
     category: routing
     npm_id: react-router-dom
-    maven_id: org.webjars.npm:react-router
   - name: navi
     github_id: frontarm/navi
     category: routing
@@ -1401,7 +1303,6 @@ projects:
     github_id: reach/router
     category: routing
     npm_id: '@reach/router'
-    maven_id: org.webjars.npm:reach__router
   - name: universal-router
     github_id: kriasoft/universal-router
     category: routing
@@ -1426,7 +1327,6 @@ projects:
     github_id: remix-run/react-router
     category: routing
     npm_id: react-router-dom
-    maven_id: org.webjars.npm:react-router
   - name: redux-first-history
     github_id: salvoravida/redux-first-history
     category: routing
@@ -1435,12 +1335,10 @@ projects:
     github_id: acdlite/redux-router
     category: routing
     npm_id: redux-router
-    maven_id: org.webjars.npm:redux-react-router
   - name: react-hooks-testing-library
     github_id: testing-library/react-hooks-testing-library
     category: testing
     npm_id: '@testing-library/react-hooks'
-    maven_id: org.webjars.npm:testing-library__react-hooks
   - name: majestic
     github_id: Raathigesh/majestic
     category: testing
@@ -1449,7 +1347,6 @@ projects:
     github_id: mobxjs/mobx
     category: state-management
     npm_id: mobx
-    maven_id: org.webjars.npm:mobx
   - name: Recoil
     github_id: facebookexperimental/Recoil
     category: state-management
@@ -1458,7 +1355,6 @@ projects:
     github_id: statelyai/xstate
     category: state-management
     npm_id: xstate
-    maven_id: org.webjars.npm:xstate__fsm
   - name: easy-peasy
     github_id: ctrlplusb/easy-peasy
     category: state-management
@@ -1483,7 +1379,6 @@ projects:
     github_id: goatslacker/alt
     category: state-management
     npm_id: alt
-    maven_id: org.webjars.bower:alt
   - name: baobab-react
     github_id: Yomguithereal/baobab-react
     category: state-management
@@ -1496,12 +1391,10 @@ projects:
     github_id: yahoo/fluxible
     category: state-management
     npm_id: fluxible
-    maven_id: org.webjars.npm:fluxible
   - name: fluxxor
     github_id: BinaryMuse/fluxxor
     category: state-management
     npm_id: fluxxor
-    maven_id: org.webjars.bower:fluxxor
   - name: kea
     github_id: keajs/kea
     category: state-management
@@ -1522,12 +1415,10 @@ projects:
     github_id: reduxjs/redux
     category: state-management
     npm_id: redux
-    maven_id: org.webjars.bower:redux
   - name: reselect
     github_id: reduxjs/reselect
     category: state-management
     npm_id: reselect
-    maven_id: org.webjars.npm:reselect
   - name: resourcerer
     github_id: noahgrant/resourcerer
     category: state-management
@@ -1543,7 +1434,6 @@ projects:
   - name: reactstrap
     github_id: reactstrap/reactstrap
     category: ui-frameworks
-    maven_id: org.webjars.npm:reactstrap
     npm_id: reactstrap
   - name: reakit
     github_id: reakit/reakit
@@ -1556,7 +1446,6 @@ projects:
   - name: ring-ui
     github_id: JetBrains/ring-ui
     category: ui-frameworks
-    maven_id: org.webjars.npm:github-com-JetBrains-ring-ui
     npm_id: '@jetbrains/ring-ui'
   - name: react-bulma-components
     github_id: couds/react-bulma-components
@@ -1613,13 +1502,11 @@ projects:
   - name: semi-design
     github_id: DouyinFE/semi-design
     category: ui-frameworks
-    pypi_id: PDTest
     npm_id: '@douyinfe/semi-animation-react'
   - name: jss
     github_id: cssinjs/jss
     category: styling
     npm_id: react-jss
-    maven_id: org.webjars.npm:jss-plugin-camel-case
   - name: linaria
     github_id: callstack/linaria
     category: styling
@@ -1636,12 +1523,10 @@ projects:
     github_id: gaearon/react-hot-loader
     category: dev-tools
     npm_id: react-hot-loader
-    maven_id: org.webjars.npm:react-hot-loader
   - name: react-loadable
     github_id: jamiebuilds/react-loadable
     category: dev-tools
     npm_id: react-loadable
-    maven_id: org.webjars.bowergithub.jamiebuilds:react-loadable
   - name: loadable-components
     github_id: gregberge/loadable-components
     category: dev-tools
@@ -1650,7 +1535,6 @@ projects:
     github_id: styleguidist/react-styleguidist
     category: dev-tools
     npm_id: react-styleguidist
-    maven_id: org.webjars.npm:react-styleguidist
   - name: react-cosmos
     github_id: react-cosmos/react-cosmos
     category: dev-tools
@@ -1659,7 +1543,6 @@ projects:
     github_id: yannickcr/eslint-plugin-react
     category: dev-tools
     npm_id: eslint-plugin-react
-    maven_id: org.webjars.npm:eslint-plugin-react
   - name: eslint-plugin-jsx-a11y
     github_id: jsx-eslint/eslint-plugin-jsx-a11y
     category: dev-tools
@@ -1683,17 +1566,14 @@ projects:
   - name: react-dnd
     github_id: react-dnd/react-dnd
     category: dnd
-    maven_id: org.webjars.npm:react-dnd
     npm_id: react-dnd-html5-backend
   - name: react-draggable
     github_id: react-grid-layout/react-draggable
     category: dnd
-    maven_id: org.webjars.npm:react-draggable
     npm_id: react-draggable
   - name: react-dragula
     github_id: bevacqua/react-dragula
     category: dnd
-    maven_id: org.webjars.npm:github-com-bevacqua-react-dragula
     npm_id: react-dragula
   - name: react-movable
     github_id: tajo/react-movable
@@ -1714,17 +1594,14 @@ projects:
   - name: Sortable
     github_id: SortableJS/Sortable
     category: dnd
-    maven_id: org.webjars.npm:sortablejs
     npm_id: sortablejs
   - name: apollo-client
     github_id: apollographql/apollo-client
     category: data-fetching
-    maven_id: org.webjars.npm:apollo-client
     npm_id: apollo-utilities
   - name: react-window
     github_id: bvaughn/react-window
     category: data-tables
-    maven_id: org.webjars.npm:react-window
     npm_id: react-window
   - name: react-three-fiber
     github_id: pmndrs/react-three-fiber
@@ -1745,7 +1622,6 @@ projects:
   - name: react-intersection-observer
     github_id: thebuilder/react-intersection-observer
     category: dev-tools
-    maven_id: org.webjars.npm:github-com-thebuilder-react-intersection-observer
     npm_id: react-intersection-observer
   - name: formatjs
     github_id: formatjs/formatjs
@@ -1754,7 +1630,6 @@ projects:
   - name: react-i18next
     github_id: i18next/react-i18next
     category: i18
-    maven_id: org.webjars.npm:react-i18next
     npm_id: react-i18next
   - name: js-lingui
     github_id: lingui/js-lingui
@@ -1767,7 +1642,6 @@ projects:
   - name: react-select
     github_id: JedWatson/react-select
     category: input-components
-    maven_id: org.webjars.npm:react-select
     npm_id: react-select
   - name: react-jsonschema-form
     github_id: rjsf-team/react-jsonschema-form
@@ -1776,22 +1650,18 @@ projects:
   - name: downshift
     github_id: downshift-js/downshift
     category: input-components
-    maven_id: org.webjars.npm:downshift
     npm_id: downshift
   - name: cleave.js
     github_id: nosir/cleave.js
     category: input-components
-    maven_id: org.webjars.npm:cleave.js
     npm_id: cleave.js
   - name: react-dates
     github_id: airbnb/react-dates
     category: input-components
-    maven_id: org.webjars.npm:react-dates
     npm_id: '@fmauneko/react-dates'
   - name: react-widgets
     github_id: jquense/react-widgets
     category: input-components
-    maven_id: org.webjars.npm:react-widgets
     npm_id: react-widgets
   - name: unform
     github_id: unform/unform
@@ -1800,7 +1670,6 @@ projects:
   - name: survey-library
     github_id: surveyjs/survey-library
     category: input-components
-    maven_id: org.webjars.npm:survey-jquery
     npm_id: survey-knockout
   - name: react-popper
     github_id: floating-ui/react-popper
@@ -1809,32 +1678,26 @@ projects:
   - name: react-big-calendar
     github_id: jquense/react-big-calendar
     category: other-components
-    maven_id: org.webjars.npm:github-com-intljusticemission-react-big-calendar
     npm_id: react-big-calendar
   - name: react-markdown
     github_id: remarkjs/react-markdown
     category: other-components
-    maven_id: org.webjars.npm:react-markdown
     npm_id: react-markdown
   - name: react-tabs
     github_id: reactjs/react-tabs
     category: other-components
-    maven_id: org.webjars.npm:react-tabs
     npm_id: react-tabs
   - name: react-modal
     github_id: reactjs/react-modal
     category: other-components
-    maven_id: org.webjars.npm:react-modal
     npm_id: react-modal
   - name: react-fontawesome
     github_id: FortAwesome/react-fontawesome
     category: other-components
-    maven_id: org.webjars.npm:fortawesome__react-fontawesome
     npm_id: '@fortawesome/react-fontawesome'
   - name: react-map-gl
     github_id: visgl/react-map-gl
     category: other-components
-    maven_id: org.webjars.npm:github-com-uber-react-map-gl
     npm_id: react-map-gl
   - name: react-instantsearch
     github_id: algolia/react-instantsearch
@@ -1843,12 +1706,10 @@ projects:
   - name: react-calendar
     github_id: wojtekmaj/react-calendar
     category: other-components
-    maven_id: org.webjars.npm:react-calendar
     npm_id: react-calendar
   - name: react-paginate
     github_id: AdeleD/react-paginate
     category: other-components
-    maven_id: org.webjars.npm:react-paginate
     npm_id: react-paginate
   - name: react-pdf
     github_id: wojtekmaj/react-pdf
@@ -1857,22 +1718,18 @@ projects:
   - name: react-autosuggest
     github_id: moroshko/react-autosuggest
     category: other-components
-    maven_id: org.webjars.npm:react-autosuggest
     npm_id: react-autosuggest
   - name: react-tooltip
     github_id: wwayne/react-tooltip
     category: other-components
-    maven_id: org.webjars.npm:react-tooltip
     npm_id: react-tooltip
   - name: react-image-gallery
     github_id: xiaolin/react-image-gallery
     category: other-components
-    maven_id: org.webjars.npm:react-image-gallery
     npm_id: react-image-gallery
   - name: react-responsive-carousel
     github_id: leandrowd/react-responsive-carousel
     category: other-components
-    maven_id: org.webjars.npm:react-responsive-carousel
     npm_id: react-responsive-carousel
   - name: react-content-loader
     github_id: danilowoz/react-content-loader
@@ -1881,42 +1738,34 @@ projects:
   - name: react-youtube
     github_id: tjallingt/react-youtube
     category: other-components
-    maven_id: org.webjars.npm:react-youtube
     npm_id: react-youtube
   - name: video-react
     github_id: video-react/video-react
     category: other-components
-    maven_id: org.webjars.npm:video-react
     npm_id: video-react
   - name: google-map-react
     github_id: google-map-react/google-map-react
     category: other-components
-    maven_id: org.webjars.npm:google-map-react
     npm_id: google-map-react
   - name: lightGallery
     github_id: sachinchoolur/lightGallery
     category: other-components
-    maven_id: org.webjars.npm:lightgallery
     npm_id: lightgallery
   - name: react-split-pane
     github_id: tomkp/react-split-pane
     category: other-components
-    maven_id: org.webjars.npm:react-split-pane
     npm_id: react-split-pane
   - name: react-leaflet
     github_id: PaulLeCam/react-leaflet
     category: other-components
-    maven_id: org.webjars.bower:react-leaflet
     npm_id: react-leaflet
   - name: react-helmet
     github_id: nfl/react-helmet
     category: others
-    maven_id: org.webjars.npm:react-helmet
     npm_id: react-helmet
   - name: react-icons
     github_id: react-icons/react-icons
     category: others
-    maven_id: org.webjars.npm:react-icons
     npm_id: react-icons
   - name: aframe
     github_id: ngokevin/aframe
@@ -1929,22 +1778,18 @@ projects:
   - name: react-syntax-highlighter
     github_id: react-syntax-highlighter/react-syntax-highlighter
     category: others
-    maven_id: org.webjars.npm:react-syntax-highlighter
     npm_id: react-syntax-highlighter
   - name: reactfire
     github_id: FirebaseExtended/reactfire
     category: others
-    maven_id: org.webjars.bower:reactfire
     npm_id: reactfire
   - name: immutable-js
     github_id: immutable-js/immutable-js
     category: state-management
-    maven_id: org.webjars.npm:immutable
     npm_id: immutable
   - name: immer
     github_id: immerjs/immer
     category: state-management
-    maven_id: org.webjars.npm:immer
     npm_id: immer
   - name: rxdb
     github_id: pubkey/rxdb
@@ -1957,5 +1802,4 @@ projects:
   - name: ant-design-mobile
     github_id: ant-design/ant-design-mobile
     category: ui-frameworks
-    maven_id: org.webjars.npm:antd-mobile
     npm_id: antd-mobile
