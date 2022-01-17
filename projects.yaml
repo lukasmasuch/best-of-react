@@ -630,7 +630,7 @@ projects:
   - name: react-hook-form
     github_id: react-hook-form/react-hook-form
     npm_id: react-hook-form
-    category: others
+    category: input-components
   - name: sql.js
     github_id: sql-js/sql.js
     npm_id: sql.js
@@ -1014,7 +1014,7 @@ projects:
     npm_id: react-contenteditable
   - name: formik
     github_id: jaredpalmer/formik
-    category: others
+    category: input-components
     npm_id: formik
   - name: FluidFramework
     github_id: microsoft/FluidFramework
