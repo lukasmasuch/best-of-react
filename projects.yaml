@@ -1349,3 +1349,31 @@ projects:
     github_id: mkosir/react-parallax-tilt
     category: animations
     npm_id: react-parallax-tilt
+  - name: aesthetic
+    github_id: aesthetic-suite/framework
+    category: styling
+    npm_id: aesthetic-utils
+  - name: aphrodite
+    github_id: Khan/aphrodite
+    category: styling
+    maven_id: org.webjars.npm:aphrodite
+    npm_id: aphrodite
+  - name: inline-style-prefixer
+    github_id: robinweser/inline-style-prefixer
+    category: styling
+    maven_id: org.webjars.npm:inline-style-prefixer
+    npm_id: inline-style-prefixer
+  - name: radium
+    github_id: FormidableLabs/radium
+    category: styling
+    maven_id: org.webjars.npm:radium
+    npm_id: radium
+  - name: react-container-query
+    github_id: react-container-query/react-container-query
+    category: styling
+    npm_id: react-container-query
+  - name: react-responsive
+    github_id: yocontra/react-responsive
+    category: styling
+    maven_id: org.webjars.npm:react-responsive
+    npm_id: react-responsive
