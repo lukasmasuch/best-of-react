@@ -1185,3 +1185,79 @@ projects:
     github_id: alexpermiakov/simple-react-notifications
     category: notifications
     npm_id: simple-react-notifications
+  - name: alloy-editor
+    github_id: liferay/alloy-editor
+    category: editors
+    maven_id: org.webjars.npm:alloyeditor
+    npm_id: alloyeditor
+  - name: ckeditor4-react
+    github_id: ckeditor/ckeditor4-react
+    category: editors
+    npm_id: ckeditor4-react
+  - name: ckeditor5-react
+    github_id: ckeditor/ckeditor5-react
+    category: editors
+    npm_id: '@ckeditor/ckeditor5-react'
+  - name: edtr-io
+    github_id: edtr-io/edtr-io
+    category: editors
+    npm_id: '@edtr-io/store'
+  - name: megadraft
+    github_id: globocom/megadraft
+    category: editors
+    npm_id: megadraft
+  - name: react-codemirror
+    github_id: uiwjs/react-codemirror
+    category: editors
+    npm_id: '@uiw/react-codemirror'
+  - name: react-editor
+    github_id: fritx/react-editor
+    category: editors
+    npm_id: react-editor
+  - name: react-monacoeditor
+    github_id: jaywcjlove/react-monacoeditor
+    category: editors
+    npm_id: '@uiw/react-monacoeditor'
+  - name: react-trumbowyg
+    github_id: RD17/react-trumbowyg
+    category: editors
+    npm_id: react-trumbowyg
+  - name: remirror
+    github_id: remirror/remirror
+    category: editors
+    npm_id: create-context-state
+  - name: smartblock
+    github_id: appleple/smartblock
+    category: editors
+    npm_id: '@steelydylan/smartblock'
+  - name: tiptap
+    github_id: ueberdosis/tiptap
+    category: editors
+    npm_id: magic-tiptap-extensions
+  - name: react-simplemde-editor
+    github_id: RIP21/react-simplemde-editor
+    category: editors
+    maven_id: org.webjars.npm:github-com-benrlodge-react-simplemde-editor
+    npm_id: react-simplemde-editor
+  - name: easy-markdown-editor
+    github_id: Ionaru/easy-markdown-editor
+    category: editors
+    maven_id: org.webjars.npm:easymde
+    npm_id: easymde
+  - name: react-md-editor
+    github_id: uiwjs/react-md-editor
+    category: editors
+    maven_id: org.webjars.npm:uiw__react-md-editor
+    npm_id: '@uiw/react-md-editor'
+  - name: react-avatar-generator
+    github_id: JosephSmith127/react-avatar-generator
+    category: editors
+    npm_id: react-avatar-generator
+  - name: react-easy-crop
+    github_id: ricardo-ch/react-easy-crop
+    category: editors
+    npm_id: react-easy-crop
+  - name: react-image-crop
+    github_id: DominicTobias/react-image-crop
+    category: editors
+    npm_id: react-image-crop
