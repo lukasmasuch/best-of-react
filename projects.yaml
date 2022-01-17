@@ -1377,3 +1377,55 @@ projects:
     category: styling
     maven_id: org.webjars.npm:react-responsive
     npm_id: react-responsive
+  - name: react-router
+    github_id: remix-run/react-router
+    category: routing
+    npm_id: react-router-dom
+    maven_id: org.webjars.npm:react-router
+  - name: navi
+    github_id: frontarm/navi
+    category: routing
+    npm_id: react-navi
+  - name: curi
+    github_id: pshrmn/curi
+    category: routing
+    npm_id: '@curi/types'
+  - name: router
+    github_id: reach/router
+    category: routing
+    npm_id: '@reach/router'
+    maven_id: org.webjars.npm:reach__router
+  - name: universal-router
+    github_id: kriasoft/universal-router
+    category: routing
+    npm_id: universal-router
+  - name: wouter
+    github_id: molefrog/wouter
+    category: routing
+    npm_id: wouter
+  - name: react-breadcrumbs
+    github_id: robbestad/react-breadcrumbs
+    category: routing
+    npm_id: react-breadcrumbs
+  - name: react-router-component
+    github_id: STRML/react-router-component
+    category: routing
+    npm_id: react-router-component
+  - name: react-router-scroll
+    github_id: taion/react-router-scroll
+    category: routing
+    npm_id: react-router-scroll
+  - name: remix-run/react-router
+    github_id: remix-run/react-router
+    category: routing
+    npm_id: react-router-dom
+    maven_id: org.webjars.npm:react-router
+  - name: redux-first-history
+    github_id: salvoravida/redux-first-history
+    category: routing
+    npm_id: redux-first-history
+  - name: redux-router
+    github_id: acdlite/redux-router
+    category: routing
+    npm_id: redux-router
+    maven_id: org.webjars.npm:redux-react-router
