@@ -38,9 +38,8 @@ categories:
   - category: "editors"
     title: "Editor Components"
     subtitle: "Editor components for code, text, images and more."
-  - category: "other-components"
-    title: "Other Components"
-    subtitle: "Collection of other components."
+  - category: "dnd"
+    title: "Drag & Drop"
   - category: "dev-tools"
     title: "Developer Tools"
     subtitle: "Tools to help with React development."
@@ -54,7 +53,10 @@ categories:
   - category: "admin-dashboards"
     title: "Admin Dashboards"
     subtitle: "Admin frontend frameworks, dashboards and templates."
-
+  - category: "other-components"
+    title: "Other Components"
+    subtitle: "Collection of other components."
+ 
 labels:
   - label: "material-ui"
     image: "https://material-ui.com/static/favicon.ico"
@@ -590,7 +592,7 @@ projects:
   - name: react-sortable-tree
     github_id: frontend-collective/react-sortable-tree
     npm_id: react-sortable-tree
-    category: other-components
+    category: dnd
     maven_id: org.webjars.npm:react-sortable-tree
     demo_url: https://frontend-collective.github.io/react-sortable-tree/?path=/story/basics--minimal-implementation
   - name: Reactive Search
@@ -601,7 +603,7 @@ projects:
   - name: react-beautiful-dnd
     github_id: atlassian/react-beautiful-dnd
     npm_id: react-beautiful-dnd
-    category: other-components
+    category: dnd
     maven_id: org.webjars.npm:react-beautiful-dnd
   - name: sweetalert2
     github_id: sweetalert2/sweetalert2
@@ -616,7 +618,7 @@ projects:
   - name: muuri
     github_id: haltu/muuri
     npm_id: muuri
-    category: other-components
+    category: dnd
     maven_id: org.webjars.npm:muuri
   - name: searchkit
     github_id: searchkit/searchkit
@@ -625,7 +627,7 @@ projects:
   - name: dnd-kit
     github_id: clauderic/dnd-kit
     npm_id: "@dnd-kit/core"
-    category: other-components
+    category: dnd
   - name: react-avatar-editor
     github_id: mosch/react-avatar-editor
     npm_id: react-avatar-editor
@@ -1673,3 +1675,39 @@ projects:
     github_id: moroshko/react-scanner
     category: dev-tools
     npm_id: react-scanner
+  - name: react-dnd
+    github_id: react-dnd/react-dnd
+    category: dnd
+    maven_id: org.webjars.npm:react-dnd
+    npm_id: react-dnd-html5-backend
+  - name: react-draggable
+    github_id: react-grid-layout/react-draggable
+    category: dnd
+    maven_id: org.webjars.npm:react-draggable
+    npm_id: react-draggable
+  - name: react-dragula
+    github_id: bevacqua/react-dragula
+    category: dnd
+    maven_id: org.webjars.npm:github-com-bevacqua-react-dragula
+    npm_id: react-dragula
+  - name: react-movable
+    github_id: tajo/react-movable
+    category: dnd
+    npm_id: react-movable
+  - name: react-sortable-pane
+    github_id: bokuweb/react-sortable-pane
+    category: dnd
+    npm_id: react-sortable-pane
+  - name: react-rnd
+    github_id: bokuweb/react-rnd
+    category: dnd
+    npm_id: react-rnd
+  - name: react-sortable
+    github_id: danielstocks/react-sortable
+    category: dnd
+    npm_id: react-sortable
+  - name: Sortable
+    github_id: SortableJS/Sortable
+    category: dnd
+    maven_id: org.webjars.npm:sortablejs
+    npm_id: sortablejs
