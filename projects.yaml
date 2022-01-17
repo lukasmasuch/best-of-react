@@ -1429,3 +1429,103 @@ projects:
     category: routing
     npm_id: redux-router
     maven_id: org.webjars.npm:redux-react-router
+  - name: react-hooks-testing-library
+    github_id: testing-library/react-hooks-testing-library
+    category: testing
+    npm_id: '@testing-library/react-hooks'
+    maven_id: org.webjars.npm:testing-library__react-hooks
+  - name: majestic
+    github_id: Raathigesh/majestic
+    category: testing
+    npm_id: majestic
+  - name: mobx
+    github_id: mobxjs/mobx
+    category: state-management
+    npm_id: mobx
+    maven_id: org.webjars.npm:mobx
+  - name: Recoil
+    github_id: facebookexperimental/Recoil
+    category: state-management
+    npm_id: recoil
+  - name: xstate
+    github_id: statelyai/xstate
+    category: state-management
+    npm_id: xstate
+    maven_id: org.webjars.npm:xstate__fsm
+  - name: easy-peasy
+    github_id: ctrlplusb/easy-peasy
+    category: state-management
+    npm_id: easy-peasy
+  - name: hookstate
+    github_id: avkonst/hookstate
+    category: state-management
+    npm_id: '@hookstate/core'
+  - name: effector
+    github_id: effector/effector
+    category: state-management
+    npm_id: effector-react
+  - name: reactn
+    github_id: CharlesStover/reactn
+    category: state-management
+    npm_id: reactn
+  - name: ore-ui
+    github_id: Mojang/ore-ui
+    category: state-management
+    npm_id: '@react-facet/dom-fiber-testing-library'
+  - name: alt
+    github_id: goatslacker/alt
+    category: state-management
+    npm_id: alt
+    maven_id: org.webjars.bower:alt
+  - name: baobab-react
+    github_id: Yomguithereal/baobab-react
+    category: state-management
+    npm_id: baobab-react
+  - name: cerebral
+    github_id: cerebral/cerebral
+    category: state-management
+    npm_id: cerebral
+  - name: fluxible
+    github_id: yahoo/fluxible
+    category: state-management
+    npm_id: fluxible
+    maven_id: org.webjars.npm:fluxible
+  - name: fluxxor
+    github_id: BinaryMuse/fluxxor
+    category: state-management
+    npm_id: fluxxor
+    maven_id: org.webjars.bower:fluxxor
+  - name: kea
+    github_id: keajs/kea
+    category: state-management
+    npm_id: kea
+  - name: mobx-react
+    github_id: mobxjs/mobx-react
+    category: state-management
+    npm_id: mobservable-react
+  - name: react-i13n
+    github_id: yahoo/react-i13n
+    category: state-management
+    npm_id: react-i13n
+  - name: redux-batched-actions
+    github_id: tshelburne/redux-batched-actions
+    category: state-management
+    npm_id: redux-batched-actions
+  - name: redux
+    github_id: reduxjs/redux
+    category: state-management
+    npm_id: redux
+    maven_id: org.webjars.bower:redux
+  - name: reselect
+    github_id: reduxjs/reselect
+    category: state-management
+    npm_id: reselect
+    maven_id: org.webjars.npm:reselect
+  - name: resourcerer
+    github_id: noahgrant/resourcerer
+    category: state-management
+    npm_id: resourcerer
+  - name: teaful
+    github_id: teafuljs/teaful
+    category: state-management
+    npm_id: teaful
