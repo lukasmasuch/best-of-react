@@ -1234,7 +1234,7 @@ projects:
   - name: tsparticles
     github_id: matteobruni/tsparticles
     category: animations
-    npm_id: tsparticles-core
+    npm_id: tsparticles
   - name: react-motion
     github_id: chenglou/react-motion
     category: animations
