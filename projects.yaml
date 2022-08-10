@@ -1463,7 +1463,7 @@ projects:
     github_id: mantinedev/mantine
     category: ui-frameworks
     npm_id: '@mantine/tag-picker'
-  - name: react
+  - name: geist-ui
     github_id: geist-org/react
     category: ui-frameworks
     npm_id: '@geist-ui/react'
