@@ -72,84 +72,84 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 
 <details><summary><b><a href="https://github.com/mui/material-ui">Material-UI</a></b> (🥇52 ·  ⭐ 80K) - MUI Core is a collection of React UI libraries for shipping new.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mui/material-ui) (👨‍💻 2.8K · 🔀 28K · 📦 920K · 📋 16K - 6% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/mui/material-ui) (👨‍💻 2.8K · 🔀 28K · 📦 920K · 📋 16K - 6% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/mui-org/material-ui
 	```
-- [npm](https://www.npmjs.com/package/@material-ui/core) (📥 8.6M / month · 📦 22K · ⏱️ 03.04.2022):
+- [npm](https://www.npmjs.com/package/@material-ui/core) (📥 8.7M / month · 📦 22K · ⏱️ 03.04.2022):
 	```
 	npm install @material-ui/core
 	```
 </details>
 <details><summary><b><a href="https://github.com/ant-design/ant-design">Ant Design</a></b> (🥇51 ·  ⭐ 81K) - An enterprise-class UI design language and React UI library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ant-design/ant-design) (👨‍💻 1.9K · 🔀 35K · 📦 340K · 📋 24K - 3% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/ant-design/ant-design) (👨‍💻 1.9K · 🔀 35K · 📦 350K · 📋 24K - 3% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/ant-design/ant-design
 	```
-- [npm](https://www.npmjs.com/package/antd) (📥 3.8M / month · 📦 22K · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/antd) (📥 3.8M / month · 📦 22K · ⏱️ 08.08.2022):
 	```
 	npm install antd
 	```
 </details>
-<details><summary><b><a href="https://github.com/react-bootstrap/react-bootstrap">Bootstrap React</a></b> (🥇45 ·  ⭐ 21K) - Bootstrap components built with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/react-bootstrap/react-bootstrap">Bootstrap React</a></b> (🥇44 ·  ⭐ 21K · 📉) - Bootstrap components built with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/react-bootstrap/react-bootstrap) (👨‍💻 490 · 🔀 3.3K · 📥 51K · 📦 850K · 📋 3.4K - 5% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/react-bootstrap/react-bootstrap) (👨‍💻 490 · 🔀 3.4K · 📥 51K · 📦 850K · 📋 3.4K - 4% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/react-bootstrap/react-bootstrap
 	```
-- [npm](https://www.npmjs.com/package/react-bootstrap) (📥 5.5M / month · 📦 33K · ⏱️ 10.06.2022):
+- [npm](https://www.npmjs.com/package/react-bootstrap) (📥 5.6M / month · 📦 33K · ⏱️ 05.08.2022):
 	```
 	npm install react-bootstrap
 	```
 </details>
 <details><summary><b><a href="https://github.com/jgthms/bulma">bulma</a></b> (🥇42 ·  ⭐ 46K) - Modern CSS framework based on Flexbox. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jgthms/bulma) (👨‍💻 390 · 🔀 3.9K · 📥 630K · 📦 200K · 📋 2.6K - 11% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/jgthms/bulma) (👨‍💻 390 · 🔀 3.9K · 📥 630K · 📦 200K · 📋 2.6K - 11% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/jgthms/bulma
 	```
-- [npm](https://www.npmjs.com/package/bulma) (📥 870K / month · 📦 12K · ⏱️ 08.05.2022):
+- [npm](https://www.npmjs.com/package/bulma) (📥 880K / month · 📦 12K · ⏱️ 08.05.2022):
 	```
 	npm install bulma
 	```
 </details>
 <details><summary><b><a href="https://github.com/ant-design/ant-design-mobile">ant-design-mobile</a></b> (🥇42 ·  ⭐ 10K) - Essential UI blocks for building mobile web apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ant-design/ant-design-mobile) (👨‍💻 220 · 🔀 2K · 📦 21K · 📋 3.9K - 1% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/ant-design/ant-design-mobile) (👨‍💻 220 · 🔀 2K · 📦 22K · 📋 3.9K - 1% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/ant-design/ant-design-mobile
 	```
-- [npm](https://www.npmjs.com/package/antd-mobile) (📥 170K / month · 📦 2.4K · ⏱️ 28.07.2022):
+- [npm](https://www.npmjs.com/package/antd-mobile) (📥 170K / month · 📦 2.5K · ⏱️ 09.08.2022):
 	```
 	npm install antd-mobile
 	```
 </details>
 <details><summary><b><a href="https://github.com/reactstrap/reactstrap">reactstrap</a></b> (🥇42 ·  ⭐ 10K) - Simple React Bootstrap 5 components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reactstrap/reactstrap) (👨‍💻 260 · 🔀 1.3K · 📦 290K · 📋 1.3K - 21% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/reactstrap/reactstrap) (👨‍💻 260 · 🔀 1.3K · 📦 290K · 📋 1.3K - 21% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/reactstrap/reactstrap
 	```
-- [npm](https://www.npmjs.com/package/reactstrap) (📥 2.5M / month · 📦 11K · ⏱️ 16.07.2022):
+- [npm](https://www.npmjs.com/package/reactstrap) (📥 2.6M / month · 📦 11K · ⏱️ 16.07.2022):
 	```
 	npm install reactstrap
 	```
 </details>
 <details><summary><b><a href="https://github.com/microsoft/fluentui">fluentui</a></b> (🥈41 ·  ⭐ 14K) - Fluent UI web represents a collection of utilities, React components, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/microsoft/fluentui) (👨‍💻 770 · 🔀 2.3K · 📦 13 · 📋 9.9K - 7% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/microsoft/fluentui) (👨‍💻 770 · 🔀 2.3K · 📦 13 · 📋 10K - 7% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/microsoft/fluentui
 	```
-- [npm](https://www.npmjs.com/package/@fluentui/react) (📥 520K / month · 📦 120 · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/@fluentui/react) (📥 530K / month · 📦 120 · ⏱️ 08.08.2022):
 	```
 	npm install @fluentui/react
 	```
@@ -168,43 +168,43 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 </details>
 <details><summary><b><a href="https://github.com/chakra-ui/chakra-ui">chakra-ui</a></b> (🥈40 ·  ⭐ 28K) - Simple, Modular & Accessible UI Components for your React Applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/chakra-ui/chakra-ui) (👨‍💻 550 · 🔀 2.5K · 📦 68K · 📋 2.7K - 3% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/chakra-ui/chakra-ui) (👨‍💻 560 · 🔀 2.5K · 📦 69K · 📋 2.7K - 3% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/chakra-ui/chakra-ui
 	```
-- [npm](https://www.npmjs.com/package/chakra-ui) (📥 2.7K / month · 📦 4 · ⏱️ 27.04.2019):
+- [npm](https://www.npmjs.com/package/chakra-ui) (📥 2.9K / month · 📦 4 · ⏱️ 27.04.2019):
 	```
 	npm install chakra-ui
 	```
 </details>
 <details><summary><b><a href="https://github.com/palantir/blueprint">Blueprint</a></b> (🥈40 ·  ⭐ 19K) - A React-based UI toolkit for the web. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/palantir/blueprint) (👨‍💻 330 · 🔀 2K · 📦 1.8K · 📋 2.8K - 24% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/palantir/blueprint) (👨‍💻 330 · 🔀 2K · 📦 1.9K · 📋 2.8K - 23% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/palantir/blueprint
 	```
-- [npm](https://www.npmjs.com/package/@blueprintjs/core) (📥 790K / month · 📦 1.4K · ⏱️ 28.07.2022):
+- [npm](https://www.npmjs.com/package/@blueprintjs/core) (📥 790K / month · 📦 1.4K · ⏱️ 09.08.2022):
 	```
 	npm install @blueprintjs/core
 	```
 </details>
 <details><summary><b><a href="https://github.com/carbon-design-system/carbon">carbon</a></b> (🥈38 ·  ⭐ 5.7K) - A design system built by IBM. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/carbon-design-system/carbon) (👨‍💻 380 · 🔀 1.3K · 📥 210 · 📦 49 · 📋 6K - 9% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/carbon-design-system/carbon) (👨‍💻 380 · 🔀 1.4K · 📥 200 · 📦 50 · 📋 6K - 8% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/carbon-design-system/carbon
 	```
-- [npm](https://www.npmjs.com/package/carbon-components-react) (📥 190K / month · 📦 300 · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/carbon-components-react) (📥 200K / month · 📦 310 · ⏱️ 09.08.2022):
 	```
 	npm install carbon-components-react
 	```
 </details>
 <details><summary><b><a href="https://github.com/primefaces/primereact">primereact</a></b> (🥈38 ·  ⭐ 3K) - The Most Complete React UI Component Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/primefaces/primereact) (👨‍💻 150 · 🔀 600 · 📦 9.9K · 📋 2.6K - 8% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/primefaces/primereact) (👨‍💻 160 · 🔀 610 · 📦 10K · 📋 2.6K - 8% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/primefaces/primereact
@@ -216,7 +216,7 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 </details>
 <details><summary><b><a href="https://github.com/mantinedev/mantine">mantine</a></b> (🥈37 ·  ⭐ 13K) - React components library with native dark theme support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mantinedev/mantine) (👨‍💻 200 · 🔀 760 · 📦 6.9K · 📋 710 - 7% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/mantinedev/mantine) (👨‍💻 210 · 🔀 780 · 📦 7.3K · 📋 750 - 7% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/mantinedev/mantine
@@ -238,69 +238,69 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 	npm install grommet
 	```
 </details>
-<details><summary><b><a href="https://github.com/Shopify/polaris">polaris-react</a></b> (🥈36 ·  ⭐ 4.8K) - Shopifys design system to help us work together to build a great.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Shopify/polaris">polaris-react</a></b> (🥈37 ·  ⭐ 4.9K) - Shopifys design system to help us work together to build a great.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Shopify/polaris) (👨‍💻 370 · 🔀 920 · 📦 17 · 📋 2.9K - 14% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/Shopify/polaris) (👨‍💻 380 · 🔀 920 · 📦 17 · 📋 2.9K - 15% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/Shopify/polaris-react
 	```
-- [npm](https://www.npmjs.com/package/@shopify/polaris) (📥 530K / month · 📦 170 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/@shopify/polaris) (📥 600K / month · 📦 170 · ⏱️ 11.08.2022):
 	```
 	npm install @shopify/polaris
 	```
 </details>
+<details><summary><b><a href="https://github.com/system-ui/theme-ui">theme-ui</a></b> (🥈37 ·  ⭐ 4.6K · 📈) - Build consistent, themeable React apps based on constraint-based.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/system-ui/theme-ui) (👨‍💻 140 · 🔀 620 · 📦 27K · 📋 640 - 12% open · ⏱️ 08.08.2022):
+
+	```
+	git clone https://github.com/system-ui/theme-ui
+	```
+- [npm](https://www.npmjs.com/package/theme-ui) (📥 450K / month · 📦 1.1K · ⏱️ 08.08.2022):
+	```
+	npm install theme-ui
+	```
+</details>
 <details><summary><b><a href="https://github.com/uber/baseweb">baseweb</a></b> (🥈35 ·  ⭐ 7.9K) - A React Component library implementing the Base design language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/uber/baseweb) (👨‍💻 230 · 🔀 740 · 📦 3.5K · 📋 940 - 14% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/uber/baseweb) (👨‍💻 230 · 🔀 750 · 📦 3.5K · 📋 950 - 15% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/uber/baseweb
 	```
-- [npm](https://www.npmjs.com/package/baseui) (📥 160K / month · 📦 78 · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/baseui) (📥 160K / month · 📦 81 · ⏱️ 10.08.2022):
 	```
 	npm install baseui
 	```
 </details>
 <details><summary><b><a href="https://github.com/rsuite/rsuite">React Suite</a></b> (🥈35 ·  ⭐ 7K) - A suite of React components . <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rsuite/rsuite) (👨‍💻 77 · 🔀 790 · 📦 7.3K · 📋 810 - 17% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/rsuite/rsuite) (👨‍💻 77 · 🔀 800 · 📦 7.3K · 📋 810 - 17% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/rsuite/rsuite
 	```
-- [npm](https://www.npmjs.com/package/rsuite) (📥 140K / month · 📦 160 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/rsuite) (📥 150K / month · 📦 160 · ⏱️ 11.08.2022):
 	```
 	npm install rsuite
 	```
 </details>
-<details><summary><b><a href="https://github.com/system-ui/theme-ui">theme-ui</a></b> (🥈35 ·  ⭐ 4.6K) - Build consistent, themeable React apps based on constraint-based design.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/adobe/react-spectrum">react-spectrum</a></b> (🥉34 ·  ⭐ 7K) - A collection of libraries and tools that help you build.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/system-ui/theme-ui) (👨‍💻 140 · 🔀 620 · 📦 27K · 📋 650 - 12% open · ⏱️ 01.08.2022):
-
-	```
-	git clone https://github.com/system-ui/theme-ui
-	```
-- [npm](https://www.npmjs.com/package/theme-ui) (📥 440K / month · 📦 1.1K · ⏱️ 01.08.2022):
-	```
-	npm install theme-ui
-	```
-</details>
-<details><summary><b><a href="https://github.com/adobe/react-spectrum">react-spectrum</a></b> (🥉34 ·  ⭐ 6.9K) - A collection of libraries and tools that help you build.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/adobe/react-spectrum) (👨‍💻 240 · 🔀 540 · 📦 680 · 📋 1.2K - 31% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/adobe/react-spectrum) (👨‍💻 240 · 🔀 550 · 📦 690 · 📋 1.2K - 30% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/adobe/react-spectrum
 	```
-- [npm](https://www.npmjs.com/package/react-aria) (📥 120K / month · 📦 39 · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/react-aria) (📥 130K / month · 📦 40 · ⏱️ 10.08.2022):
 	```
 	npm install react-aria
 	```
 </details>
-<details><summary><b><a href="https://github.com/ariakit/ariakit">reakit</a></b> (🥉34 ·  ⭐ 6K) - Toolkit for building accessible web apps with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ariakit/ariakit">reakit</a></b> (🥉34 ·  ⭐ 6.1K) - Toolkit for building accessible web apps with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ariakit/ariakit) (👨‍💻 110 · 🔀 310 · 📦 83 · 📋 420 - 7% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/ariakit/ariakit) (👨‍💻 110 · 🔀 310 · 📦 86 · 📋 420 - 7% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/reakit/reakit
@@ -310,50 +310,50 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 	npm install reakit
 	```
 </details>
-<details><summary><b><a href="https://github.com/pinterest/gestalt">gestalt</a></b> (🥉33 ·  ⭐ 4K) - A set of React UI components that supports Pinterests design language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/primer/react">components</a></b> (🥉34 ·  ⭐ 1.9K) - An implementation of GitHubs Primer Design System using React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pinterest/gestalt) (👨‍💻 110 · 🔀 320 · 📦 690 · 📋 210 - 4% open · ⏱️ 03.08.2022):
-
-	```
-	git clone https://github.com/pinterest/gestalt
-	```
-- [npm](https://www.npmjs.com/package/gestalt) (📥 27K / month · 📦 50 · ⏱️ 03.08.2022):
-	```
-	npm install gestalt
-	```
-</details>
-<details><summary><b><a href="https://github.com/primer/react">components</a></b> (🥉33 ·  ⭐ 1.9K) - An implementation of GitHubs Primer Design System using React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/primer/react) (👨‍💻 110 · 🔀 300 · 📦 810 · 📋 530 - 12% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/primer/react) (👨‍💻 110 · 🔀 310 · 📦 830 · 📋 530 - 12% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/primer/react
 	```
-- [npm](https://www.npmjs.com/package/@primer/components) (📥 170K / month · 📦 43 · ⏱️ 30.06.2022):
+- [npm](https://www.npmjs.com/package/@primer/components) (📥 170K / month · 📦 45 · ⏱️ 30.06.2022):
 	```
 	npm install @primer/components
 	```
 </details>
-<details><summary><b><a href="https://github.com/tabler/tabler">tabler</a></b> (🥉32 ·  ⭐ 30K) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/pinterest/gestalt">gestalt</a></b> (🥉33 ·  ⭐ 4K) - A set of React UI components that supports Pinterests design language. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/tabler/tabler) (👨‍💻 83 · 🔀 3.1K · 📦 220 · 📋 570 - 11% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/pinterest/gestalt) (👨‍💻 110 · 🔀 320 · 📦 690 · 📋 210 - 4% open · ⏱️ 11.08.2022):
+
+	```
+	git clone https://github.com/pinterest/gestalt
+	```
+- [npm](https://www.npmjs.com/package/gestalt) (📥 30K / month · 📦 50 · ⏱️ 11.08.2022):
+	```
+	npm install gestalt
+	```
+</details>
+<details><summary><b><a href="https://github.com/tabler/tabler">tabler</a></b> (🥉32 ·  ⭐ 31K) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/tabler/tabler) (👨‍💻 83 · 🔀 3.2K · 📦 220 · 📋 590 - 12% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/tabler/tabler
 	```
-- [npm](https://www.npmjs.com/package/tabler) (📥 640 / month · 📦 6 · ⏱️ 09.11.2020):
+- [npm](https://www.npmjs.com/package/tabler) (📥 710 / month · 📦 6 · ⏱️ 09.11.2020):
 	```
 	npm install tabler
 	```
 </details>
 <details><summary><b><a href="https://github.com/tailwindlabs/headlessui">headlessui</a></b> (🥉32 ·  ⭐ 16K) - Completely unstyled, fully accessible UI components, designed to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tailwindlabs/headlessui) (👨‍💻 36 · 🔀 620 · 📦 350 · 📋 630 - 4% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/tailwindlabs/headlessui) (👨‍💻 36 · 🔀 620 · 📦 360 · 📋 650 - 4% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/tailwindlabs/headlessui
 	```
-- [npm](https://www.npmjs.com/package/headlessui) (📥 25K / month · ⏱️ 13.09.2020):
+- [npm](https://www.npmjs.com/package/headlessui) (📥 29K / month · ⏱️ 13.09.2020):
 	```
 	npm install headlessui
 	```
@@ -377,74 +377,74 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 	```
 	git clone https://github.com/rebassjs/rebass
 	```
-- [npm](https://www.npmjs.com/package/rebass) (📥 240K / month · 📦 1K · ⏱️ 28.10.2019):
+- [npm](https://www.npmjs.com/package/rebass) (📥 250K / month · 📦 1K · ⏱️ 28.10.2019):
 	```
 	npm install rebass
 	```
 </details>
-<details><summary><b><a href="https://github.com/DouyinFE/semi-design">semi-design</a></b> (🥉32 ·  ⭐ 6K) - A modern, comprehensive, flexible design system and React UI library... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/DouyinFE/semi-design">semi-design</a></b> (🥉32 ·  ⭐ 6.1K) - A modern, comprehensive, flexible design system and React UI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/DouyinFE/semi-design) (👨‍💻 77 · 🔀 450 · 📦 230 · 📋 470 - 30% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/DouyinFE/semi-design) (👨‍💻 77 · 🔀 460 · 📦 230 · 📋 490 - 30% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/DouyinFE/semi-design
 	```
-- [npm](https://www.npmjs.com/package/@douyinfe/semi-animation-react) (📥 6.2K / month · 📦 1 · ⏱️ 29.07.2022):
+- [npm](https://www.npmjs.com/package/@douyinfe/semi-animation-react) (📥 6.7K / month · 📦 1 · ⏱️ 10.08.2022):
 	```
 	npm install @douyinfe/semi-animation-react
 	```
 </details>
 <details><summary><b><a href="https://github.com/JetBrains/ring-ui">ring-ui</a></b> (🥉32 ·  ⭐ 3K) - A collection of JetBrains Web UI components. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/JetBrains/ring-ui) (👨‍💻 130 · 🔀 180 · 📦 200 · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/JetBrains/ring-ui) (👨‍💻 130 · 🔀 180 · 📦 200 · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/JetBrains/ring-ui
 	```
-- [npm](https://www.npmjs.com/package/@jetbrains/ring-ui) (📥 8.9K / month · 📦 69 · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/@jetbrains/ring-ui) (📥 11K / month · 📦 69 · ⏱️ 08.08.2022):
 	```
 	npm install @jetbrains/ring-ui
 	```
 </details>
-<details><summary><b><a href="https://github.com/coreui/coreui-react">coreui-react</a></b> (🥉31 ·  ⭐ 450) - CoreUI React.js UI Components. CoreUI for React.js replaces and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/kiwicom/orbit">orbit</a></b> (🥉31 ·  ⭐ 1.2K) - React components of open-source Orbit design system by Kiwi.com. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/coreui/coreui-react) (👨‍💻 8 · 🔀 210 · 📦 9.4K · 📋 230 - 8% open · ⏱️ 04.08.2022):
-
-	```
-	git clone https://github.com/coreui/coreui-react
-	```
-- [npm](https://www.npmjs.com/package/@coreui/react) (📥 73K / month · 📦 210 · ⏱️ 10.07.2022):
-	```
-	npm install @coreui/react
-	```
-</details>
-<details><summary><b><a href="https://github.com/kiwicom/orbit">orbit</a></b> (🥉30 ·  ⭐ 1.2K) - React components of open-source Orbit design system by Kiwi.com. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/kiwicom/orbit) (👨‍💻 67 · 🔀 130 · 📦 44 · 📋 390 - 6% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/kiwicom/orbit) (👨‍💻 67 · 🔀 130 · 📦 44 · 📋 390 - 6% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/kiwicom/orbit
 	```
-- [npm](https://www.npmjs.com/package/@kiwicom/orbit-components) (📥 19K / month · 📦 43 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/@kiwicom/orbit-components) (📥 18K / month · 📦 43 · ⏱️ 01.08.2022):
 	```
 	npm install @kiwicom/orbit-components
 	```
 </details>
-<details><summary><b><a href="https://github.com/geist-org/geist-ui">react</a></b> (🥉29 ·  ⭐ 3.2K) - A design system for building modern websites and applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/coreui/coreui-react">coreui-react</a></b> (🥉31 ·  ⭐ 450) - CoreUI React.js UI Components. CoreUI for React.js replaces and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/geist-org/geist-ui) (👨‍💻 50 · 🔀 280 · 📦 280 · 📋 270 - 6% open · ⏱️ 12.07.2022):
+- [GitHub](https://github.com/coreui/coreui-react) (👨‍💻 8 · 🔀 210 · 📦 9.4K · 📋 230 - 8% open · ⏱️ 09.08.2022):
+
+	```
+	git clone https://github.com/coreui/coreui-react
+	```
+- [npm](https://www.npmjs.com/package/@coreui/react) (📥 76K / month · 📦 210 · ⏱️ 09.08.2022):
+	```
+	npm install @coreui/react
+	```
+</details>
+<details><summary><b><a href="https://github.com/geist-org/geist-ui">geist-ui</a></b> (🥉29 ·  ⭐ 3.2K · ➕) - A design system for building modern websites and applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/geist-org/geist-ui) (👨‍💻 50 · 🔀 280 · 📦 300 · 📋 270 - 6% open · ⏱️ 12.07.2022):
 
 	```
 	git clone https://github.com/geist-org/react
 	```
-- [npm](https://www.npmjs.com/package/@geist-ui/react) (📥 16K / month · 📦 1 · ⏱️ 22.01.2022):
+- [npm](https://www.npmjs.com/package/@geist-ui/react) (📥 15K / month · 📦 1 · ⏱️ 22.01.2022):
 	```
 	npm install @geist-ui/react
 	```
 </details>
 <details><summary><b><a href="https://github.com/couds/react-bulma-components">react-bulma-components</a></b> (🥉29 ·  ⭐ 1.2K) - React components for Bulma framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/couds/react-bulma-components) (👨‍💻 57 · 🔀 120 · 📦 4K · 📋 220 - 5% open · ⏱️ 09.02.2022):
+- [GitHub](https://github.com/couds/react-bulma-components) (👨‍💻 57 · 🔀 130 · 📦 4K · 📋 220 - 5% open · ⏱️ 09.02.2022):
 
 	```
 	git clone https://github.com/couds/react-bulma-components
@@ -456,84 +456,84 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 </details>
 <details><summary><b><a href="https://github.com/supabase/ui">Supabase UI</a></b> (🥉27 ·  ⭐ 1.2K) - Supabase UI Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/supabase/ui) (👨‍💻 42 · 🔀 120 · 📦 1K · 📋 160 - 25% open · ⏱️ 19.07.2022):
+- [GitHub](https://github.com/supabase/ui) (👨‍💻 42 · 🔀 120 · 📦 1.1K · 📋 160 - 25% open · ⏱️ 19.07.2022):
 
 	```
 	git clone https://github.com/supabase/ui
 	```
-- [npm](https://www.npmjs.com/package/@supabase/ui) (📥 12K / month · ⏱️ 20.07.2022):
+- [npm](https://www.npmjs.com/package/@supabase/ui) (📥 13K / month · 📦 1 · ⏱️ 08.08.2022):
 	```
 	npm install @supabase/ui
 	```
 </details>
 <details><summary><b><a href="https://github.com/sheinsight/shineout">shineout</a></b> (🥉27 ·  ⭐ 770) - React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sheinsight/shineout) (👨‍💻 43 · 🔀 130 · 📦 98 · 📋 110 - 29% open · ⏱️ 25.07.2022):
+- [GitHub](https://github.com/sheinsight/shineout) (👨‍💻 44 · 🔀 130 · 📦 98 · 📋 110 - 29% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/sheinsight/shineout
 	```
-- [npm](https://www.npmjs.com/package/shineout) (📥 4.1K / month · 📦 15 · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/shineout) (📥 4.9K / month · 📦 15 · ⏱️ 09.08.2022):
 	```
 	npm install shineout
 	```
 </details>
 <details><summary><b><a href="https://github.com/radix-ui/primitives">Radix Primitives</a></b> (🥉26 ·  ⭐ 5.5K) - An open-source UI component library for building high-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/radix-ui/primitives) (👨‍💻 17 · 🔀 200 · 📦 2 · 📋 580 - 17% open · ⏱️ 22.07.2022):
+- [GitHub](https://github.com/radix-ui/primitives) (👨‍💻 17 · 🔀 210 · 📦 2 · 📋 580 - 17% open · ⏱️ 22.07.2022):
 
 	```
 	git clone https://github.com/radix-ui/primitives
 	```
-- [npm](https://www.npmjs.com/package/@radix-ui/utils) (📥 5.8K / month · 📦 32 · ⏱️ 27.01.2021):
+- [npm](https://www.npmjs.com/package/@radix-ui/utils) (📥 5.9K / month · 📦 32 · ⏱️ 27.01.2021):
 	```
 	npm install @radix-ui/utils
 	```
 </details>
 <details><summary><b><a href="https://github.com/alibaba/ChatUI">ChatUI</a></b> (🥉26 ·  ⭐ 1.4K) - The UI design language and React library for Conversational UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/alibaba/ChatUI) (👨‍💻 5 · 🔀 130 · 📦 81 · 📋 58 - 10% open · ⏱️ 20.07.2022):
+- [GitHub](https://github.com/alibaba/ChatUI) (👨‍💻 5 · 🔀 130 · 📦 82 · 📋 58 - 10% open · ⏱️ 20.07.2022):
 
 	```
 	git clone https://github.com/alibaba/ChatUI
 	```
-- [npm](https://www.npmjs.com/package/@chatui/core) (📥 3.7K / month · 📦 1 · ⏱️ 20.07.2022):
+- [npm](https://www.npmjs.com/package/@chatui/core) (📥 3.6K / month · 📦 1 · ⏱️ 20.07.2022):
 	```
 	npm install @chatui/core
 	```
 </details>
 <details><summary><b><a href="https://github.com/digiaonline/react-foundation">react-foundation</a></b> (🥉26 ·  ⭐ 600) - Foundation as React components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/digiaonline/react-foundation) (👨‍💻 21 · 🔀 72 · 📦 2.8K · 📋 57 - 15% open · ⏱️ 29.04.2022):
+- [GitHub](https://github.com/digiaonline/react-foundation) (👨‍💻 21 · 🔀 72 · 📦 2.9K · 📋 57 - 15% open · ⏱️ 29.04.2022):
 
 	```
 	git clone https://github.com/digiaonline/react-foundation
 	```
-- [npm](https://www.npmjs.com/package/react-foundation) (📥 45K / month · 📦 200 · ⏱️ 02.03.2021):
+- [npm](https://www.npmjs.com/package/react-foundation) (📥 41K / month · 📦 200 · ⏱️ 02.03.2021):
 	```
 	npm install react-foundation
 	```
 </details>
 <details><summary><b><a href="https://github.com/pivotal-cf/pivotal-ui">pivotal-ui</a></b> (🥉24 ·  ⭐ 640 · 💤) - Pivotals design system & component library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pivotal-cf/pivotal-ui) (👨‍💻 160 · 🔀 100 · 📥 450 · 📦 160 · 📋 300 - 9% open · ⏱️ 03.01.2022):
+- [GitHub](https://github.com/pivotal-cf/pivotal-ui) (👨‍💻 160 · 🔀 100 · 📥 450 · 📦 160 · 📋 310 - 12% open · ⏱️ 03.01.2022):
 
 	```
 	git clone https://github.com/pivotal-cf/pivotal-ui
 	```
-- [npm](https://www.npmjs.com/package/@npmcorp/pui-react-helpers) (📥 57 / month · 📦 21 · ⏱️ 20.07.2016):
+- [npm](https://www.npmjs.com/package/@npmcorp/pui-react-helpers) (📥 130 / month · 📦 21 · ⏱️ 20.07.2016):
 	```
 	npm install @npmcorp/pui-react-helpers
 	```
 </details>
-<details><summary><b><a href="https://github.com/jxom/bumbag-ui">bumbag-ui</a></b> (🥉22 ·  ⭐ 1K) - Build themeable React & React Native applications with your Bumbag. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jxom/bumbag-ui">bumbag-ui</a></b> (🥉21 ·  ⭐ 1K) - Build themeable React & React Native applications with your Bumbag. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jxom/bumbag-ui) (👨‍💻 36 · 🔀 46 · 📦 1 · 📋 81 - 41% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/jxom/bumbag-ui) (👨‍💻 36 · 🔀 47 · 📦 1 · 📋 85 - 44% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/jxom/bumbag-ui
 	```
-- [npm](https://www.npmjs.com/package/bumbag) (📥 3.4K / month · 📦 4 · ⏱️ 07.06.2022):
+- [npm](https://www.npmjs.com/package/bumbag) (📥 4.5K / month · 📦 4 · ⏱️ 07.06.2022):
 	```
 	npm install bumbag
 	```
@@ -541,7 +541,7 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 <details><summary>Show 8 hidden projects...</summary>
 
 - <b><a href="https://github.com/Semantic-Org/Semantic-UI">Semantic-UI</a></b> (🥈36 ·  ⭐ 50K · 💀) - Semantic is a UI component framework based around useful.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/elastic/eui">eui</a></b> (🥈35 ·  ⭐ 5.2K) - Elastic UI Framework. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+- <b><a href="https://github.com/elastic/eui">eui</a></b> (🥈35 ·  ⭐ 5.3K) - Elastic UI Framework. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
 - <b><a href="https://github.com/tabler/tabler-react">tabler-react</a></b> (🥉26 ·  ⭐ 2K · 💀) - React components and demo for the Tabler UI theme. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/proksh/atomize">atomize</a></b> (🥉23 ·  ⭐ 1.5K · 💀) - Design System for developers build on styled-components & React JS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/DesignRevision/shards-react">shards-react</a></b> (🥉18 ·  ⭐ 730 · 💀) - A beautiful and modern React design system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -557,74 +557,74 @@ This curated list contains 430 awesome open-source projects with a total of 4.3M
 
 _Application frameworks, content management systems, and static site generators for React._
 
-<details><summary><b><a href="https://github.com/vercel/next.js">Next.js</a></b> (🥇51 ·  ⭐ 91K · 📈) - The React Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vercel/next.js">Next.js</a></b> (🥇51 ·  ⭐ 91K) - The React Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vercel/next.js) (👨‍💻 2.4K · 🔀 20K · 📦 26K · 📋 13K - 9% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/vercel/next.js) (👨‍💻 2.4K · 🔀 20K · 📦 26K · 📋 13K - 9% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/vercel/next.js
 	```
-- [npm](https://www.npmjs.com/package/next) (📥 12M / month · 📦 11K · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/next) (📥 12M / month · 📦 11K · ⏱️ 11.08.2022):
 	```
 	npm install next
 	```
 </details>
-<details><summary><b><a href="https://github.com/gatsbyjs/gatsby">Gatsby</a></b> (🥈48 ·  ⭐ 53K · 📉) - Build blazing fast, modern apps and websites with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/gatsbyjs/gatsby">Gatsby</a></b> (🥈48 ·  ⭐ 53K) - Build blazing fast, modern apps and websites with React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gatsbyjs/gatsby) (👨‍💻 4.2K · 🔀 10K · 📦 440K · 📋 14K - 2% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/gatsbyjs/gatsby) (👨‍💻 4.2K · 🔀 10K · 📦 440K · 📋 14K - 1% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/gatsbyjs/gatsby
 	```
-- [npm](https://www.npmjs.com/package/gatsby) (📥 1.6M / month · 📦 14K · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/gatsby) (📥 1.6M / month · 📦 14K · ⏱️ 10.08.2022):
 	```
 	npm install gatsby
 	```
 </details>
 <details><summary><b><a href="https://github.com/umijs/umi">umi</a></b> (🥈43 ·  ⭐ 13K) - A framework in react community. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/umijs/umi) (👨‍💻 390 · 🔀 2.3K · 📦 26K · 📋 5.1K - 1% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/umijs/umi) (👨‍💻 390 · 🔀 2.3K · 📦 26K · 📋 5.1K - 1% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/umijs/umi
 	```
-- [npm](https://www.npmjs.com/package/umi) (📥 140K / month · 📦 1.4K · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/umi) (📥 150K / month · 📦 1.4K · ⏱️ 11.08.2022):
 	```
 	npm install umi
 	```
 </details>
 <details><summary><b><a href="https://github.com/cube-js/cube.js">cube.js</a></b> (🥉39 ·  ⭐ 14K) - Cube Headless Business Intelligence for Building Data Applications. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cube-js/cube.js) (👨‍💻 240 · 🔀 1.4K · 📥 290K · 📦 370 · 📋 1.8K - 33% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/cube-js/cube.js) (👨‍💻 240 · 🔀 1.4K · 📥 300K · 📦 380 · 📋 1.8K - 31% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/cube-js/cube.js
 	```
-- [npm](https://www.npmjs.com/package/@cubejs-backend/api-gateway) (📥 81K / month · 📦 18 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/@cubejs-backend/api-gateway) (📥 81K / month · 📦 18 · ⏱️ 10.08.2022):
 	```
 	npm install @cubejs-backend/api-gateway
 	```
 </details>
-<details><summary><b><a href="https://github.com/redwoodjs/redwood">redwood</a></b> (🥉37 ·  ⭐ 14K) - The App Framework for Startups. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/redwoodjs/redwood">redwood</a></b> (🥉38 ·  ⭐ 15K) - The App Framework for Startups. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/redwoodjs/redwood) (👨‍💻 300 · 🔀 730 · 📦 2.4K · 📋 1.8K - 20% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/redwoodjs/redwood) (👨‍💻 310 · 🔀 740 · 📦 2.4K · 📋 1.8K - 20% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/redwoodjs/redwood
 	```
-- [npm](https://www.npmjs.com/package/@redwoodjs/core) (📥 49K / month · 📦 5 · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/@redwoodjs/core) (📥 61K / month · 📦 5 · ⏱️ 11.08.2022):
 	```
 	npm install @redwoodjs/core
 	```
 </details>
 <details><summary><b><a href="https://github.com/blitz-js/blitz">blitz</a></b> (🥉35 ·  ⭐ 12K) - The Fullstack React Framework built on Next.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/blitz-js/blitz) (👨‍💻 270 · 🔀 670 · 📦 1.8K · 📋 360 - 46% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/blitz-js/blitz) (👨‍💻 270 · 🔀 680 · 📦 1.8K · 📋 360 - 43% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/blitz-js/blitz
 	```
-- [npm](https://www.npmjs.com/package/blitz) (📥 27K / month · 📦 12 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/blitz) (📥 27K / month · 📦 12 · ⏱️ 05.08.2022):
 	```
 	npm install blitz
 	```
@@ -637,14 +637,14 @@ _Application frameworks, content management systems, and static site generators 
 
 _CSS and component styling frameworks._
 
-<details><summary><b><a href="https://github.com/tailwindlabs/tailwindcss">Tailewind CSS</a></b> (🥇46 ·  ⭐ 59K) - A utility-first CSS framework for rapid UI development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tailwindlabs/tailwindcss">Tailewind CSS</a></b> (🥇46 ·  ⭐ 60K) - A utility-first CSS framework for rapid UI development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tailwindlabs/tailwindcss) (👨‍💻 230 · 🔀 2.9K · 📥 140K · 📦 2M · 📋 2.5K - 0% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/tailwindlabs/tailwindcss) (👨‍💻 230 · 🔀 3K · 📥 140K · 📦 2.1M · 📋 2.5K - 0% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/tailwindlabs/tailwindcss
 	```
-- [npm](https://www.npmjs.com/package/tailwindcss) (📥 15M / month · 📦 6.4K · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/tailwindcss) (📥 15M / month · 📦 6.7K · ⏱️ 10.08.2022):
 	```
 	npm install tailwindcss
 	```
@@ -663,31 +663,31 @@ _CSS and component styling frameworks._
 </details>
 <details><summary><b><a href="https://github.com/emotion-js/emotion">emotion</a></b> (🥈41 ·  ⭐ 15K) - CSS-in-JS library designed for high performance style composition. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/emotion-js/emotion) (👨‍💻 300 · 🔀 1K · 📦 400K · 📋 1.5K - 11% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/emotion-js/emotion) (👨‍💻 300 · 🔀 1K · 📦 410K · 📋 1.5K - 11% open · ⏱️ 06.08.2022):
 
 	```
 	git clone https://github.com/emotion-js/emotion
 	```
-- [npm](https://www.npmjs.com/package/@emotion/react) (📥 16M / month · 📦 2K · ⏱️ 31.07.2022):
+- [npm](https://www.npmjs.com/package/@emotion/react) (📥 17M / month · 📦 2.2K · ⏱️ 31.07.2022):
 	```
 	npm install @emotion/react
 	```
 </details>
 <details><summary><b><a href="https://github.com/cssinjs/jss">jss</a></b> (🥈37 ·  ⭐ 6.8K) - JSS is an authoring tool for CSS which uses JavaScript as a host language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/cssinjs/jss) (👨‍💻 140 · 🔀 410 · 📦 440K · 📋 970 - 20% open · ⏱️ 31.07.2022):
+- [GitHub](https://github.com/cssinjs/jss) (👨‍💻 140 · 🔀 410 · 📦 450K · 📋 970 - 20% open · ⏱️ 31.07.2022):
 
 	```
 	git clone https://github.com/cssinjs/jss
 	```
-- [npm](https://www.npmjs.com/package/react-jss) (📥 850K / month · 📦 5.8K · ⏱️ 31.07.2022):
+- [npm](https://www.npmjs.com/package/react-jss) (📥 860K / month · 📦 5.8K · ⏱️ 31.07.2022):
 	```
 	npm install react-jss
 	```
 </details>
 <details><summary><b><a href="https://github.com/styled-components/polished">polished</a></b> (🥈36 ·  ⭐ 7.3K) - A lightweight toolset for writing styles in JavaScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/styled-components/polished) (👨‍💻 82 · 🔀 240 · 📦 180K · 📋 220 - 6% open · ⏱️ 22.07.2022):
+- [GitHub](https://github.com/styled-components/polished) (👨‍💻 82 · 🔀 240 · 📦 190K · 📋 220 - 6% open · ⏱️ 22.07.2022):
 
 	```
 	git clone https://github.com/styled-components/polished
@@ -709,9 +709,21 @@ _CSS and component styling frameworks._
 	npm install radium
 	```
 </details>
-<details><summary><b><a href="https://github.com/yocontra/react-responsive">react-responsive</a></b> (🥈34 ·  ⭐ 6.3K) - CSS media queries in react - for responsive design, and more. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/callstack/linaria">linaria</a></b> (🥈33 ·  ⭐ 9.4K) - Zero-runtime CSS in JS library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/yocontra/react-responsive) (👨‍💻 65 · 🔀 300 · 📦 35K · 📋 200 - 5% open · ⏱️ 26.06.2022):
+- [GitHub](https://github.com/callstack/linaria) (👨‍💻 110 · 🔀 350 · 📦 1.4K · 📋 520 - 23% open · ⏱️ 01.08.2022):
+
+	```
+	git clone https://github.com/callstack/linaria
+	```
+- [npm](https://www.npmjs.com/package/linaria) (📥 72K / month · 📦 140 · ⏱️ 01.08.2022):
+	```
+	npm install linaria
+	```
+</details>
+<details><summary><b><a href="https://github.com/yocontra/react-responsive">react-responsive</a></b> (🥈33 ·  ⭐ 6.3K) - CSS media queries in react - for responsive design, and more. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/yocontra/react-responsive) (👨‍💻 65 · 🔀 300 · 📦 36K · 📋 200 - 5% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/yocontra/react-responsive
@@ -721,21 +733,9 @@ _CSS and component styling frameworks._
 	npm install react-responsive
 	```
 </details>
-<details><summary><b><a href="https://github.com/callstack/linaria">linaria</a></b> (🥉33 ·  ⭐ 9.4K) - Zero-runtime CSS in JS library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ben-rogerson/twin.macro">twin.macro</a></b> (🥈33 ·  ⭐ 6.1K) - Twin blends the magic of Tailwind with the flexibility of css-in-js.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/callstack/linaria) (👨‍💻 110 · 🔀 350 · 📦 1.4K · 📋 510 - 23% open · ⏱️ 01.08.2022):
-
-	```
-	git clone https://github.com/callstack/linaria
-	```
-- [npm](https://www.npmjs.com/package/linaria) (📥 69K / month · 📦 140 · ⏱️ 01.08.2022):
-	```
-	npm install linaria
-	```
-</details>
-<details><summary><b><a href="https://github.com/ben-rogerson/twin.macro">twin.macro</a></b> (🥉32 ·  ⭐ 6K) - Twin blends the magic of Tailwind with the flexibility of css-in-js.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ben-rogerson/twin.macro) (👨‍💻 42 · 🔀 150 · 📦 7.9K · 📋 280 - 3% open · ⏱️ 07.07.2022):
+- [GitHub](https://github.com/ben-rogerson/twin.macro) (👨‍💻 45 · 🔀 150 · 📦 8K · 📋 280 - 3% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/ben-rogerson/twin.macro
@@ -752,31 +752,31 @@ _CSS and component styling frameworks._
 	```
 	git clone https://github.com/robinweser/inline-style-prefixer
 	```
-- [npm](https://www.npmjs.com/package/inline-style-prefixer) (📥 7M / month · 📦 18K · ⏱️ 28.09.2021):
+- [npm](https://www.npmjs.com/package/inline-style-prefixer) (📥 7.1M / month · 📦 18K · ⏱️ 28.09.2021):
 	```
 	npm install inline-style-prefixer
 	```
 </details>
 <details><summary><b><a href="https://github.com/stitchesjs/stitches">stitches</a></b> (🥉31 ·  ⭐ 6K) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/stitchesjs/stitches) (👨‍💻 48 · 🔀 180 · 📦 930 · 📋 600 - 13% open · ⏱️ 08.06.2022):
+- [GitHub](https://github.com/stitchesjs/stitches) (👨‍💻 48 · 🔀 180 · 📦 950 · 📋 600 - 13% open · ⏱️ 08.06.2022):
 
 	```
 	git clone https://github.com/modulz/stitches
 	```
-- [npm](https://www.npmjs.com/package/@stitches/react) (📥 410K / month · 📦 160 · ⏱️ 25.04.2022):
+- [npm](https://www.npmjs.com/package/@stitches/react) (📥 410K / month · 📦 180 · ⏱️ 25.04.2022):
 	```
 	npm install @stitches/react
 	```
 </details>
-<details><summary><b><a href="https://github.com/seek-oss/vanilla-extract">vanilla-extract</a></b> (🥉25 ·  ⭐ 5.9K) - Zero-runtime Stylesheets-in-TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/seek-oss/vanilla-extract">vanilla-extract</a></b> (🥉25 ·  ⭐ 6K) - Zero-runtime Stylesheets-in-TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/seek-oss/vanilla-extract) (👨‍💻 44 · 🔀 140 · 📋 180 - 18% open · ⏱️ 27.07.2022):
+- [GitHub](https://github.com/seek-oss/vanilla-extract) (👨‍💻 45 · 🔀 150 · 📋 180 - 20% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/seek-oss/vanilla-extract
 	```
-- [npm](https://www.npmjs.com/package/@vanilla-extract/integration) (📥 200K / month · 📦 4 · ⏱️ 09.06.2022):
+- [npm](https://www.npmjs.com/package/@vanilla-extract/integration) (📥 200K / month · 📦 6 · ⏱️ 09.06.2022):
 	```
 	npm install @vanilla-extract/integration
 	```
@@ -831,21 +831,21 @@ _Components to layout the UI elements._
 	npm install react-grid-layout
 	```
 </details>
-<details><summary><b><a href="https://github.com/golden-layout/golden-layout">golden-layout</a></b> (🥈31 ·  ⭐ 5.6K) - A multi window layout manager for webapps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/golden-layout/golden-layout">golden-layout</a></b> (🥈30 ·  ⭐ 5.6K) - A multi window layout manager for webapps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/golden-layout/golden-layout) (👨‍💻 89 · 🔀 480 · 📥 480 · 📦 920 · 📋 780 - 32% open · ⏱️ 23.07.2022):
+- [GitHub](https://github.com/golden-layout/golden-layout) (👨‍💻 89 · 🔀 480 · 📥 490 · 📦 920 · 📋 780 - 32% open · ⏱️ 23.07.2022):
 
 	```
 	git clone https://github.com/golden-layout/golden-layout
 	```
-- [npm](https://www.npmjs.com/package/golden-layout) (📥 35K / month · 📦 210 · ⏱️ 05.03.2022):
+- [npm](https://www.npmjs.com/package/golden-layout) (📥 33K / month · 📦 210 · ⏱️ 05.03.2022):
 	```
 	npm install golden-layout
 	```
 </details>
-<details><summary><b><a href="https://github.com/leefsmp/Re-Flex">Re-Flex</a></b> (🥈28 ·  ⭐ 490) - Resizable Flex layout container components for advanced React web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/leefsmp/Re-Flex">Re-Flex</a></b> (🥈27 ·  ⭐ 500) - Resizable Flex layout container components for advanced React web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/leefsmp/Re-Flex) (👨‍💻 23 · 🔀 59 · 📦 810 · 📋 110 - 8% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/leefsmp/Re-Flex) (👨‍💻 23 · 🔀 60 · 📦 810 · 📋 110 - 7% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/leefsmp/Re-Flex
@@ -862,7 +862,7 @@ _Components to layout the UI elements._
 	```
 	git clone https://github.com/xudafeng/autoresponsive-react
 	```
-- [npm](https://www.npmjs.com/package/autoresponsive-react) (📥 5.7K / month · 📦 59 · ⏱️ 26.03.2022):
+- [npm](https://www.npmjs.com/package/autoresponsive-react) (📥 5.6K / month · 📦 59 · ⏱️ 26.03.2022):
 	```
 	npm install autoresponsive-react
 	```
@@ -874,7 +874,7 @@ _Components to layout the UI elements._
 	```
 	git clone https://github.com/aeagle/react-spaces
 	```
-- [npm](https://www.npmjs.com/package/react-spaces) (📥 4.8K / month · 📦 8 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/react-spaces) (📥 4.7K / month · 📦 8 · ⏱️ 01.08.2022):
 	```
 	npm install react-spaces
 	```
@@ -886,7 +886,7 @@ _Components to layout the UI elements._
 	```
 	git clone https://github.com/kettanaito/atomic-layout
 	```
-- [npm](https://www.npmjs.com/package/atomic-layout) (📥 5.1K / month · 📦 3 · ⏱️ 06.08.2020):
+- [npm](https://www.npmjs.com/package/atomic-layout) (📥 5.2K / month · 📦 3 · ⏱️ 06.08.2020):
 	```
 	npm install atomic-layout
 	```
@@ -894,7 +894,7 @@ _Components to layout the UI elements._
 <details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/eiriklv/react-masonry-component">react-masonry-component</a></b> (🥈28 ·  ⭐ 1.3K · 💀) - A React.js component for using @desandros Masonry. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/garetmckinley/hedron">hedron</a></b> (🥉21 ·  ⭐ 860 · 💀) - A no-frills flexbox grid system for React, powered by styled-components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/garetmckinley/hedron">hedron</a></b> (🥉20 ·  ⭐ 860 · 💀) - A no-frills flexbox grid system for React, powered by styled-components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/paol-imi/muuri-react">muuri-react</a></b> (🥉18 ·  ⭐ 260 · 💀) - The layout engine for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/martinnov92/React-Splitters">React-Splitters</a></b> (🥉16 ·  ⭐ 140 · 💀) - React splitter component, written in TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -908,55 +908,55 @@ _Data grid, tables, and spreadsheet components._
 
 <details><summary><b><a href="https://github.com/TanStack/table">react-table</a></b> (🥇42 ·  ⭐ 19K) - Headless UI for building powerful tables & datagrids for TS/JS -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/TanStack/table) (👨‍💻 320 · 🔀 2.5K · 📦 470 · 📋 2.1K - 0% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/TanStack/table) (👨‍💻 320 · 🔀 2.5K · 📦 720 · 📋 2.1K - 0% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/tannerlinsley/react-table
 	```
-- [npm](https://www.npmjs.com/package/react-table) (📥 5M / month · 📦 2.7K · ⏱️ 16.05.2022):
+- [npm](https://www.npmjs.com/package/react-table) (📥 5.1M / month · 📦 2.8K · ⏱️ 16.05.2022):
 	```
 	npm install react-table
 	```
 </details>
 <details><summary><b><a href="https://github.com/ag-grid/ag-grid">ag-Grid</a></b> (🥇42 ·  ⭐ 9K) - The best JavaScript Data Table for building Enterprise Applications... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ag-grid/ag-grid) (👨‍💻 150 · 🔀 1.5K · 📦 1.3K · 📋 4.6K - 0% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/ag-grid/ag-grid) (👨‍💻 150 · 🔀 1.5K · 📦 1.3K · 📋 4.7K - 0% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/ag-grid/ag-grid
 	```
-- [npm](https://www.npmjs.com/package/ag-grid-community) (📥 1.5M / month · 📦 610 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/ag-grid-community) (📥 1.6M / month · 📦 620 · ⏱️ 03.08.2022):
 	```
 	npm install ag-grid-community
 	```
 </details>
 <details><summary><b><a href="https://github.com/bvaughn/react-virtualized">react-virtualized</a></b> (🥇39 ·  ⭐ 24K) - React components for efficiently rendering large lists and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bvaughn/react-virtualized) (👨‍💻 220 · 🔀 3K · 📦 62K · 📋 1.2K - 39% open · ⏱️ 23.04.2022):
+- [GitHub](https://github.com/bvaughn/react-virtualized) (👨‍💻 220 · 🔀 3K · 📦 63K · 📋 1.2K - 40% open · ⏱️ 23.04.2022):
 
 	```
 	git clone https://github.com/bvaughn/react-virtualized
 	```
-- [npm](https://www.npmjs.com/package/react-virtualized) (📥 5.3M / month · 📦 4.2K · ⏱️ 18.12.2020):
+- [npm](https://www.npmjs.com/package/react-virtualized) (📥 5.5M / month · 📦 4.3K · ⏱️ 18.12.2020):
 	```
 	npm install react-virtualized
 	```
 </details>
-<details><summary><b><a href="https://github.com/mui/mui-x">material-ui-x</a></b> (🥇38 ·  ⭐ 1.8K) - MUI X: Advanced and powerful React components for complex.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mui/mui-x">material-ui-x</a></b> (🥇39 ·  ⭐ 1.8K) - MUI X: Advanced and powerful React components for complex.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mui/mui-x) (👨‍💻 150 · 🔀 350 · 📦 20K · 📋 2K - 23% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/mui/mui-x) (👨‍💻 150 · 🔀 360 · 📦 20K · 📋 2K - 22% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/mui-org/material-ui-x
 	```
-- [npm](https://www.npmjs.com/package/@material-ui/data-grid) (📥 330K / month · 📦 39 · ⏱️ 12.08.2021):
+- [npm](https://www.npmjs.com/package/@material-ui/data-grid) (📥 320K / month · 📦 43 · ⏱️ 12.08.2021):
 	```
 	npm install @material-ui/data-grid
 	```
 </details>
-<details><summary><b><a href="https://github.com/mbrn/material-table">material-table</a></b> (🥈37 ·  ⭐ 3.3K) - Datatable for React based on material-uis table with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/mbrn/material-table">material-table</a></b> (🥈37 ·  ⭐ 3.4K) - Datatable for React based on material-uis table with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/mbrn/material-table) (👨‍💻 200 · 🔀 1.1K · 📦 21K · 📋 2.5K - 1% open · ⏱️ 12.03.2022):
+- [GitHub](https://github.com/mbrn/material-table) (👨‍💻 200 · 🔀 1.1K · 📦 22K · 📋 2.5K - 2% open · ⏱️ 12.03.2022):
 
 	```
 	git clone https://github.com/mbrn/material-table
@@ -968,12 +968,12 @@ _Data grid, tables, and spreadsheet components._
 </details>
 <details><summary><b><a href="https://github.com/bvaughn/react-window">react-window</a></b> (🥈36 ·  ⭐ 13K) - React components for efficiently rendering large lists and tabular.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bvaughn/react-window) (👨‍💻 36 · 🔀 700 · 📥 29 · 📦 57K · 📋 530 - 31% open · ⏱️ 23.04.2022):
+- [GitHub](https://github.com/bvaughn/react-window) (👨‍💻 36 · 🔀 720 · 📥 30 · 📦 58K · 📋 540 - 34% open · ⏱️ 23.04.2022):
 
 	```
 	git clone https://github.com/bvaughn/react-window
 	```
-- [npm](https://www.npmjs.com/package/react-window) (📥 5.2M / month · 📦 940 · ⏱️ 23.04.2022):
+- [npm](https://www.npmjs.com/package/react-window) (📥 5.4M / month · 📦 1.2K · ⏱️ 23.04.2022):
 	```
 	npm install react-window
 	```
@@ -1004,27 +1004,27 @@ _Data grid, tables, and spreadsheet components._
 </details>
 <details><summary><b><a href="https://github.com/finos/perspective">Perspective</a></b> (🥈32 ·  ⭐ 4.8K) - A data visualization and analytics component, especially well-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/finos/perspective) (👨‍💻 72 · 🔀 490 · 📦 270 · 📋 550 - 15% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/finos/perspective) (👨‍💻 72 · 🔀 500 · 📦 270 · 📋 550 - 15% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/finos/perspective
 	```
-- [PyPi](https://pypi.org/project/perspective-python) (📥 3.3K / month · 📦 9 · ⏱️ 06.06.2022):
+- [PyPi](https://pypi.org/project/perspective-python) (📥 2.7K / month · 📦 9 · ⏱️ 06.06.2022):
 	```
 	pip install perspective-python
 	```
-- [Conda](https://anaconda.org/conda-forge/perspective) (📥 110K · ⏱️ 20.07.2022):
+- [Conda](https://anaconda.org/conda-forge/perspective) (📥 120K · ⏱️ 20.07.2022):
 	```
 	conda install -c conda-forge perspective
 	```
-- [npm](https://www.npmjs.com/package/@finos/perspective) (📥 13K / month · 📦 21 · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/@finos/perspective) (📥 13K / month · 📦 21 · ⏱️ 10.08.2022):
 	```
 	npm install @finos/perspective
 	```
 </details>
-<details><summary><b><a href="https://github.com/gregnb/mui-datatables">MUI-Datatables</a></b> (🥈32 ·  ⭐ 2.4K) - Datatables for React using Material-UI -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/gregnb/mui-datatables">MUI-Datatables</a></b> (🥈32 ·  ⭐ 2.5K) - Datatables for React using Material-UI -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/gregnb/mui-datatables) (👨‍💻 140 · 🔀 900 · 📦 8K · 📋 1.4K - 41% open · ⏱️ 10.04.2022):
+- [GitHub](https://github.com/gregnb/mui-datatables) (👨‍💻 140 · 🔀 900 · 📦 8.1K · 📋 1.4K - 41% open · ⏱️ 05.08.2022):
 
 	```
 	git clone https://github.com/gregnb/mui-datatables
@@ -1034,9 +1034,21 @@ _Data grid, tables, and spreadsheet components._
 	npm install mui-datatables
 	```
 </details>
-<details><summary><b><a href="https://github.com/jbetancur/react-data-table-component">React Data Table</a></b> (🥈32 ·  ⭐ 1.6K) - A responsive table library with built-in sorting,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/grid-js/gridjs">gridjs</a></b> (🥈31 ·  ⭐ 3.7K) - Advanced table plugin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jbetancur/react-data-table-component) (👨‍💻 58 · 🔀 290 · 📦 10K · 📋 700 - 9% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/grid-js/gridjs) (👨‍💻 28 · 🔀 160 · 📦 780 · 📋 240 - 25% open · ⏱️ 08.07.2022):
+
+	```
+	git clone https://github.com/grid-js/gridjs
+	```
+- [npm](https://www.npmjs.com/package/gridjs) (📥 46K / month · 📦 12 · ⏱️ 15.06.2021):
+	```
+	npm install gridjs
+	```
+</details>
+<details><summary><b><a href="https://github.com/jbetancur/react-data-table-component">React Data Table</a></b> (🥈31 ·  ⭐ 1.6K) - A responsive table library with built-in sorting,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/jbetancur/react-data-table-component) (👨‍💻 58 · 🔀 300 · 📦 10K · 📋 700 - 10% open · ⏱️ 02.08.2022):
 
 	```
 	git clone https://github.com/jbetancur/react-data-table-component
@@ -1046,7 +1058,7 @@ _Data grid, tables, and spreadsheet components._
 	npm install react-data-table-component
 	```
 </details>
-<details><summary><b><a href="https://github.com/schrodinger/fixed-data-table-2">fixed-data-table-2</a></b> (🥈32 ·  ⭐ 1.2K) - A React table component designed to allow presenting.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/schrodinger/fixed-data-table-2">fixed-data-table-2</a></b> (🥈31 ·  ⭐ 1.2K) - A React table component designed to allow presenting.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/schrodinger/fixed-data-table-2) (👨‍💻 100 · 🔀 290 · 📦 1.1K · 📋 350 - 13% open · ⏱️ 27.06.2022):
 
@@ -1058,21 +1070,9 @@ _Data grid, tables, and spreadsheet components._
 	npm install fixed-data-table-2
 	```
 </details>
-<details><summary><b><a href="https://github.com/grid-js/gridjs">gridjs</a></b> (🥈31 ·  ⭐ 3.6K) - Advanced table plugin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/grid-js/gridjs) (👨‍💻 28 · 🔀 160 · 📦 760 · 📋 240 - 24% open · ⏱️ 08.07.2022):
-
-	```
-	git clone https://github.com/grid-js/gridjs
-	```
-- [npm](https://www.npmjs.com/package/gridjs) (📥 45K / month · 📦 12 · ⏱️ 15.06.2021):
-	```
-	npm install gridjs
-	```
-</details>
 <details><summary><b><a href="https://github.com/nadbm/react-datasheet">React-Datasheet</a></b> (🥉29 ·  ⭐ 5.1K) - Excel-like data grid (table) component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nadbm/react-datasheet) (👨‍💻 47 · 🔀 500 · 📦 730 · 📋 210 - 53% open · ⏱️ 23.05.2022):
+- [GitHub](https://github.com/nadbm/react-datasheet) (👨‍💻 47 · 🔀 500 · 📦 730 · 📋 210 - 52% open · ⏱️ 23.05.2022):
 
 	```
 	git clone https://github.com/nadbm/react-datasheet
@@ -1089,69 +1089,81 @@ _Data grid, tables, and spreadsheet components._
 	```
 	git clone https://github.com/6pac/SlickGrid
 	```
-- [npm](https://www.npmjs.com/package/slickgrid) (📥 26K / month · 📦 140 · ⏱️ 27.07.2022):
+- [npm](https://www.npmjs.com/package/slickgrid) (📥 25K / month · 📦 140 · ⏱️ 27.07.2022):
 	```
 	npm install slickgrid
 	```
 </details>
-<details><summary><b><a href="https://github.com/Autodesk/react-base-table">react-base-table</a></b> (🥉28 ·  ⭐ 1.3K) - A react table component to display large datasets with high.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/Autodesk/react-base-table) (👨‍💻 11 · 🔀 140 · 📦 400 · 📋 240 - 22% open · ⏱️ 18.05.2022):
-
-	```
-	git clone https://github.com/Autodesk/react-base-table
-	```
-- [npm](https://www.npmjs.com/package/react-base-table) (📥 120K / month · 📦 19 · ⏱️ 18.05.2022):
-	```
-	npm install react-base-table
-	```
-</details>
 <details><summary><b><a href="https://github.com/rsuite/rsuite-table">rsuite-table</a></b> (🥉28 ·  ⭐ 560) - A React table component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rsuite/rsuite-table) (👨‍💻 19 · 🔀 110 · 📦 4K · 📋 140 - 13% open · ⏱️ 21.07.2022):
+- [GitHub](https://github.com/rsuite/rsuite-table) (👨‍💻 19 · 🔀 110 · 📦 4.1K · 📋 140 - 13% open · ⏱️ 21.07.2022):
 
 	```
 	git clone https://github.com/rsuite/rsuite-table
 	```
-- [npm](https://www.npmjs.com/package/rsuite-table) (📥 150K / month · 📦 41 · ⏱️ 12.07.2022):
+- [npm](https://www.npmjs.com/package/rsuite-table) (📥 160K / month · 📦 41 · ⏱️ 12.07.2022):
 	```
 	npm install rsuite-table
 	```
 </details>
 <details><summary><b><a href="https://github.com/jspreadsheet/ce">jspreadsheet</a></b> (🥉27 ·  ⭐ 6.1K) - Jspreadsheet is a lightweight vanilla javascript plugin to create.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jspreadsheet/ce) (👨‍💻 63 · 🔀 710 · 📦 74 · 📋 1.4K - 9% open · ⏱️ 23.06.2022):
+- [GitHub](https://github.com/jspreadsheet/ce) (👨‍💻 63 · 🔀 720 · 📦 75 · 📋 1.4K - 9% open · ⏱️ 23.06.2022):
 
 	```
 	git clone https://github.com/jspreadsheet/ce
 	```
-- [npm](https://www.npmjs.com/package/jexcel) (📥 10K / month · 📦 16 · ⏱️ 24.02.2021):
+- [npm](https://www.npmjs.com/package/jexcel) (📥 11K / month · 📦 16 · ⏱️ 24.02.2021):
 	```
 	npm install jexcel
 	```
 </details>
-<details><summary><b><a href="https://github.com/revolist/revogrid">RevoGrid</a></b> (🥉25 ·  ⭐ 2.1K) - Powerful virtual data grid smartsheet with advanced customization. Best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Autodesk/react-base-table">react-base-table</a></b> (🥉27 ·  ⭐ 1.3K) - A react table component to display large datasets with high.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/revolist/revogrid) (👨‍💻 15 · 🔀 120 · 📦 120 · 📋 230 - 45% open · ⏱️ 16.06.2022):
+- [GitHub](https://github.com/Autodesk/react-base-table) (👨‍💻 11 · 🔀 140 · 📦 400 · 📋 240 - 22% open · ⏱️ 18.05.2022):
+
+	```
+	git clone https://github.com/Autodesk/react-base-table
+	```
+- [npm](https://www.npmjs.com/package/react-base-table) (📥 130K / month · 📦 19 · ⏱️ 18.05.2022):
+	```
+	npm install react-base-table
+	```
+</details>
+<details><summary><b><a href="https://github.com/revolist/revogrid">RevoGrid</a></b> (🥉26 ·  ⭐ 2.1K) - Powerful virtual data grid smartsheet with advanced customization. Best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/revolist/revogrid) (👨‍💻 16 · 🔀 120 · 📦 120 · 📋 240 - 46% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/revolist/revogrid
 	```
-- [npm](https://www.npmjs.com/package/@revolist/revogrid) (📥 8.9K / month · 📦 10 · ⏱️ 16.06.2022):
+- [npm](https://www.npmjs.com/package/@revolist/revogrid) (📥 9.6K / month · 📦 10 · ⏱️ 11.08.2022):
 	```
 	npm install @revolist/revogrid
 	```
 </details>
-<details><summary><b><a href="https://github.com/glideapps/glide-data-grid">glide-data-grid</a></b> (🥉25 ·  ⭐ 1.7K) - Glide Data Grid is a no compromise, outrageously fast data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/glideapps/glide-data-grid">glide-data-grid</a></b> (🥉26 ·  ⭐ 1.7K) - Glide Data Grid is a no compromise, outrageously fast data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/glideapps/glide-data-grid) (👨‍💻 19 · 🔀 120 · 📦 38 · 📋 230 - 3% open · ⏱️ 04.07.2022):
+- [GitHub](https://github.com/glideapps/glide-data-grid) (👨‍💻 19 · 🔀 120 · 📦 38 · 📋 240 - 3% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/glideapps/glide-data-grid
 	```
-- [npm](https://www.npmjs.com/package/@glideapps/glide-data-grid) (📥 17K / month · 📦 3 · ⏱️ 29.07.2022):
+- [npm](https://www.npmjs.com/package/@glideapps/glide-data-grid) (📥 19K / month · 📦 3 · ⏱️ 05.08.2022):
 	```
 	npm install @glideapps/glide-data-grid
+	```
+</details>
+<details><summary><b><a href="https://github.com/iddan/react-spreadsheet">React Spreadsheet</a></b> (🥉26 ·  ⭐ 760) - Simple, customizable yet performant spreadsheet for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/iddan/react-spreadsheet) (👨‍💻 26 · 🔀 86 · 📦 290 · 📋 120 - 21% open · ⏱️ 05.08.2022):
+
+	```
+	git clone https://github.com/iddan/react-spreadsheet
+	```
+- [npm](https://www.npmjs.com/package/react-spreadsheet) (📥 31K / month · 📦 5 · ⏱️ 05.08.2022):
+	```
+	npm install react-spreadsheet
 	```
 </details>
 <details><summary><b><a href="https://github.com/frappe/datatable">datatable</a></b> (🥉25 ·  ⭐ 800) - The Missing Javascript Datatable for the Web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1161,62 +1173,50 @@ _Data grid, tables, and spreadsheet components._
 	```
 	git clone https://github.com/frappe/datatable
 	```
-- [npm](https://www.npmjs.com/package/frappe-datatable) (📥 19K / month · 📦 31 · ⏱️ 10.06.2022):
+- [npm](https://www.npmjs.com/package/frappe-datatable) (📥 20K / month · 📦 31 · ⏱️ 10.06.2022):
 	```
 	npm install frappe-datatable
 	```
 </details>
-<details><summary><b><a href="https://github.com/iddan/react-spreadsheet">React Spreadsheet</a></b> (🥉25 ·  ⭐ 750) - Simple, customizable yet performant spreadsheet for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/komarovalexander/ka-table">ka-table</a></b> (🥉23 ·  ⭐ 320 · 📈) - Lightweight MIT React Table component with Sorting, Filtering,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iddan/react-spreadsheet) (👨‍💻 25 · 🔀 83 · 📦 290 · 📋 120 - 23% open · ⏱️ 01.08.2022):
-
-	```
-	git clone https://github.com/iddan/react-spreadsheet
-	```
-- [npm](https://www.npmjs.com/package/react-spreadsheet) (📥 31K / month · 📦 4 · ⏱️ 15.06.2022):
-	```
-	npm install react-spreadsheet
-	```
-</details>
-<details><summary><b><a href="https://github.com/inovua/reactdatagrid">reactdatagrid</a></b> (🥉23 ·  ⭐ 280) - Empower Your Data with the best React Data Grid there is. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/inovua/reactdatagrid) (👨‍💻 1 · 🔀 30 · 📋 230 - 29% open · ⏱️ 22.07.2022):
-
-	```
-	git clone https://github.com/inovua/reactdatagrid
-	```
-- [npm](https://www.npmjs.com/package/@inovua/reactdatagrid-community) (📥 20K / month · 📦 7 · ⏱️ 04.08.2022):
-	```
-	npm install @inovua/reactdatagrid-community
-	```
-</details>
-<details><summary><b><a href="https://github.com/komarovalexander/ka-table">ka-table</a></b> (🥉20 ·  ⭐ 320 · 💤) - Lightweight MIT React Table component with Sorting, Filtering,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/komarovalexander/ka-table) (👨‍💻 6 · 🔀 24 · 📦 99 · 📋 82 - 9% open · ⏱️ 24.10.2021):
+- [GitHub](https://github.com/komarovalexander/ka-table) (👨‍💻 7 · 🔀 25 · 📦 100 · 📋 86 - 10% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/komarovalexander/ka-table
 	```
-- [npm](https://www.npmjs.com/package/ka-table) (📥 6.3K / month · ⏱️ 24.10.2021):
+- [npm](https://www.npmjs.com/package/ka-table) (📥 6.3K / month · 📦 1 · ⏱️ 10.08.2022):
 	```
 	npm install ka-table
 	```
 </details>
+<details><summary><b><a href="https://github.com/inovua/reactdatagrid">reactdatagrid</a></b> (🥉23 ·  ⭐ 280) - Empower Your Data with the best React Data Grid there is. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/inovua/reactdatagrid) (👨‍💻 1 · 🔀 30 · 📋 230 - 30% open · ⏱️ 22.07.2022):
+
+	```
+	git clone https://github.com/inovua/reactdatagrid
+	```
+- [npm](https://www.npmjs.com/package/@inovua/reactdatagrid-community) (📥 19K / month · 📦 7 · ⏱️ 04.08.2022):
+	```
+	npm install @inovua/reactdatagrid-community
+	```
+</details>
 <details><summary><b><a href="https://github.com/githubocto/flat-ui">flat-ui</a></b> (🥉17 ·  ⭐ 340) - Welcome friends! **flat-ui** is a React component that will render your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/githubocto/flat-ui) (👨‍💻 7 · 🔀 14 · 📦 14 · 📋 13 - 23% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/githubocto/flat-ui) (👨‍💻 7 · 🔀 14 · 📦 15 · 📋 13 - 23% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/githubocto/flat-ui
 	```
-- [npm](https://www.npmjs.com/package/@githubocto/flat-ui) (📥 620 / month · ⏱️ 05.05.2022):
+- [npm](https://www.npmjs.com/package/@githubocto/flat-ui) (📥 610 / month · ⏱️ 05.05.2022):
 	```
 	npm install @githubocto/flat-ui
 	```
 </details>
 <details><summary>Show 14 hidden projects...</summary>
 
-- <b><a href="https://github.com/handsontable/handsontable">Handsontable</a></b> (🥇38 ·  ⭐ 17K) - JavaScript data grid with a spreadsheet look & feel. Works with.. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+- <b><a href="https://github.com/handsontable/handsontable">Handsontable</a></b> (🥈38 ·  ⭐ 17K) - JavaScript data grid with a spreadsheet look & feel. Works with.. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
 - <b><a href="https://github.com/tabalinas/jsgrid">jsgrid</a></b> (🥈31 ·  ⭐ 1.5K · 💀) - Lightweight Grid jQuery Plugin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/react-bootstrap-table/react-bootstrap-table2">react-bootstrap-table2</a></b> (🥈31 ·  ⭐ 1.2K · 💀) - Next Generation of react-bootstrap-table. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/mleibman/SlickGrid">mleibman/SlickGrid</a></b> (🥉30 ·  ⭐ 6.8K · 💀) - A lightning fast JavaScript grid/spreadsheet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -1224,7 +1224,7 @@ _Data grid, tables, and spreadsheet components._
 - <b><a href="https://github.com/plotly/react-pivottable">react-pivottable</a></b> (🥉23 ·  ⭐ 850 · 💀) - React-based dragndrop pivot table with Plotly.js charts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/tonytomov/jqGrid">jqGrid</a></b> (🥉22 ·  ⭐ 2.8K) - jQuery grid plugin. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/davidguttman/react-pivot">ReactPivot</a></b> (🥉21 ·  ⭐ 1K · 💀) - React-Pivot is a data-grid component with pivot-table-like.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/joaocarmo/react-smart-data-table">react-smart-data-table</a></b> (🥉20 ·  ⭐ 77) - A smart data table component for React meant to be.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/joaocarmo/react-smart-data-table">react-smart-data-table</a></b> (🥉20 ·  ⭐ 78) - A smart data table component for React meant to be.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/nnajm/orb">orb</a></b> (🥉18 ·  ⭐ 540 · 💀) - Pivot table javascript library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/FancyGrid/FancyGrid">FancyGrid</a></b> (🥉18 ·  ⭐ 190) - FancyGrid - JavaScript grid library with charts integration.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/paramquery/grid">grid</a></b> (🥉14 ·  ⭐ 520 · 💀) - jQuery grid plugin based on jQueryui widget design. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
@@ -1241,12 +1241,12 @@ _Input and form components._
 
 <details><summary><b><a href="https://github.com/react-hook-form/react-hook-form">react-hook-form</a></b> (🥇44 ·  ⭐ 30K) - React Hooks for form state management and validation (Web +.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-hook-form/react-hook-form) (👨‍💻 230 · 🔀 1.4K · 📦 200K · 📋 3.3K - 0% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/react-hook-form/react-hook-form) (👨‍💻 230 · 🔀 1.4K · 📦 200K · 📋 3.3K - 0% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/react-hook-form/react-hook-form
 	```
-- [npm](https://www.npmjs.com/package/react-hook-form) (📥 8.8M / month · 📦 1.1K · ⏱️ 28.07.2022):
+- [npm](https://www.npmjs.com/package/react-hook-form) (📥 9.1M / month · 📦 1.1K · ⏱️ 28.07.2022):
 	```
 	npm install react-hook-form
 	```
@@ -1258,7 +1258,7 @@ _Input and form components._
 	```
 	git clone https://github.com/Hacker0x01/react-datepicker
 	```
-- [npm](https://www.npmjs.com/package/react-datepicker) (📥 5.7M / month · 📦 4.7K · ⏱️ 17.05.2022):
+- [npm](https://www.npmjs.com/package/react-datepicker) (📥 5.8M / month · 📦 4.7K · ⏱️ 17.05.2022):
 	```
 	npm install react-datepicker
 	```
@@ -1282,43 +1282,43 @@ _Input and form components._
 	```
 	git clone https://github.com/jaredpalmer/formik
 	```
-- [npm](https://www.npmjs.com/package/formik) (📥 8.5M / month · 📦 4.1K · ⏱️ 02.06.2021):
+- [npm](https://www.npmjs.com/package/formik) (📥 8.5M / month · 📦 4.3K · ⏱️ 02.06.2021):
 	```
 	npm install formik
 	```
 </details>
 <details><summary><b><a href="https://github.com/rjsf-team/react-jsonschema-form">react-jsonschema-form</a></b> (🥈38 ·  ⭐ 12K) - A React component for building Web forms from JSON.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/rjsf-team/react-jsonschema-form) (👨‍💻 260 · 🔀 1.9K · 📦 5K · 📋 1.7K - 35% open · ⏱️ 22.07.2022):
+- [GitHub](https://github.com/rjsf-team/react-jsonschema-form) (👨‍💻 260 · 🔀 1.9K · 📦 5K · 📋 1.7K - 33% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/rjsf-team/react-jsonschema-form
 	```
-- [npm](https://www.npmjs.com/package/@rjsf/antd) (📥 27K / month · 📦 9 · ⏱️ 15.07.2022):
+- [npm](https://www.npmjs.com/package/@rjsf/antd) (📥 26K / month · 📦 9 · ⏱️ 06.08.2022):
 	```
 	npm install @rjsf/antd
 	```
 </details>
-<details><summary><b><a href="https://github.com/downshift-js/downshift">downshift</a></b> (🥈36 ·  ⭐ 11K) - A set of primitives to build simple, flexible, WAI-ARIA compliant React.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/downshift-js/downshift">downshift</a></b> (🥈37 ·  ⭐ 11K) - A set of primitives to build simple, flexible, WAI-ARIA compliant React.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/downshift-js/downshift) (👨‍💻 200 · 🔀 910 · 📦 66K · 📋 730 - 14% open · ⏱️ 25.07.2022):
+- [GitHub](https://github.com/downshift-js/downshift) (👨‍💻 200 · 🔀 910 · 📦 67K · 📋 730 - 13% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/downshift-js/downshift
 	```
-- [npm](https://www.npmjs.com/package/downshift) (📥 11M / month · 📦 1.7K · ⏱️ 10.08.2021):
+- [npm](https://www.npmjs.com/package/downshift) (📥 11M / month · 📦 1.8K · ⏱️ 11.08.2022):
 	```
 	npm install downshift
 	```
 </details>
-<details><summary><b><a href="https://github.com/surveyjs/survey-library">survey-library</a></b> (🥈35 ·  ⭐ 3.2K) - JavaScript Survey and Form Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/surveyjs/survey-library">survey-library</a></b> (🥈35 ·  ⭐ 3.3K) - JavaScript Survey and Form Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/surveyjs/survey-library) (👨‍💻 140 · 🔀 680 · 📥 3.2K · 📦 6 · 📋 3.4K - 10% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/surveyjs/survey-library) (👨‍💻 140 · 🔀 680 · 📥 3.2K · 📦 6 · 📋 3.4K - 10% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/surveyjs/survey-library
 	```
-- [npm](https://www.npmjs.com/package/survey-knockout) (📥 71K / month · 📦 52 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/survey-knockout) (📥 72K / month · 📦 52 · ⏱️ 09.08.2022):
 	```
 	npm install survey-knockout
 	```
@@ -1330,7 +1330,7 @@ _Input and form components._
 	```
 	git clone https://github.com/arqex/react-datetime
 	```
-- [npm](https://www.npmjs.com/package/react-datetime) (📥 930K / month · 📦 5.1K · ⏱️ 06.09.2021):
+- [npm](https://www.npmjs.com/package/react-datetime) (📥 960K / month · 📦 5.1K · ⏱️ 06.09.2021):
 	```
 	npm install react-datetime
 	```
@@ -1342,7 +1342,7 @@ _Input and form components._
 	```
 	git clone https://github.com/airbnb/react-dates
 	```
-- [npm](https://www.npmjs.com/package/@fmauneko/react-dates) (📥 9 / month · ⏱️ 02.11.2018):
+- [npm](https://www.npmjs.com/package/@fmauneko/react-dates) (📥 10 / month · ⏱️ 02.11.2018):
 	```
 	npm install @fmauneko/react-dates
 	```
@@ -1359,14 +1359,14 @@ _Input and form components._
 	npm install react-widgets
 	```
 </details>
-<details><summary><b><a href="https://github.com/hypeserver/react-date-range">react-date-range</a></b> (🥈32 ·  ⭐ 2.2K · 💤) - A React component for choosing dates and date ranges. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hypeserver/react-date-range">react-date-range</a></b> (🥈32 ·  ⭐ 2.3K · 💤) - A React component for choosing dates and date ranges. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hypeserver/react-date-range) (👨‍💻 68 · 🔀 560 · 📦 11K · 📋 400 - 46% open · ⏱️ 14.01.2022):
 
 	```
 	git clone https://github.com/hypeserver/react-date-range
 	```
-- [npm](https://www.npmjs.com/package/react-date-range) (📥 680K / month · 📦 280 · ⏱️ 11.09.2021):
+- [npm](https://www.npmjs.com/package/react-date-range) (📥 690K / month · 📦 280 · ⏱️ 11.09.2021):
 	```
 	npm install react-date-range
 	```
@@ -1383,26 +1383,26 @@ _Input and form components._
 	npm install @unform/core
 	```
 </details>
-<details><summary><b><a href="https://github.com/wojtekmaj/react-date-picker">react-date-picker</a></b> (🥉30 ·  ⭐ 950) - A date picker for your React app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wojtekmaj/react-date-picker">react-date-picker</a></b> (🥉30 ·  ⭐ 960) - A date picker for your React app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wojtekmaj/react-date-picker) (👨‍💻 22 · 🔀 170 · 📦 14K · 📋 330 - 10% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/wojtekmaj/react-date-picker
 	```
-- [npm](https://www.npmjs.com/package/react-date-picker) (📥 500K / month · 📦 630 · ⏱️ 04.02.2022):
+- [npm](https://www.npmjs.com/package/react-date-picker) (📥 490K / month · 📦 630 · ⏱️ 04.02.2022):
 	```
 	npm install react-date-picker
 	```
 </details>
 <details><summary><b><a href="https://github.com/haoxins/react-flatpickr">react-flatpickr</a></b> (🥉27 ·  ⭐ 530) - flatpickr for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/haoxins/react-flatpickr) (👨‍💻 32 · 🔀 100 · 📦 4.8K · 📋 130 - 15% open · ⏱️ 29.07.2022):
+- [GitHub](https://github.com/haoxins/react-flatpickr) (👨‍💻 32 · 🔀 100 · 📦 4.9K · 📋 130 - 16% open · ⏱️ 29.07.2022):
 
 	```
 	git clone https://github.com/haoxins/react-flatpickr
 	```
-- [npm](https://www.npmjs.com/package/react-flatpickr) (📥 360K / month · 📦 150 · ⏱️ 27.06.2022):
+- [npm](https://www.npmjs.com/package/react-flatpickr) (📥 360K / month · 📦 160 · ⏱️ 27.06.2022):
 	```
 	npm install react-flatpickr
 	```
@@ -1411,12 +1411,12 @@ _Input and form components._
 
 - <b><a href="https://github.com/nosir/cleave.js">cleave.js</a></b> (🥈35 ·  ⭐ 17K · 💀) - Format input text content when you are typing... <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/formsy/formsy-material-ui">formsy-material-ui</a></b> (🥉26 ·  ⭐ 580 · 💀) - A Formsy compatibility wrapper for Material-UI form.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/ndom91/react-timezone-select">react-timezone-select</a></b> (🥉25 ·  ⭐ 74) - An extremely usable and dynamic React timezone selector. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ndom91/react-timezone-select">react-timezone-select</a></b> (🥉25 ·  ⭐ 75) - An extremely usable and dynamic React timezone selector. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/twisty/formsy-react-components">formsy-react-components</a></b> (🥉24 ·  ⭐ 290 · 💀) - Bootstrap components for a formsy-react form. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/hernansartorio/react-nice-dates">react-nice-dates</a></b> (🥉21 ·  ⭐ 1.1K · 💀) - A responsive, touch-friendly, and modular date picker.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mberneti/react-datepicker2">react-datepicker2</a></b> (🥉21 ·  ⭐ 220 · 💀) - react datepicker component.(include persian jalaali.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/alexkuz/react-input-enhancements">react-input-enhancements</a></b> (🥉20 ·  ⭐ 1.4K · 💀) - Set of enhancements for input control. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/antonfisher/react-simple-timefield">react-simple-timefield</a></b> (🥉20 ·  ⭐ 94 · 💤) - Simple React time input field. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/antonfisher/react-simple-timefield">react-simple-timefield</a></b> (🥉20 ·  ⭐ 95 · 💤) - Simple React time input field. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/BelkaLab/react-yearly-calendar">react-yearly-calendar</a></b> (🥉19 ·  ⭐ 550 · 💀) - React.js Yearly Calendar Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/almogtavor/date-range-picker">date-range-picker</a></b> (🥉12 ·  ⭐ 96) - Flexible React date range picker calendar with no dependencies. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
@@ -1428,7 +1428,7 @@ _Input and form components._
 
 <details><summary><b><a href="https://github.com/formatjs/formatjs">formatjs</a></b> (🥇40 ·  ⭐ 13K) - The monorepo home to all of the FormatJS related libraries, most.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/formatjs/formatjs) (👨‍💻 270 · 🔀 1.3K · 📦 1.9K · 📋 1.7K - 1% open · ⏱️ 19.07.2022):
+- [GitHub](https://github.com/formatjs/formatjs) (👨‍💻 270 · 🔀 1.3K · 📦 2K · 📋 1.7K - 2% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/formatjs/formatjs
@@ -1445,19 +1445,19 @@ _Input and form components._
 	```
 	git clone https://github.com/i18next/react-i18next
 	```
-- [npm](https://www.npmjs.com/package/react-i18next) (📥 7.4M / month · 📦 2.9K · ⏱️ 27.07.2022):
+- [npm](https://www.npmjs.com/package/react-i18next) (📥 7.5M / month · 📦 2.9K · ⏱️ 27.07.2022):
 	```
 	npm install react-i18next
 	```
 </details>
-<details><summary><b><a href="https://github.com/lingui/js-lingui">js-lingui</a></b> (🥉34 ·  ⭐ 3.4K) - A readable, automated, and optimized (5 kb) internationalization for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/lingui/js-lingui">js-lingui</a></b> (🥉33 ·  ⭐ 3.4K) - A readable, automated, and optimized (5 kb) internationalization for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/lingui/js-lingui) (👨‍💻 170 · 🔀 310 · 📦 1.3K · 📋 700 - 3% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/lingui/js-lingui
 	```
-- [npm](https://www.npmjs.com/package/@lingui/macro) (📥 320K / month · 📦 77 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/@lingui/macro) (📥 330K / month · 📦 77 · ⏱️ 22.06.2022):
 	```
 	npm install @lingui/macro
 	```
@@ -1470,12 +1470,12 @@ _Input and form components._
 
 <details><summary><b><a href="https://github.com/reduxjs/redux">redux</a></b> (🥇49 ·  ⭐ 58K) - Predictable state container for JavaScript apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reduxjs/redux) (👨‍💻 950 · 🔀 15K · 📦 2.4M · 📋 2K - 2% open · ⏱️ 27.07.2022):
+- [GitHub](https://github.com/reduxjs/redux) (👨‍💻 950 · 🔀 15K · 📦 2.4M · 📋 2K - 2% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/reduxjs/redux
 	```
-- [npm](https://www.npmjs.com/package/redux) (📥 32M / month · 📦 180K · ⏱️ 18.04.2022):
+- [npm](https://www.npmjs.com/package/redux) (📥 33M / month · 📦 180K · ⏱️ 18.04.2022):
 	```
 	npm install redux
 	```
@@ -1487,19 +1487,19 @@ _Input and form components._
 	```
 	git clone https://github.com/immutable-js/immutable-js
 	```
-- [npm](https://www.npmjs.com/package/immutable) (📥 42M / month · 📦 99K · ⏱️ 23.05.2022):
+- [npm](https://www.npmjs.com/package/immutable) (📥 43M / month · 📦 99K · ⏱️ 23.05.2022):
 	```
 	npm install immutable
 	```
 </details>
 <details><summary><b><a href="https://github.com/reduxjs/react-redux">react-redux</a></b> (🥇45 ·  ⭐ 22K) - Official React bindings for Redux. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reduxjs/react-redux) (👨‍💻 280 · 🔀 3.2K · 📦 2.2M · 📋 1.2K - 1% open · ⏱️ 24.06.2022):
+- [GitHub](https://github.com/reduxjs/react-redux) (👨‍💻 280 · 🔀 3.3K · 📦 2.2M · 📋 1.2K - 1% open · ⏱️ 24.06.2022):
 
 	```
 	git clone https://github.com/reduxjs/react-redux
 	```
-- [npm](https://www.npmjs.com/package/react-redux) (📥 24M / month · 📦 150K · ⏱️ 22.05.2022):
+- [npm](https://www.npmjs.com/package/react-redux) (📥 25M / month · 📦 150K · ⏱️ 22.05.2022):
 	```
 	npm install react-redux
 	```
@@ -1511,38 +1511,38 @@ _Input and form components._
 	```
 	git clone https://github.com/immerjs/immer
 	```
-- [npm](https://www.npmjs.com/package/immer) (📥 38M / month · 📦 90K · ⏱️ 13.06.2022):
+- [npm](https://www.npmjs.com/package/immer) (📥 39M / month · 📦 90K · ⏱️ 13.06.2022):
 	```
 	npm install immer
 	```
 </details>
 <details><summary><b><a href="https://github.com/mobxjs/mobx">mobx</a></b> (🥈42 ·  ⭐ 26K) - Simple, scalable state management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mobxjs/mobx) (👨‍💻 320 · 🔀 1.7K · 📦 110K · 📋 1.8K - 1% open · ⏱️ 28.07.2022):
+- [GitHub](https://github.com/mobxjs/mobx) (👨‍💻 320 · 🔀 1.7K · 📦 110K · 📋 1.8K - 1% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/mobxjs/mobx
 	```
-- [npm](https://www.npmjs.com/package/mobx) (📥 3.9M / month · 📦 13K · ⏱️ 27.06.2022):
+- [npm](https://www.npmjs.com/package/mobx) (📥 4M / month · 📦 13K · ⏱️ 27.06.2022):
 	```
 	npm install mobx
 	```
 </details>
 <details><summary><b><a href="https://github.com/statelyai/xstate">xstate</a></b> (🥈41 ·  ⭐ 21K) - State machines and statecharts for the modern web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/statelyai/xstate) (👨‍💻 300 · 🔀 970 · 📦 140K · 📋 1.2K - 21% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/statelyai/xstate) (👨‍💻 300 · 🔀 990 · 📦 140K · 📋 1.2K - 21% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/statelyai/xstate
 	```
-- [npm](https://www.npmjs.com/package/xstate) (📥 4.6M / month · 📦 7K · ⏱️ 26.05.2022):
+- [npm](https://www.npmjs.com/package/xstate) (📥 4.7M / month · 📦 7.1K · ⏱️ 05.08.2022):
 	```
 	npm install xstate
 	```
 </details>
 <details><summary><b><a href="https://github.com/reduxjs/reselect">reselect</a></b> (🥈39 ·  ⭐ 19K) - Selector library for Redux. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reduxjs/reselect) (👨‍💻 100 · 🔀 690 · 📦 1M · 📋 370 - 5% open · ⏱️ 07.06.2022):
+- [GitHub](https://github.com/reduxjs/reselect) (👨‍💻 100 · 🔀 690 · 📦 1M · 📋 380 - 5% open · ⏱️ 07.06.2022):
 
 	```
 	git clone https://github.com/reduxjs/reselect
@@ -1552,9 +1552,9 @@ _Input and form components._
 	npm install reselect
 	```
 </details>
-<details><summary><b><a href="https://github.com/reduxjs/redux-toolkit">redux-toolkit</a></b> (🥈39 ·  ⭐ 8.2K) - The official, opinionated, batteries-included toolset for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/reduxjs/redux-toolkit">redux-toolkit</a></b> (🥈39 ·  ⭐ 8.3K) - The official, opinionated, batteries-included toolset for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reduxjs/redux-toolkit) (👨‍💻 250 · 🔀 740 · 📦 310K · 📋 1.4K - 13% open · ⏱️ 27.07.2022):
+- [GitHub](https://github.com/reduxjs/redux-toolkit) (👨‍💻 250 · 🔀 770 · 📦 310K · 📋 1.5K - 13% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/reduxjs/redux-toolkit
@@ -1564,6 +1564,18 @@ _Input and form components._
 	npm install redux-toolkit
 	```
 </details>
+<details><summary><b><a href="https://github.com/remix-run/history">history</a></b> (🥈39 ·  ⭐ 7.9K · 📈) - Manage session history with JavaScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/remix-run/history) (👨‍💻 74 · 🔀 940 · 📦 2.4M · 📋 590 - 18% open · ⏱️ 22.02.2022):
+
+	```
+	git clone https://github.com/remix-run/history
+	```
+- [npm](https://www.npmjs.com/package/history) (📥 46M / month · 📦 120K · ⏱️ 22.02.2022):
+	```
+	npm install history
+	```
+</details>
 <details><summary><b><a href="https://github.com/localForage/localForage">localForage</a></b> (🥈38 ·  ⭐ 21K · 💤) - Offline storage, improved. Wraps IndexedDB, WebSQL, or.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/localForage/localForage) (👨‍💻 110 · 🔀 1.1K · 📥 21K · 📦 220K · 📋 700 - 30% open · ⏱️ 03.10.2021):
@@ -1571,26 +1583,26 @@ _Input and form components._
 	```
 	git clone https://github.com/localForage/localForage
 	```
-- [npm](https://www.npmjs.com/package/localforage) (📥 7.8M / month · 📦 15K · ⏱️ 18.08.2021):
+- [npm](https://www.npmjs.com/package/localforage) (📥 8M / month · 📦 15K · ⏱️ 18.08.2021):
 	```
 	npm install localforage
 	```
 </details>
 <details><summary><b><a href="https://github.com/facebookexperimental/Recoil">Recoil</a></b> (🥈38 ·  ⭐ 17K) - Recoil is an experimental state management library for React apps. It.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/facebookexperimental/Recoil) (👨‍💻 100 · 🔀 920 · 📦 29K · 📋 880 - 21% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/facebookexperimental/Recoil) (👨‍💻 100 · 🔀 930 · 📦 29K · 📋 880 - 21% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/facebookexperimental/Recoil
 	```
-- [npm](https://www.npmjs.com/package/recoil) (📥 1.2M / month · 📦 150 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/recoil) (📥 1.3M / month · 📦 210 · ⏱️ 22.06.2022):
 	```
 	npm install recoil
 	```
 </details>
 <details><summary><b><a href="https://github.com/pmndrs/zustand">zustand</a></b> (🥈37 ·  ⭐ 20K) - Bear necessities for state management in React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pmndrs/zustand) (👨‍💻 100 · 🔀 580 · 📦 36K · 📋 480 - 3% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/pmndrs/zustand) (👨‍💻 100 · 🔀 580 · 📦 37K · 📋 490 - 3% open · ⏱️ 07.08.2022):
 
 	```
 	git clone https://github.com/pmndrs/zustand
@@ -1602,26 +1614,14 @@ _Input and form components._
 </details>
 <details><summary><b><a href="https://github.com/pubkey/rxdb">rxdb</a></b> (🥈37 ·  ⭐ 18K) - A fast, offline-first, reactive database for JavaScript Applications. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pubkey/rxdb) (👨‍💻 160 · 🔀 880 · 📦 1K · 📋 550 - 1% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/pubkey/rxdb) (👨‍💻 160 · 🔀 880 · 📦 1K · 📋 550 - 1% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/pubkey/rxdb
 	```
-- [npm](https://www.npmjs.com/package/rxdb) (📥 26K / month · 📦 140 · ⏱️ 18.07.2022):
+- [npm](https://www.npmjs.com/package/rxdb) (📥 27K / month · 📦 140 · ⏱️ 11.08.2022):
 	```
 	npm install rxdb
-	```
-</details>
-<details><summary><b><a href="https://github.com/remix-run/history">history</a></b> (🥈37 ·  ⭐ 7.8K · 📉) - Manage session history with JavaScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/remix-run/history) (👨‍💻 74 · 🔀 940 · 📋 590 - 18% open · ⏱️ 22.02.2022):
-
-	```
-	git clone https://github.com/remix-run/history
-	```
-- [npm](https://www.npmjs.com/package/history) (📥 46M / month · 📦 120K · ⏱️ 22.02.2022):
-	```
-	npm install history
 	```
 </details>
 <details><summary><b><a href="https://github.com/final-form/react-final-form">react-final-form</a></b> (🥉34 ·  ⭐ 7K) - High performance subscription-based form state management for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1638,19 +1638,19 @@ _Input and form components._
 </details>
 <details><summary><b><a href="https://github.com/effector/effector">effector</a></b> (🥉34 ·  ⭐ 3.8K) - Business logic with ease. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/effector/effector) (👨‍💻 120 · 🔀 170 · 📦 2.3K · 📋 320 - 34% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/effector/effector) (👨‍💻 120 · 🔀 170 · 📦 2.4K · 📋 320 - 34% open · ⏱️ 01.08.2022):
 
 	```
 	git clone https://github.com/effector/effector
 	```
-- [npm](https://www.npmjs.com/package/effector-react) (📥 79K / month · 📦 62 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/effector-react) (📥 72K / month · 📦 62 · ⏱️ 01.08.2022):
 	```
 	npm install effector-react
 	```
 </details>
 <details><summary><b><a href="https://github.com/ctrlplusb/easy-peasy">easy-peasy</a></b> (🥉31 ·  ⭐ 4.8K) - Vegetarian friendly state for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ctrlplusb/easy-peasy) (👨‍💻 57 · 🔀 190 · 📦 3.9K · 📋 540 - 13% open · ⏱️ 11.02.2022):
+- [GitHub](https://github.com/ctrlplusb/easy-peasy) (👨‍💻 57 · 🔀 190 · 📦 4K · 📋 540 - 13% open · ⏱️ 11.02.2022):
 
 	```
 	git clone https://github.com/ctrlplusb/easy-peasy
@@ -1674,12 +1674,12 @@ _Input and form components._
 </details>
 <details><summary><b><a href="https://github.com/avkonst/hookstate">hookstate</a></b> (🥉27 ·  ⭐ 1.4K) - The simple but very powerful and incredibly fast state management for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/avkonst/hookstate) (👨‍💻 22 · 🔀 88 · 📦 2 · 📋 250 - 9% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/avkonst/hookstate) (👨‍💻 22 · 🔀 88 · 📦 2 · 📋 250 - 7% open · ⏱️ 07.08.2022):
 
 	```
 	git clone https://github.com/avkonst/hookstate
 	```
-- [npm](https://www.npmjs.com/package/@hookstate/core) (📥 70K / month · 📦 28 · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/@hookstate/core) (📥 72K / month · 📦 30 · ⏱️ 07.08.2022):
 	```
 	npm install @hookstate/core
 	```
@@ -1691,7 +1691,7 @@ _Input and form components._
 	```
 	git clone https://github.com/cerebral/cerebral
 	```
-- [npm](https://www.npmjs.com/package/cerebral) (📥 9.4K / month · 📦 330 · ⏱️ 18.09.2021):
+- [npm](https://www.npmjs.com/package/cerebral) (📥 8.8K / month · 📦 330 · ⏱️ 18.09.2021):
 	```
 	npm install cerebral
 	```
@@ -1715,7 +1715,7 @@ _Input and form components._
 	```
 	git clone https://github.com/keajs/kea
 	```
-- [npm](https://www.npmjs.com/package/kea) (📥 27K / month · 📦 76 · ⏱️ 19.06.2022):
+- [npm](https://www.npmjs.com/package/kea) (📥 28K / month · 📦 76 · ⏱️ 19.06.2022):
 	```
 	npm install kea
 	```
@@ -1727,31 +1727,31 @@ _Input and form components._
 	```
 	git clone https://github.com/yahoo/react-i13n
 	```
-- [npm](https://www.npmjs.com/package/react-i13n) (📥 2.8K / month · 📦 37 · ⏱️ 30.03.2022):
+- [npm](https://www.npmjs.com/package/react-i13n) (📥 2.9K / month · 📦 37 · ⏱️ 30.03.2022):
 	```
 	npm install react-i13n
 	```
 </details>
-<details><summary><b><a href="https://github.com/Mojang/ore-ui">ore-ui</a></b> (🥉22 ·  ⭐ 160) - Building blocks to construct game UIs using web tech. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Mojang/ore-ui">ore-ui</a></b> (🥉22 ·  ⭐ 170) - Building blocks to construct game UIs using web tech. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Mojang/ore-ui) (👨‍💻 11 · 🔀 9 · 📦 8 · 📋 14 - 57% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/Mojang/ore-ui) (👨‍💻 11 · 🔀 10 · 📦 8 · 📋 14 - 57% open · ⏱️ 02.08.2022):
 
 	```
 	git clone https://github.com/Mojang/ore-ui
 	```
-- [npm](https://www.npmjs.com/package/@react-facet/dom-fiber-testing-library) (📥 140K / month · 📦 4 · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/@react-facet/dom-fiber-testing-library) (📥 150K / month · 📦 4 · ⏱️ 02.08.2022):
 	```
 	npm install @react-facet/dom-fiber-testing-library
 	```
 </details>
 <details><summary><b><a href="https://github.com/teafuljs/teaful">teaful</a></b> (🥉16 ·  ⭐ 640) - Tiny, easy and powerful React state management. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/teafuljs/teaful) (👨‍💻 10 · 🔀 20 · 📦 26 · 📋 27 - 62% open · ⏱️ 19.02.2022):
+- [GitHub](https://github.com/teafuljs/teaful) (👨‍💻 10 · 🔀 20 · 📦 27 · 📋 27 - 62% open · ⏱️ 19.02.2022):
 
 	```
 	git clone https://github.com/teafuljs/teaful
 	```
-- [npm](https://www.npmjs.com/package/teaful) (📥 920 / month · ⏱️ 09.04.2022):
+- [npm](https://www.npmjs.com/package/teaful) (📥 1K / month · ⏱️ 09.04.2022):
 	```
 	npm install teaful
 	```
@@ -1772,26 +1772,26 @@ _Input and form components._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/remix-run/react-router">react-router</a></b> (🥇48 ·  ⭐ 48K) - Declarative routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/remix-run/react-router">react-router</a></b> (🥇47 ·  ⭐ 48K · 📉) - Declarative routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/remix-run/react-router) (👨‍💻 780 · 🔀 9.3K · 📦 2.6M · 📋 6.5K - 1% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/remix-run/react-router
 	```
-- [npm](https://www.npmjs.com/package/react-router-dom) (📥 33M / month · 📦 120K · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/react-router-dom) (📥 34M / month · 📦 120K · ⏱️ 10.08.2022):
 	```
 	npm install react-router-dom
 	```
 </details>
-<details><summary><b><a href="https://github.com/remix-run/react-router">remix-run/react-router</a></b> (🥇48 ·  ⭐ 48K) - Declarative routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/remix-run/react-router">remix-run/react-router</a></b> (🥇47 ·  ⭐ 48K · 📉) - Declarative routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/remix-run/react-router) (👨‍💻 780 · 🔀 9.3K · 📦 2.6M · 📋 6.5K - 1% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/remix-run/react-router
 	```
-- [npm](https://www.npmjs.com/package/react-router-dom) (📥 33M / month · 📦 120K · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/react-router-dom) (📥 34M / month · 📦 120K · ⏱️ 10.08.2022):
 	```
 	npm install react-router-dom
 	```
@@ -1803,19 +1803,19 @@ _Input and form components._
 	```
 	git clone https://github.com/molefrog/wouter
 	```
-- [npm](https://www.npmjs.com/package/wouter) (📥 92K / month · 📦 22 · ⏱️ 09.11.2021):
+- [npm](https://www.npmjs.com/package/wouter) (📥 85K / month · 📦 22 · ⏱️ 09.11.2021):
 	```
 	npm install wouter
 	```
 </details>
 <details><summary><b><a href="https://github.com/frontarm/navi">navi</a></b> (🥈28 ·  ⭐ 2.1K) - Declarative, asynchronous routing for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/frontarm/navi) (👨‍💻 36 · 🔀 71 · 📦 810 · 📋 160 - 27% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/frontarm/navi) (👨‍💻 36 · 🔀 72 · 📦 820 · 📋 160 - 27% open · ⏱️ 03.08.2022):
 
 	```
 	git clone https://github.com/frontarm/navi
 	```
-- [npm](https://www.npmjs.com/package/react-navi) (📥 24K / month · 📦 51 · ⏱️ 11.07.2022):
+- [npm](https://www.npmjs.com/package/react-navi) (📥 26K / month · 📦 52 · ⏱️ 11.07.2022):
 	```
 	npm install react-navi
 	```
@@ -1834,12 +1834,12 @@ _Input and form components._
 </details>
 <details><summary><b><a href="https://github.com/salvoravida/redux-first-history">redux-first-history</a></b> (🥉24 ·  ⭐ 330) - Redux history binding support react-router - @reach/router.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/salvoravida/redux-first-history) (👨‍💻 10 · 🔀 29 · 📦 290 · 📋 62 - 8% open · ⏱️ 18.07.2022):
+- [GitHub](https://github.com/salvoravida/redux-first-history) (👨‍💻 10 · 🔀 29 · 📦 300 · 📋 62 - 8% open · ⏱️ 18.07.2022):
 
 	```
 	git clone https://github.com/salvoravida/redux-first-history
 	```
-- [npm](https://www.npmjs.com/package/redux-first-history) (📥 83K / month · 📦 12 · ⏱️ 24.06.2022):
+- [npm](https://www.npmjs.com/package/redux-first-history) (📥 82K / month · 📦 12 · ⏱️ 24.06.2022):
 	```
 	npm install redux-first-history
 	```
@@ -1866,31 +1866,31 @@ _Input and form components._
 	```
 	git clone https://github.com/pmndrs/react-spring
 	```
-- [npm](https://www.npmjs.com/package/react-spring) (📥 3.5M / month · 📦 2.6K · ⏱️ 23.07.2022):
+- [npm](https://www.npmjs.com/package/react-spring) (📥 3.6M / month · 📦 2.7K · ⏱️ 23.07.2022):
 	```
 	npm install react-spring
 	```
 </details>
 <details><summary><b><a href="https://github.com/framer/motion">motion</a></b> (🥇40 ·  ⭐ 15K) - Open source, production-ready animation and gesture library for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/framer/motion) (👨‍💻 89 · 🔀 470 · 📦 220K · 📋 1K - 19% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/framer/motion) (👨‍💻 89 · 🔀 480 · 📦 230K · 📋 1K - 19% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/framer/motion
 	```
-- [npm](https://www.npmjs.com/package/framer-motion) (📥 5.8M / month · 📦 1.2K · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/framer-motion) (📥 5.9M / month · 📦 1.3K · ⏱️ 11.08.2022):
 	```
 	npm install framer-motion
 	```
 </details>
-<details><summary><b><a href="https://github.com/matteobruni/tsparticles">tsparticles</a></b> (🥈38 ·  ⭐ 3.7K) - tsParticles - Easily create highly customizable JavaScript particles.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/matteobruni/tsparticles">tsparticles</a></b> (🥈38 ·  ⭐ 3.8K) - tsParticles - Easily create highly customizable JavaScript particles.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/matteobruni/tsparticles) (👨‍💻 82 · 🔀 430 · 📥 2.5K · 📦 18K · 📋 320 - 8% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/matteobruni/tsparticles) (👨‍💻 83 · 🔀 430 · 📥 2.6K · 📦 19K · 📋 330 - 8% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/matteobruni/tsparticles
 	```
-- [npm](https://www.npmjs.com/package/tsparticles) (📥 230K / month · 📦 44 · ⏱️ 28.07.2022):
+- [npm](https://www.npmjs.com/package/tsparticles) (📥 220K / month · 📦 48 · ⏱️ 11.08.2022):
 	```
 	npm install tsparticles
 	```
@@ -1902,19 +1902,19 @@ _Input and form components._
 	```
 	git clone https://github.com/joshwcomeau/react-flip-move
 	```
-- [npm](https://www.npmjs.com/package/react-flip-move) (📥 750K / month · 📦 1.1K · ⏱️ 26.10.2019):
+- [npm](https://www.npmjs.com/package/react-flip-move) (📥 790K / month · 📦 1.1K · ⏱️ 26.10.2019):
 	```
 	npm install react-flip-move
 	```
 </details>
 <details><summary><b><a href="https://github.com/mkosir/react-parallax-tilt">react-parallax-tilt</a></b> (🥉28 ·  ⭐ 500) - Easily apply tilt hover effect on React components -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mkosir/react-parallax-tilt) (👨‍💻 13 · 🔀 83 · 📦 4.6K · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/mkosir/react-parallax-tilt) (👨‍💻 13 · 🔀 83 · 📦 4.8K · ⏱️ 05.08.2022):
 
 	```
 	git clone https://github.com/mkosir/react-parallax-tilt
 	```
-- [npm](https://www.npmjs.com/package/react-parallax-tilt) (📥 30K / month · 📦 10 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/react-parallax-tilt) (📥 31K / month · 📦 10 · ⏱️ 05.08.2022):
 	```
 	npm install react-parallax-tilt
 	```
@@ -1926,7 +1926,7 @@ _Input and form components._
 	```
 	git clone https://github.com/plus1tv/react-anime
 	```
-- [npm](https://www.npmjs.com/package/react-anime) (📥 20K / month · 📦 71 · ⏱️ 15.09.2021):
+- [npm](https://www.npmjs.com/package/react-anime) (📥 21K / month · 📦 71 · ⏱️ 15.09.2021):
 	```
 	npm install react-anime
 	```
@@ -1950,24 +1950,24 @@ _Data visualization, chart and diagram components._
 
 <details><summary><b><a href="https://github.com/mrdoob/three.js">three.js</a></b> (🥇47 ·  ⭐ 84K) - JavaScript 3D Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mrdoob/three.js) (👨‍💻 2K · 🔀 32K · 📋 11K - 4% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/mrdoob/three.js) (👨‍💻 2K · 🔀 33K · 📋 11K - 4% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/mrdoob/three.js
 	```
-- [npm](https://www.npmjs.com/package/three) (📥 2.7M / month · 📦 8.2K · ⏱️ 28.07.2022):
+- [npm](https://www.npmjs.com/package/three) (📥 2.9M / month · 📦 8.4K · ⏱️ 28.07.2022):
 	```
 	npm install three
 	```
 </details>
 <details><summary><b><a href="https://github.com/chartjs/Chart.js">Chart.js</a></b> (🥇47 ·  ⭐ 58K) - Simple HTML5 Charts using the canvas tag. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/chartjs/Chart.js) (👨‍💻 440 · 🔀 12K · 📥 5.6M · 📦 560K · 📋 6.5K - 2% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/chartjs/Chart.js) (👨‍💻 440 · 🔀 12K · 📥 5.7M · 📦 560K · 📋 6.5K - 2% open · ⏱️ 07.08.2022):
 
 	```
 	git clone https://github.com/chartjs/Chart.js
 	```
-- [npm](https://www.npmjs.com/package/chart.js) (📥 8.6M / month · 📦 22K · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/chart.js) (📥 8.7M / month · 📦 22K · ⏱️ 03.08.2022):
 	```
 	npm install chart.js
 	```
@@ -1979,74 +1979,62 @@ _Data visualization, chart and diagram components._
 	```
 	git clone https://github.com/d3/d3
 	```
-- [npm](https://www.npmjs.com/package/d3) (📥 7.5M / month · 📦 28K · ⏱️ 03.07.2022):
+- [npm](https://www.npmjs.com/package/d3) (📥 7.6M / month · 📦 28K · ⏱️ 03.07.2022):
 	```
 	npm install d3
 	```
 </details>
 <details><summary><b><a href="https://github.com/recharts/recharts">Recharts</a></b> (🥇43 ·  ⭐ 19K) - Redefined chart library built with React and D3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/recharts/recharts) (👨‍💻 240 · 🔀 1.4K · 📦 89K · 📋 2.4K - 16% open · ⏱️ 28.07.2022):
+- [GitHub](https://github.com/recharts/recharts) (👨‍💻 240 · 🔀 1.4K · 📦 90K · 📋 2.4K - 16% open · ⏱️ 28.07.2022):
 
 	```
 	git clone https://github.com/recharts/recharts
 	```
-- [npm](https://www.npmjs.com/package/recharts) (📥 4.3M / month · 📦 4.2K · ⏱️ 26.07.2022):
+- [npm](https://www.npmjs.com/package/recharts) (📥 4.4M / month · 📦 4.2K · ⏱️ 26.07.2022):
 	```
 	npm install recharts
 	```
 </details>
-<details><summary><b><a href="https://github.com/mermaid-js/mermaid">mermaid</a></b> (🥈42 ·  ⭐ 49K) - Generation of diagram and flowchart from text in a similar manner as.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/apache/echarts">echarts</a></b> (🥈42 ·  ⭐ 52K · 📈) - Apache ECharts is a powerful, interactive charting and data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mermaid-js/mermaid) (👨‍💻 370 · 🔀 3.6K · 📦 12K · 📋 1.9K - 39% open · ⏱️ 04.08.2022):
-
-	```
-	git clone https://github.com/mermaid-js/mermaid
-	```
-- [npm](https://www.npmjs.com/package/mermaid) (📥 890K / month · 📦 770 · ⏱️ 28.06.2022):
-	```
-	npm install mermaid
-	```
-</details>
-<details><summary><b><a href="https://github.com/apache/echarts">echarts</a></b> (🥈41 ·  ⭐ 52K) - Apache ECharts is a powerful, interactive charting and data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/apache/echarts) (👨‍💻 210 · 🔀 19K · 📦 190K · 📋 16K - 13% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/apache/echarts) (👨‍💻 210 · 🔀 19K · 📦 190K · 📋 16K - 13% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/apache/echarts
 	```
-- [npm](https://www.npmjs.com/package/@mempool/echarts) (📥 13 / month · ⏱️ 23.10.2021):
+- [npm](https://www.npmjs.com/package/@mempool/echarts) (📥 26 / month · ⏱️ 23.10.2021):
 	```
 	npm install @mempool/echarts
 	```
 </details>
+<details><summary><b><a href="https://github.com/mermaid-js/mermaid">mermaid</a></b> (🥈42 ·  ⭐ 49K) - Generation of diagram and flowchart from text in a similar manner as.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/mermaid-js/mermaid) (👨‍💻 370 · 🔀 3.7K · 📦 12K · 📋 2K - 39% open · ⏱️ 08.08.2022):
+
+	```
+	git clone https://github.com/mermaid-js/mermaid
+	```
+- [npm](https://www.npmjs.com/package/mermaid) (📥 910K / month · 📦 780 · ⏱️ 04.08.2022):
+	```
+	npm install mermaid
+	```
+</details>
 <details><summary><b><a href="https://github.com/FormidableLabs/victory">Victory</a></b> (🥈41 ·  ⭐ 9.8K) - A collection of composable React components for building interactive data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/FormidableLabs/victory) (👨‍💻 290 · 🔀 500 · 📦 15K · 📋 1.6K - 11% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/FormidableLabs/victory) (👨‍💻 290 · 🔀 510 · 📦 15K · 📋 1.7K - 11% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/FormidableLabs/victory
 	```
-- [npm](https://www.npmjs.com/package/victory) (📥 760K / month · 📦 870 · ⏱️ 27.06.2022):
+- [npm](https://www.npmjs.com/package/victory) (📥 810K / month · 📦 870 · ⏱️ 04.08.2022):
 	```
 	npm install victory
 	```
 </details>
-<details><summary><b><a href="https://github.com/apexcharts/apexcharts.js">apexcharts.js</a></b> (🥈40 ·  ⭐ 12K) - Interactive JavaScript Charts built on SVG. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/apexcharts/apexcharts.js) (👨‍💻 150 · 🔀 980 · 📦 58K · 📋 2.7K - 6% open · ⏱️ 26.07.2022):
-
-	```
-	git clone https://github.com/apexcharts/apexcharts.js
-	```
-- [npm](https://www.npmjs.com/package/apexcharts) (📥 1.7M / month · 📦 580 · ⏱️ 25.07.2022):
-	```
-	npm install apexcharts
-	```
-</details>
 <details><summary><b><a href="https://github.com/pmndrs/react-three-fiber">react-three-fiber</a></b> (🥈39 ·  ⭐ 19K) - A React renderer for Three.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pmndrs/react-three-fiber) (👨‍💻 160 · 🔀 1K · 📦 18K · 📋 720 - 5% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/pmndrs/react-three-fiber) (👨‍💻 160 · 🔀 1.1K · 📦 19K · 📋 720 - 5% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/pmndrs/react-three-fiber
@@ -2056,16 +2044,16 @@ _Data visualization, chart and diagram components._
 	npm install react-three-fiber
 	```
 </details>
-<details><summary><b><a href="https://github.com/plouc/nivo">nivo</a></b> (🥈36 ·  ⭐ 10K) - nivo provides a rich set of dataviz components, built on top of the awesome d3.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/apexcharts/apexcharts.js">apexcharts.js</a></b> (🥈39 ·  ⭐ 12K) - Interactive JavaScript Charts built on SVG. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/plouc/nivo) (👨‍💻 180 · 🔀 810 · 📦 1.4K · 📋 1.3K - 8% open · ⏱️ 08.07.2022):
+- [GitHub](https://github.com/apexcharts/apexcharts.js) (👨‍💻 150 · 🔀 980 · 📦 59K · 📋 2.7K - 6% open · ⏱️ 09.08.2022):
 
 	```
-	git clone https://github.com/plouc/nivo
+	git clone https://github.com/apexcharts/apexcharts.js
 	```
-- [npm](https://www.npmjs.com/package/@nivo/core) (📥 1.3M / month · 📦 250 · ⏱️ 12.01.2022):
+- [npm](https://www.npmjs.com/package/apexcharts) (📥 1.8M / month · 📦 580 · ⏱️ 25.07.2022):
 	```
-	npm install @nivo/core
+	npm install apexcharts
 	```
 </details>
 <details><summary><b><a href="https://github.com/reactchartjs/react-chartjs-2">React Chartjs 2</a></b> (🥈36 ·  ⭐ 5.3K) - React components for Chart.js, the most popular charting.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2075,7 +2063,7 @@ _Data visualization, chart and diagram components._
 	```
 	git clone https://github.com/reactchartjs/react-chartjs-2
 	```
-- [npm](https://www.npmjs.com/package/react-chartjs-2) (📥 2.6M / month · 📦 3.7K · ⏱️ 13.07.2022):
+- [npm](https://www.npmjs.com/package/react-chartjs-2) (📥 2.7M / month · 📦 3.7K · ⏱️ 13.07.2022):
 	```
 	npm install react-chartjs-2
 	```
@@ -2087,33 +2075,45 @@ _Data visualization, chart and diagram components._
 	```
 	git clone https://github.com/airbnb/visx
 	```
-- [npm](https://www.npmjs.com/package/@visx/group) (📥 670K / month · 📦 41 · ⏱️ 03.05.2022):
+- [npm](https://www.npmjs.com/package/@visx/group) (📥 680K / month · 📦 41 · ⏱️ 03.05.2022):
 	```
 	npm install @visx/group
 	```
 </details>
-<details><summary><b><a href="https://github.com/alibaba/BizCharts">BizCharts</a></b> (🥈33 ·  ⭐ 5.9K · 📈) - Powerful data visualization library based on G2 and React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/plouc/nivo">nivo</a></b> (🥈35 ·  ⭐ 10K) - nivo provides a rich set of dataviz components, built on top of the awesome d3.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/alibaba/BizCharts) (👨‍💻 79 · 🔀 660 · 📦 13K · 📋 1.3K - 24% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/plouc/nivo) (👨‍💻 180 · 🔀 840 · 📦 1.4K · 📋 1.4K - 10% open · ⏱️ 08.07.2022):
 
 	```
-	git clone https://github.com/alibaba/BizCharts
+	git clone https://github.com/plouc/nivo
 	```
-- [npm](https://www.npmjs.com/package/bizcharts) (📥 96K / month · 📦 1.2K · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/@nivo/core) (📥 1.3M / month · 📦 270 · ⏱️ 12.01.2022):
 	```
-	npm install bizcharts
+	npm install @nivo/core
 	```
 </details>
-<details><summary><b><a href="https://github.com/uber/react-vis">react-vis</a></b> (🥈32 ·  ⭐ 8.3K) - Data Visualization Components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/uber/react-vis">react-vis</a></b> (🥈33 ·  ⭐ 8.3K) - Data Visualization Components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/uber/react-vis) (👨‍💻 120 · 🔀 820 · 📋 840 - 39% open · ⏱️ 18.03.2022):
 
 	```
 	git clone https://github.com/uber/react-vis
 	```
-- [npm](https://www.npmjs.com/package/react-vis) (📥 430K / month · 📦 640 · ⏱️ 19.04.2019):
+- [npm](https://www.npmjs.com/package/react-vis) (📥 460K / month · 📦 640 · ⏱️ 19.04.2019):
 	```
 	npm install react-vis
+	```
+</details>
+<details><summary><b><a href="https://github.com/alibaba/BizCharts">BizCharts</a></b> (🥈33 ·  ⭐ 5.9K) - Powerful data visualization library based on G2 and React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/alibaba/BizCharts) (👨‍💻 79 · 🔀 660 · 📦 13K · 📋 1.3K - 24% open · ⏱️ 04.08.2022):
+
+	```
+	git clone https://github.com/alibaba/BizCharts
+	```
+- [npm](https://www.npmjs.com/package/bizcharts) (📥 99K / month · 📦 1.2K · ⏱️ 04.08.2022):
+	```
+	npm install bizcharts
 	```
 </details>
 <details><summary><b><a href="https://github.com/rakannimer/react-google-charts">react-google-charts</a></b> (🥈32 ·  ⭐ 1.3K) - A thin, typed, React wrapper over Google Charts.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2130,91 +2130,91 @@ _Data visualization, chart and diagram components._
 </details>
 <details><summary><b><a href="https://github.com/ant-design/ant-design-charts">ant-design-charts</a></b> (🥈32 ·  ⭐ 1.2K) - A React Chart Library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ant-design/ant-design-charts) (👨‍💻 41 · 🔀 280 · 📦 4K · 📋 1K - 25% open · ⏱️ 27.07.2022):
+- [GitHub](https://github.com/ant-design/ant-design-charts) (👨‍💻 41 · 🔀 280 · 📦 4K · 📋 1K - 26% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/ant-design/ant-design-charts
 	```
-- [npm](https://www.npmjs.com/package/@ant-design/charts) (📥 160K / month · 📦 23 · ⏱️ 19.07.2022):
+- [npm](https://www.npmjs.com/package/@ant-design/charts) (📥 170K / month · 📦 23 · ⏱️ 19.07.2022):
 	```
 	npm install @ant-design/charts
 	```
 </details>
 <details><summary><b><a href="https://github.com/frappe/charts">charts</a></b> (🥉31 ·  ⭐ 14K) - Simple, responsive, modern SVG Charts with zero dependencies. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/frappe/charts) (👨‍💻 51 · 🔀 700 · 📦 2.1K · 📋 280 - 49% open · ⏱️ 27.04.2022):
+- [GitHub](https://github.com/frappe/charts) (👨‍💻 51 · 🔀 700 · 📦 2.1K · 📋 280 - 50% open · ⏱️ 27.04.2022):
 
 	```
 	git clone https://github.com/frappe/charts
 	```
-- [npm](https://www.npmjs.com/package/frappe-charts) (📥 59K / month · 📦 92 · ⏱️ 18.07.2022):
+- [npm](https://www.npmjs.com/package/frappe-charts) (📥 59K / month · 📦 93 · ⏱️ 18.07.2022):
 	```
 	npm install frappe-charts
 	```
 </details>
-<details><summary><b><a href="https://github.com/projectstorm/react-diagrams">react-diagrams</a></b> (🥉30 ·  ⭐ 7.1K) - a super simple, no-nonsense diagramming library written in react.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/projectstorm/react-diagrams">react-diagrams</a></b> (🥉30 ·  ⭐ 7.2K) - a super simple, no-nonsense diagramming library written in react.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/projectstorm/react-diagrams) (👨‍💻 88 · 🔀 1K · 📦 340 · 📋 750 - 35% open · ⏱️ 03.06.2022):
 
 	```
 	git clone https://github.com/projectstorm/react-diagrams
 	```
-- [npm](https://www.npmjs.com/package/@projectstorm/react-diagrams) (📥 60K / month · 📦 27 · ⏱️ 03.06.2022):
+- [npm](https://www.npmjs.com/package/@projectstorm/react-diagrams) (📥 62K / month · 📦 27 · ⏱️ 03.06.2022):
 	```
 	npm install @projectstorm/react-diagrams
 	```
 </details>
-<details><summary><b><a href="https://github.com/carbon-design-system/carbon-charts">carbon-charts</a></b> (🥉30 ·  ⭐ 570) - Robust dataviz framework implemented using D3 & typescript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/carbon-design-system/carbon-charts">carbon-charts</a></b> (🥉30 ·  ⭐ 580) - Robust dataviz framework implemented using D3 & typescript. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/carbon-design-system/carbon-charts) (👨‍💻 66 · 🔀 140 · 📦 490 · 📋 690 - 24% open · ⏱️ 22.07.2022):
+- [GitHub](https://github.com/carbon-design-system/carbon-charts) (👨‍💻 66 · 🔀 140 · 📦 490 · 📋 700 - 24% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/carbon-design-system/carbon-charts
 	```
-- [npm](https://www.npmjs.com/package/@carbon/charts) (📥 120K / month · 📦 15 · ⏱️ 22.07.2022):
+- [npm](https://www.npmjs.com/package/@carbon/charts) (📥 120K / month · 📦 17 · ⏱️ 08.08.2022):
 	```
 	npm install @carbon/charts
 	```
 </details>
 <details><summary><b><a href="https://github.com/hustcc/echarts-for-react">echarts-for-react</a></b> (🥉29 ·  ⭐ 3.7K) - Apache ECharts components for React wrapper. Apache echarts.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hustcc/echarts-for-react) (👨‍💻 25 · 🔀 520 · 📦 14K · 📋 440 - 4% open · ⏱️ 08.07.2022):
+- [GitHub](https://github.com/hustcc/echarts-for-react) (👨‍💻 27 · 🔀 520 · 📦 14K · 📋 440 - 5% open · ⏱️ 08.07.2022):
 
 	```
 	git clone https://github.com/hustcc/echarts-for-react
 	```
-- [npm](https://www.npmjs.com/package/echarts-for-react) (📥 480K / month · 📦 970 · ⏱️ 29.10.2021):
+- [npm](https://www.npmjs.com/package/echarts-for-react) (📥 500K / month · 📦 1K · ⏱️ 29.10.2021):
 	```
 	npm install echarts-for-react
 	```
 </details>
 <details><summary><b><a href="https://github.com/nteract/semiotic">Semiotic</a></b> (🥉29 ·  ⭐ 2.3K) - A data visualization framework combining React & D3. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/nteract/semiotic) (👨‍💻 30 · 🔀 150 · 📦 360 · 📋 460 - 8% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/nteract/semiotic) (👨‍💻 30 · 🔀 150 · 📦 360 · 📋 460 - 8% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/nteract/semiotic
 	```
-- [npm](https://www.npmjs.com/package/semiotic) (📥 8.2K / month · 📦 43 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/semiotic) (📥 8.8K / month · 📦 43 · ⏱️ 08.08.2022):
 	```
 	npm install semiotic
 	```
 </details>
 <details><summary><b><a href="https://github.com/apexcharts/react-apexcharts">React ApexCharts</a></b> (🥉29 ·  ⭐ 960) - React Component for ApexCharts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/apexcharts/react-apexcharts) (👨‍💻 23 · 🔀 100 · 📦 35K · 📋 320 - 52% open · ⏱️ 26.06.2022):
+- [GitHub](https://github.com/apexcharts/react-apexcharts) (👨‍💻 23 · 🔀 100 · 📦 36K · 📋 320 - 52% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/apexcharts/react-apexcharts
 	```
-- [npm](https://www.npmjs.com/package/react-apexcharts) (📥 770K / month · 📦 190 · ⏱️ 10.03.2022):
+- [npm](https://www.npmjs.com/package/react-apexcharts) (📥 840K / month · 📦 190 · ⏱️ 10.03.2022):
 	```
 	npm install react-apexcharts
 	```
 </details>
-<details><summary><b><a href="https://github.com/jerosoler/Drawflow">Drawflow</a></b> (🥉27 ·  ⭐ 2.4K) - Simple flow library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jerosoler/Drawflow">Drawflow</a></b> (🥉27 ·  ⭐ 2.5K) - Simple flow library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jerosoler/Drawflow) (👨‍💻 12 · 🔀 400 · 📦 150 · 📋 460 - 11% open · ⏱️ 30.06.2022):
+- [GitHub](https://github.com/jerosoler/Drawflow) (👨‍💻 12 · 🔀 410 · 📦 150 · 📋 460 - 12% open · ⏱️ 30.06.2022):
 
 	```
 	git clone https://github.com/jerosoler/Drawflow
@@ -2226,19 +2226,19 @@ _Data visualization, chart and diagram components._
 </details>
 <details><summary><b><a href="https://github.com/reaviz/reaviz">Reaviz</a></b> (🥉24 ·  ⭐ 670) - Data visualization library for React. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/reaviz/reaviz) (👨‍💻 12 · 🔀 81 · 📦 280 · 📋 41 - 70% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/reaviz/reaviz) (👨‍💻 12 · 🔀 81 · 📦 290 · 📋 41 - 70% open · ⏱️ 02.08.2022):
 
 	```
 	git clone https://github.com/reaviz/reaviz
 	```
-- [npm](https://www.npmjs.com/package/reaviz) (📥 9.5K / month · 📦 4 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/reaviz) (📥 9.9K / month · 📦 4 · ⏱️ 01.08.2022):
 	```
 	npm install reaviz
 	```
 </details>
 <details><summary><b><a href="https://github.com/rumble-charts/rumble-charts">rumble-charts</a></b> (🥉22 ·  ⭐ 330) - React components for building composable and flexible charts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rumble-charts/rumble-charts) (👨‍💻 7 · 🔀 38 · 📦 240 · 📋 39 - 5% open · ⏱️ 17.07.2022):
+- [GitHub](https://github.com/rumble-charts/rumble-charts) (👨‍💻 7 · 🔀 38 · 📦 250 · 📋 39 - 5% open · ⏱️ 17.07.2022):
 
 	```
 	git clone https://github.com/rumble-charts/rumble-charts
@@ -2248,14 +2248,14 @@ _Data visualization, chart and diagram components._
 	npm install rumble-charts
 	```
 </details>
-<details><summary><b><a href="https://github.com/kis/chartify">chartify</a></b> (🥉17 ·  ⭐ 680) - React.js plugin for building charts using CSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/kis/chartify">chartify</a></b> (🥉18 ·  ⭐ 680) - React.js plugin for building charts using CSS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/kis/chartify) (👨‍💻 5 · 🔀 23 · 📦 28 · 📋 26 - 46% open · ⏱️ 29.04.2022):
 
 	```
 	git clone https://github.com/kis/chartify
 	```
-- [npm](https://www.npmjs.com/package/chartify) (📥 110 / month · 📦 4 · ⏱️ 01.08.2019):
+- [npm](https://www.npmjs.com/package/chartify) (📥 200 / month · 📦 4 · ⏱️ 01.08.2019):
 	```
 	npm install chartify
 	```
@@ -2263,7 +2263,7 @@ _Data visualization, chart and diagram components._
 <details><summary>Show 11 hidden projects...</summary>
 
 - <b><a href="https://github.com/kirjs/react-highcharts">react-highcharts</a></b> (🥉31 ·  ⭐ 1.2K · 💀) - React wrapper for Highcharts library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/elastic/elastic-charts">elastic-charts</a></b> (🥉31 ·  ⭐ 280) - Elastic Charts library. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
+- <b><a href="https://github.com/elastic/elastic-charts">elastic-charts</a></b> (🥉31 ·  ⭐ 290) - Elastic Charts library. <code><a href="https://tldrlegal.com/search?q=ICU">❗️ICU</a></code>
 - <b><a href="https://github.com/borisyankov/react-sparklines">react-sparklines</a></b> (🥉28 ·  ⭐ 2.8K · 💀) - Beautiful and expressive Sparklines React component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/alibaba/GGEditor">GGEditor</a></b> (🥉27 ·  ⭐ 3.3K · 💀) - A visual graph editor based on G6 and React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/wa0x6e/cal-heatmap">cal-heatmap</a></b> (🥉27 ·  ⭐ 2.2K · 💀) - Cal-Heatmap is a javascript module to create calendar heatmap to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -2280,9 +2280,9 @@ _Data visualization, chart and diagram components._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/apollographql/apollo-client">apollo-client</a></b> (🥇45 ·  ⭐ 18K · 📉) - A fully-featured, production ready caching GraphQL client for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/apollographql/apollo-client">apollo-client</a></b> (🥇45 ·  ⭐ 18K) - A fully-featured, production ready caching GraphQL client for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/apollographql/apollo-client) (👨‍💻 760 · 🔀 2.4K · 📦 140K · 📋 4.5K - 14% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/apollographql/apollo-client) (👨‍💻 760 · 🔀 2.4K · 📦 140K · 📋 4.5K - 14% open · ⏱️ 06.08.2022):
 
 	```
 	git clone https://github.com/apollographql/apollo-client
@@ -2294,19 +2294,19 @@ _Data visualization, chart and diagram components._
 </details>
 <details><summary><b><a href="https://github.com/TanStack/query">react-query</a></b> (🥈40 ·  ⭐ 29K) - Powerful asynchronous state management, server-state utilities and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/TanStack/query) (👨‍💻 420 · 🔀 1.7K · 📦 940 · 📋 1K - 3% open · ⏱️ 30.07.2022):
+- [GitHub](https://github.com/TanStack/query) (👨‍💻 430 · 🔀 1.7K · 📦 950 · 📋 1K - 3% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/tannerlinsley/react-query
 	```
-- [npm](https://www.npmjs.com/package/react-query) (📥 6.3M / month · 📦 340 · ⏱️ 18.07.2022):
+- [npm](https://www.npmjs.com/package/react-query) (📥 6.4M / month · 📦 450 · ⏱️ 18.07.2022):
 	```
 	npm install react-query
 	```
 </details>
 <details><summary><b><a href="https://github.com/facebook/relay">relay</a></b> (🥈40 ·  ⭐ 17K) - Relay is a JavaScript framework for building data-driven React applications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/facebook/relay) (👨‍💻 700 · 🔀 1.7K · 📦 5.6K · 📋 2K - 20% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/facebook/relay) (👨‍💻 700 · 🔀 1.7K · 📦 5.6K · 📋 2K - 20% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/facebook/relay
@@ -2316,9 +2316,9 @@ _Data visualization, chart and diagram components._
 	npm install relay
 	```
 </details>
-<details><summary><b><a href="https://github.com/vercel/swr">swr</a></b> (🥉39 ·  ⭐ 23K) - React Hooks for Data Fetching. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vercel/swr">swr</a></b> (🥉39 ·  ⭐ 24K) - React Hooks for Data Fetching. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vercel/swr) (👨‍💻 140 · 🔀 900 · 📦 69K · 📋 640 - 13% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/vercel/swr) (👨‍💻 140 · 🔀 900 · 📦 70K · 📋 640 - 13% open · ⏱️ 05.08.2022):
 
 	```
 	git clone https://github.com/vercel/swr
@@ -2335,19 +2335,19 @@ _Data visualization, chart and diagram components._
 	```
 	git clone https://github.com/heroku/react-refetch
 	```
-- [npm](https://www.npmjs.com/package/react-refetch) (📥 26K / month · 📦 180 · ⏱️ 20.01.2020):
+- [npm](https://www.npmjs.com/package/react-refetch) (📥 24K / month · 📦 180 · ⏱️ 20.01.2020):
 	```
 	npm install react-refetch
 	```
 </details>
-<details><summary><b><a href="https://github.com/unjs/unstorage">unstorage</a></b> (🥉27 ·  ⭐ 580 · 📉) - Universal Storage Layer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/unjs/unstorage">unstorage</a></b> (🥉27 ·  ⭐ 580) - Universal Storage Layer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/unjs/unstorage) (👨‍💻 13 · 🔀 21 · 📦 23K · 📋 37 - 64% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/unjs/unstorage) (👨‍💻 13 · 🔀 22 · 📦 23K · 📋 37 - 64% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/unjs/unstorage
 	```
-- [npm](https://www.npmjs.com/package/unstorage) (📥 410K / month · 📦 11 · ⏱️ 01.08.2022):
+- [npm](https://www.npmjs.com/package/unstorage) (📥 420K / month · 📦 11 · ⏱️ 01.08.2022):
 	```
 	npm install unstorage
 	```
@@ -2359,7 +2359,7 @@ _Data visualization, chart and diagram components._
 	```
 	git clone https://github.com/contiamo/restful-react
 	```
-- [npm](https://www.npmjs.com/package/restful-react) (📥 36K / month · 📦 16 · ⏱️ 27.12.2021):
+- [npm](https://www.npmjs.com/package/restful-react) (📥 35K / month · 📦 16 · ⏱️ 27.12.2021):
 	```
 	npm install restful-react
 	```
@@ -2372,9 +2372,9 @@ _Data visualization, chart and diagram components._
 
 _Toasts, snackbars, and notification system._
 
-<details><summary><b><a href="https://github.com/fkhadra/react-toastify">React-Toastify</a></b> (🥇39 ·  ⭐ 9.4K) - React notification made easy !. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/fkhadra/react-toastify">React-Toastify</a></b> (🥇39 ·  ⭐ 9.5K) - React notification made easy !. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fkhadra/react-toastify) (👨‍💻 82 · 🔀 520 · 📦 220K · 📋 580 - 9% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/fkhadra/react-toastify) (👨‍💻 83 · 🔀 520 · 📦 230K · 📋 590 - 8% open · ⏱️ 07.08.2022):
 
 	```
 	git clone https://github.com/fkhadra/react-toastify
@@ -2386,7 +2386,7 @@ _Toasts, snackbars, and notification system._
 </details>
 <details><summary><b><a href="https://github.com/timolins/react-hot-toast">React Hot Toast</a></b> (🥈34 ·  ⭐ 5.5K) - Smoking Hot React Notifications. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/timolins/react-hot-toast) (👨‍💻 23 · 🔀 180 · 📦 26K · 📋 140 - 44% open · ⏱️ 12.07.2022):
+- [GitHub](https://github.com/timolins/react-hot-toast) (👨‍💻 23 · 🔀 180 · 📦 27K · 📋 150 - 44% open · ⏱️ 12.07.2022):
 
 	```
 	git clone https://github.com/timolins/react-hot-toast
@@ -2398,24 +2398,24 @@ _Toasts, snackbars, and notification system._
 </details>
 <details><summary><b><a href="https://github.com/iamhosseindhv/notistack">Notistack</a></b> (🥈34 ·  ⭐ 3K) - Highly customizable notification snackbars (toasts) that can be.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/iamhosseindhv/notistack) (👨‍💻 46 · 🔀 270 · 📦 22K · 📋 350 - 5% open · ⏱️ 25.06.2022):
+- [GitHub](https://github.com/iamhosseindhv/notistack) (👨‍💻 46 · 🔀 270 · 📦 23K · 📋 350 - 5% open · ⏱️ 25.06.2022):
 
 	```
 	git clone https://github.com/iamhosseindhv/notistack
 	```
-- [npm](https://www.npmjs.com/package/notistack) (📥 1.7M / month · 📦 530 · ⏱️ 26.06.2022):
+- [npm](https://www.npmjs.com/package/notistack) (📥 1.8M / month · 📦 530 · ⏱️ 26.06.2022):
 	```
 	npm install notistack
 	```
 </details>
 <details><summary><b><a href="https://github.com/LouisBarranqueiro/reapop">reapop</a></b> (🥈28 ·  ⭐ 1.3K) - A simple and customizable React notifications system. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/LouisBarranqueiro/reapop) (👨‍💻 17 · 🔀 77 · 📦 410 · 📋 83 - 2% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/LouisBarranqueiro/reapop) (👨‍💻 17 · 🔀 78 · 📦 410 · 📋 83 - 2% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/LouisBarranqueiro/reapop
 	```
-- [npm](https://www.npmjs.com/package/reapop) (📥 17K / month · 📦 45 · ⏱️ 23.03.2022):
+- [npm](https://www.npmjs.com/package/reapop) (📥 18K / month · 📦 45 · ⏱️ 23.03.2022):
 	```
 	npm install reapop
 	```
@@ -2434,7 +2434,7 @@ _Toasts, snackbars, and notification system._
 </details>
 <details><summary><b><a href="https://github.com/Cogoport/cogo-toast">cogo-toast</a></b> (🥉22 ·  ⭐ 660) - Beautiful, Zero Configuration, Toast Messages for React. Only ~ 4kb.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Cogoport/cogo-toast) (👨‍💻 13 · 🔀 49 · 📦 1.8K · 📋 51 - 37% open · ⏱️ 21.05.2022):
+- [GitHub](https://github.com/Cogoport/cogo-toast) (👨‍💻 13 · 🔀 49 · 📦 1.9K · 📋 51 - 37% open · ⏱️ 21.05.2022):
 
 	```
 	git clone https://github.com/Cogoport/cogo-toast
@@ -2447,7 +2447,7 @@ _Toasts, snackbars, and notification system._
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/jossmac/react-toast-notifications">react-toast-notifications</a></b> (🥈28 ·  ⭐ 2.2K · 💀) - A toast notification system for react. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/alexpermiakov/simple-react-notifications">simple-react-notifications</a></b> (🥉15 ·  ⭐ 61 · 💀) - Tiny React.js notification library (1kb gzip). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/alexpermiakov/simple-react-notifications">simple-react-notifications</a></b> (🥉15 ·  ⭐ 60 · 💀) - Tiny React.js notification library (1kb gzip). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/moharnadreza/react-toast">react-toast</a></b> (🥉15 ·  ⭐ 55) - Minimal toast notifications for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
@@ -2460,7 +2460,7 @@ _File upload, download, and viewer components._
 
 <details><summary><b><a href="https://github.com/SheetJS/sheetjs">SheetJS</a></b> (🥇40 ·  ⭐ 31K) - SheetJS Community Edition -- Spreadsheet Data Toolkit. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/SheetJS/sheetjs) (👨‍💻 200 · 🔀 7.7K · 📋 2.3K - 5% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/SheetJS/sheetjs) (👨‍💻 200 · 🔀 7.7K · 📋 2.3K - 5% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/SheetJS/sheetjs
@@ -2470,38 +2470,38 @@ _File upload, download, and viewer components._
 	npm install xlsx
 	```
 </details>
-<details><summary><b><a href="https://github.com/transloadit/uppy">uppy</a></b> (🥈39 ·  ⭐ 26K) - The next open source file uploader for web browsers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/transloadit/uppy">uppy</a></b> (🥇40 ·  ⭐ 26K) - The next open source file uploader for web browsers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/transloadit/uppy) (👨‍💻 350 · 🔀 1.7K · 📦 1.9K · 📋 1.9K - 5% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/transloadit/uppy) (👨‍💻 360 · 🔀 1.7K · 📦 1.9K · 📋 1.9K - 5% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/transloadit/uppy
 	```
-- [npm](https://www.npmjs.com/package/uppy) (📥 94K / month · 📦 86 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/uppy) (📥 96K / month · 📦 86 · ⏱️ 08.08.2022):
 	```
 	npm install uppy
 	```
 </details>
-<details><summary><b><a href="https://github.com/react-dropzone/react-dropzone">React Dropzone</a></b> (🥈38 ·  ⭐ 9.1K) - Simple HTML5 drag-drop zone with React.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/react-dropzone/react-dropzone">React Dropzone</a></b> (🥈37 ·  ⭐ 9.1K) - Simple HTML5 drag-drop zone with React.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-dropzone/react-dropzone) (👨‍💻 190 · 🔀 760 · 📦 100K · 📋 740 - 2% open · ⏱️ 03.07.2022):
+- [GitHub](https://github.com/react-dropzone/react-dropzone) (👨‍💻 190 · 🔀 760 · 📦 110K · 📋 740 - 2% open · ⏱️ 03.07.2022):
 
 	```
 	git clone https://github.com/react-dropzone/react-dropzone
 	```
-- [npm](https://www.npmjs.com/package/react-dropzone) (📥 8.7M / month · 📦 6.6K · ⏱️ 03.07.2022):
+- [npm](https://www.npmjs.com/package/react-dropzone) (📥 8.9M / month · 📦 6.6K · ⏱️ 03.07.2022):
 	```
 	npm install react-dropzone
 	```
 </details>
-<details><summary><b><a href="https://github.com/react-csv/react-csv">react-csv</a></b> (🥉29 ·  ⭐ 960 · 💤) - React components to build CSV files on the fly basing on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/react-csv/react-csv">react-csv</a></b> (🥉29 ·  ⭐ 970 · 💤) - React components to build CSV files on the fly basing on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-csv/react-csv) (👨‍💻 39 · 🔀 240 · 📦 12K · 📋 220 - 37% open · ⏱️ 18.01.2022):
+- [GitHub](https://github.com/react-csv/react-csv) (👨‍💻 39 · 🔀 250 · 📦 12K · 📋 240 - 43% open · ⏱️ 18.01.2022):
 
 	```
 	git clone https://github.com/react-csv/react-csv
 	```
-- [npm](https://www.npmjs.com/package/react-csv) (📥 1.4M / month · 📦 340 · ⏱️ 18.01.2022):
+- [npm](https://www.npmjs.com/package/react-csv) (📥 1.4M / month · 📦 370 · ⏱️ 18.01.2022):
 	```
 	npm install react-csv
 	```
@@ -2518,7 +2518,7 @@ _File upload, download, and viewer components._
 	npm install material-ui-dropzone
 	```
 </details>
-<details><summary><b><a href="https://github.com/pqina/react-filepond">React FilePond</a></b> (🥉27 ·  ⭐ 1.3K) - A handy FilePond adapter component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pqina/react-filepond">React FilePond</a></b> (🥉26 ·  ⭐ 1.3K) - A handy FilePond adapter component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pqina/react-filepond) (👨‍💻 7 · 🔀 70 · 📦 3K · 📋 180 - 7% open · ⏱️ 16.05.2022):
 
@@ -2530,14 +2530,14 @@ _File upload, download, and viewer components._
 	npm install react-filepond
 	```
 </details>
-<details><summary><b><a href="https://github.com/plangrid/react-file-viewer">react-file-viewer</a></b> (🥉25 ·  ⭐ 400) - Extendable file viewer for web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/plangrid/react-file-viewer">react-file-viewer</a></b> (🥉25 ·  ⭐ 410) - Extendable file viewer for web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/plangrid/react-file-viewer) (👨‍💻 13 · 🔀 260 · 📦 1.3K · 📋 150 - 90% open · ⏱️ 28.02.2022):
+- [GitHub](https://github.com/plangrid/react-file-viewer) (👨‍💻 13 · 🔀 260 · 📦 1.4K · 📋 150 - 90% open · ⏱️ 28.02.2022):
 
 	```
 	git clone https://github.com/plangrid/react-file-viewer
 	```
-- [npm](https://www.npmjs.com/package/react-file-viewer) (📥 66K / month · 📦 36 · ⏱️ 13.11.2019):
+- [npm](https://www.npmjs.com/package/react-file-viewer) (📥 68K / month · 📦 36 · ⏱️ 13.11.2019):
 	```
 	npm install react-file-viewer
 	```
@@ -2557,7 +2557,7 @@ _Editor components for code, text, images and more._
 
 <details><summary><b><a href="https://github.com/tinymce/tinymce">tinymce</a></b> (🥇43 ·  ⭐ 12K) - The worlds #1 JavaScript library for rich text editing. Available for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tinymce/tinymce) (👨‍💻 310 · 🔀 2K · 📦 50K · 📋 5.7K - 17% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/tinymce/tinymce) (👨‍💻 310 · 🔀 2K · 📦 50K · 📋 5.7K - 17% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/tinymce/tinymce
@@ -2593,29 +2593,29 @@ _Editor components for code, text, images and more._
 </details>
 <details><summary><b><a href="https://github.com/securingsincity/react-ace">React Ace</a></b> (🥇37 ·  ⭐ 3.6K) - React Ace Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/securingsincity/react-ace) (👨‍💻 120 · 🔀 570 · 📥 1K · 📦 19K · 📋 440 - 32% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/securingsincity/react-ace) (👨‍💻 120 · 🔀 570 · 📥 1K · 📦 19K · 📋 440 - 32% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/securingsincity/react-ace
 	```
-- [npm](https://www.npmjs.com/package/react-ace) (📥 1.5M / month · 📦 2.3K · ⏱️ 26.04.2022):
+- [npm](https://www.npmjs.com/package/react-ace) (📥 1.6M / month · 📦 2.3K · ⏱️ 26.04.2022):
 	```
 	npm install react-ace
 	```
 </details>
 <details><summary><b><a href="https://github.com/codex-team/editor.js">editor.js</a></b> (🥇35 ·  ⭐ 20K) - A block-styled editor with clean JSON output. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/codex-team/editor.js) (👨‍💻 37 · 🔀 1.5K · 📥 6K · 📦 3.8K · 📋 1.2K - 36% open · ⏱️ 20.07.2022):
+- [GitHub](https://github.com/codex-team/editor.js) (👨‍💻 37 · 🔀 1.5K · 📥 6.1K · 📦 3.8K · 📋 1.2K - 36% open · ⏱️ 20.07.2022):
 
 	```
 	git clone https://github.com/codex-team/editor.js
 	```
-- [npm](https://www.npmjs.com/package/@editorjs/editorjs) (📥 120K / month · 📦 140 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/@editorjs/editorjs) (📥 130K / month · 📦 140 · ⏱️ 22.06.2022):
 	```
 	npm install @editorjs/editorjs
 	```
 </details>
-<details><summary><b><a href="https://github.com/zenoamaro/react-quill">react-quill</a></b> (🥈34 ·  ⭐ 5.2K · 📈) - A Quill component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/zenoamaro/react-quill">react-quill</a></b> (🥈34 ·  ⭐ 5.3K) - A Quill component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/zenoamaro/react-quill) (👨‍💻 53 · 🔀 760 · 📥 200 · 📦 28K · 📋 680 - 36% open · ⏱️ 03.08.2022):
 
@@ -2627,50 +2627,50 @@ _Editor components for code, text, images and more._
 	npm install react-quill
 	```
 </details>
-<details><summary><b><a href="https://github.com/DominicTobias/react-image-crop">react-image-crop</a></b> (🥈34 ·  ⭐ 3.1K) - A responsive image cropping tool for React. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/DominicTobias/react-image-crop">react-image-crop</a></b> (🥈34 ·  ⭐ 3.2K) - A responsive image cropping tool for React. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
-- [GitHub](https://github.com/DominicTobias/react-image-crop) (👨‍💻 64 · 🔀 320 · 📦 6.6K · 📋 370 - 7% open · ⏱️ 30.07.2022):
+- [GitHub](https://github.com/DominicTobias/react-image-crop) (👨‍💻 64 · 🔀 320 · 📦 6.7K · 📋 370 - 6% open · ⏱️ 06.08.2022):
 
 	```
 	git clone https://github.com/DominicTobias/react-image-crop
 	```
-- [npm](https://www.npmjs.com/package/react-image-crop) (📥 1.1M / month · 📦 380 · ⏱️ 30.07.2022):
+- [npm](https://www.npmjs.com/package/react-image-crop) (📥 1.2M / month · 📦 380 · ⏱️ 06.08.2022):
 	```
 	npm install react-image-crop
 	```
 </details>
 <details><summary><b><a href="https://github.com/xdan/jodit">jodit</a></b> (🥈34 ·  ⭐ 1.3K) - Jodit - Best WYSIWYG Editor for You. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/xdan/jodit) (👨‍💻 75 · 🔀 300 · 📦 1.5K · 📋 730 - 21% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/xdan/jodit) (👨‍💻 75 · 🔀 300 · 📦 1.6K · 📋 730 - 21% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/xdan/jodit
 	```
-- [npm](https://www.npmjs.com/package/jodit) (📥 130K / month · 📦 61 · ⏱️ 29.07.2022):
+- [npm](https://www.npmjs.com/package/jodit) (📥 140K / month · 📦 61 · ⏱️ 29.07.2022):
 	```
 	npm install jodit
 	```
 </details>
 <details><summary><b><a href="https://github.com/Ionaru/easy-markdown-editor">easy-markdown-editor</a></b> (🥈33 ·  ⭐ 1.6K) - EasyMDE: A simple, beautiful, and embeddable JavaScript.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Ionaru/easy-markdown-editor) (👨‍💻 110 · 🔀 250 · 📦 3.9K · 📋 340 - 52% open · ⏱️ 28.07.2022):
+- [GitHub](https://github.com/Ionaru/easy-markdown-editor) (👨‍💻 110 · 🔀 250 · 📦 4K · 📋 340 - 52% open · ⏱️ 28.07.2022):
 
 	```
 	git clone https://github.com/Ionaru/easy-markdown-editor
 	```
-- [npm](https://www.npmjs.com/package/easymde) (📥 190K / month · 📦 60 · ⏱️ 28.07.2022):
+- [npm](https://www.npmjs.com/package/easymde) (📥 200K / month · 📦 60 · ⏱️ 28.07.2022):
 	```
 	npm install easymde
 	```
 </details>
 <details><summary><b><a href="https://github.com/ueberdosis/tiptap">tiptap</a></b> (🥈32 ·  ⭐ 16K) - The headless editor framework for web artisans. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ueberdosis/tiptap) (👨‍💻 180 · 🔀 1.4K · 📦 3.6K · 📋 1.7K - 7% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/ueberdosis/tiptap) (👨‍💻 180 · 🔀 1.4K · 📦 3.6K · 📋 1.7K - 8% open · ⏱️ 01.08.2022):
 
 	```
 	git clone https://github.com/ueberdosis/tiptap
 	```
-- [npm](https://www.npmjs.com/package/magic-tiptap-extensions) (📥 4 / month · ⏱️ 31.03.2021):
+- [npm](https://www.npmjs.com/package/magic-tiptap-extensions) (📥 7 / month · ⏱️ 31.03.2021):
 	```
 	npm install magic-tiptap-extensions
 	```
@@ -2682,7 +2682,7 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/react-page/react-page
 	```
-- [npm](https://www.npmjs.com/package/@react-page/editor) (📥 10K / month · 📦 13 · ⏱️ 13.07.2022):
+- [npm](https://www.npmjs.com/package/@react-page/editor) (📥 12K / month · 📦 13 · ⏱️ 13.07.2022):
 	```
 	npm install @react-page/editor
 	```
@@ -2694,19 +2694,19 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/jpuri/react-draft-wysiwyg
 	```
-- [npm](https://www.npmjs.com/package/react-draft-wysiwyg) (📥 900K / month · 📦 1.1K · ⏱️ 17.07.2022):
+- [npm](https://www.npmjs.com/package/react-draft-wysiwyg) (📥 920K / month · 📦 1.1K · ⏱️ 17.07.2022):
 	```
 	npm install react-draft-wysiwyg
 	```
 </details>
 <details><summary><b><a href="https://github.com/react-monaco-editor/react-monaco-editor">react-monaco-editor</a></b> (🥈32 ·  ⭐ 2.9K) - Monaco Editor for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-monaco-editor/react-monaco-editor) (👨‍💻 67 · 🔀 310 · 📦 11K · 📋 290 - 13% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/react-monaco-editor/react-monaco-editor) (👨‍💻 69 · 🔀 310 · 📦 11K · 📋 300 - 13% open · ⏱️ 04.08.2022):
 
 	```
 	git clone https://github.com/react-monaco-editor/react-monaco-editor
 	```
-- [npm](https://www.npmjs.com/package/react-monaco-editor) (📥 370K / month · 📦 510 · ⏱️ 30.06.2022):
+- [npm](https://www.npmjs.com/package/react-monaco-editor) (📥 430K / month · 📦 510 · ⏱️ 30.06.2022):
 	```
 	npm install react-monaco-editor
 	```
@@ -2718,9 +2718,21 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/sstur/react-rte
 	```
-- [npm](https://www.npmjs.com/package/react-rte) (📥 150K / month · 📦 300 · ⏱️ 28.01.2022):
+- [npm](https://www.npmjs.com/package/react-rte) (📥 140K / month · 📦 300 · ⏱️ 28.01.2022):
 	```
 	npm install react-rte
+	```
+</details>
+<details><summary><b><a href="https://github.com/suren-atoyan/monaco-react">Monaco React</a></b> (🥈30 ·  ⭐ 1.9K) - Monaco Editor for React - use the monaco-editor in any React.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/suren-atoyan/monaco-react) (👨‍💻 33 · 🔀 140 · 📦 6.6K · 📋 290 - 17% open · ⏱️ 11.05.2022):
+
+	```
+	git clone https://github.com/suren-atoyan/monaco-react
+	```
+- [npm](https://www.npmjs.com/package/@monaco-editor/react) (📥 710K / month · 📦 190 · ⏱️ 11.05.2022):
+	```
+	npm install @monaco-editor/react
 	```
 </details>
 <details><summary><b><a href="https://github.com/uber/react-digraph">react-digraph</a></b> (🥈29 ·  ⭐ 2.3K · 💤) - A library for creating directed graph editors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2735,57 +2747,21 @@ _Editor components for code, text, images and more._
 	npm install react-digraph
 	```
 </details>
-<details><summary><b><a href="https://github.com/suren-atoyan/monaco-react">Monaco React</a></b> (🥈29 ·  ⭐ 1.9K) - Monaco Editor for React - use the monaco-editor in any React.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/suren-atoyan/monaco-react) (👨‍💻 33 · 🔀 140 · 📦 6.5K · 📋 290 - 17% open · ⏱️ 11.05.2022):
-
-	```
-	git clone https://github.com/suren-atoyan/monaco-react
-	```
-- [npm](https://www.npmjs.com/package/@monaco-editor/react) (📥 690K / month · 📦 190 · ⏱️ 11.05.2022):
-	```
-	npm install @monaco-editor/react
-	```
-</details>
 <details><summary><b><a href="https://github.com/remirror/remirror">remirror</a></b> (🥈29 ·  ⭐ 1.8K) - ProseMirror toolkit for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/remirror/remirror) (👨‍💻 61 · 🔀 180 · 📦 170 · 📋 550 - 19% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/remirror/remirror) (👨‍💻 61 · 🔀 180 · 📦 170 · 📋 550 - 19% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/remirror/remirror
 	```
-- [npm](https://www.npmjs.com/package/create-context-state) (📥 43K / month · 📦 5 · ⏱️ 04.08.2022):
+- [npm](https://www.npmjs.com/package/create-context-state) (📥 40K / month · 📦 5 · ⏱️ 04.08.2022):
 	```
 	npm install create-context-state
 	```
 </details>
-<details><summary><b><a href="https://github.com/liferay/alloy-editor">alloy-editor</a></b> (🥈29 ·  ⭐ 1.3K) - WYSIWYG editor based on CKEditor with completely rewritten.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/andrerpena/react-mde">react-mde</a></b> (🥈29 ·  ⭐ 1.3K) - React Markdown Editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/liferay/alloy-editor) (👨‍💻 54 · 🔀 270 · 📥 9.8K · 📦 170 · 📋 830 - 10% open · ⏱️ 19.07.2022):
-
-	```
-	git clone https://github.com/liferay/alloy-editor
-	```
-- [npm](https://www.npmjs.com/package/alloyeditor) (📥 12K / month · 📦 83 · ⏱️ 20.06.2022):
-	```
-	npm install alloyeditor
-	```
-</details>
-<details><summary><b><a href="https://github.com/ProseMirror/prosemirror">prosemirror</a></b> (🥉28 ·  ⭐ 6K) - The ProseMirror WYSIWYM editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ProseMirror/prosemirror) (👨‍💻 36 · 🔀 290 · 📦 170 · 📋 1.2K - 8% open · ⏱️ 15.06.2022):
-
-	```
-	git clone https://github.com/ProseMirror/prosemirror
-	```
-- [npm](https://www.npmjs.com/package/prosemirror) (📥 8.5K / month · 📦 100 · ⏱️ 28.09.2017):
-	```
-	npm install prosemirror
-	```
-</details>
-<details><summary><b><a href="https://github.com/andrerpena/react-mde">react-mde</a></b> (🥉28 ·  ⭐ 1.3K · 📉) - React Markdown Editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/andrerpena/react-mde) (👨‍💻 54 · 🔀 160 · 📦 2.5K · 📋 200 - 1% open · ⏱️ 10.05.2022):
+- [GitHub](https://github.com/andrerpena/react-mde) (👨‍💻 54 · 🔀 160 · 📦 2.5K · 📋 200 - 2% open · ⏱️ 10.05.2022):
 
 	```
 	git clone https://github.com/andrerpena/react-mde
@@ -2795,16 +2771,40 @@ _Editor components for code, text, images and more._
 	npm install react-mde
 	```
 </details>
-<details><summary><b><a href="https://github.com/satya164/react-simple-code-editor">react-simple-code-editor</a></b> (🥉28 ·  ⭐ 1.1K) - Simple no-frills code editor with syntax highlighting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/liferay/alloy-editor">alloy-editor</a></b> (🥈29 ·  ⭐ 1.3K) - WYSIWYG editor based on CKEditor with completely rewritten.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/satya164/react-simple-code-editor) (👨‍💻 11 · 🔀 150 · 📦 12K · 📋 67 - 59% open · ⏱️ 30.05.2022):
+- [GitHub](https://github.com/liferay/alloy-editor) (👨‍💻 54 · 🔀 270 · 📥 9.8K · 📦 170 · 📋 830 - 10% open · ⏱️ 19.07.2022):
+
+	```
+	git clone https://github.com/liferay/alloy-editor
+	```
+- [npm](https://www.npmjs.com/package/alloyeditor) (📥 11K / month · 📦 83 · ⏱️ 20.06.2022):
+	```
+	npm install alloyeditor
+	```
+</details>
+<details><summary><b><a href="https://github.com/satya164/react-simple-code-editor">react-simple-code-editor</a></b> (🥈29 ·  ⭐ 1.1K) - Simple no-frills code editor with syntax highlighting. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/satya164/react-simple-code-editor) (👨‍💻 11 · 🔀 150 · 📦 12K · 📋 68 - 57% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/satya164/react-simple-code-editor
 	```
-- [npm](https://www.npmjs.com/package/react-simple-code-editor) (📥 1.1M / month · 📦 990 · ⏱️ 30.05.2022):
+- [npm](https://www.npmjs.com/package/react-simple-code-editor) (📥 1.1M / month · 📦 1K · ⏱️ 09.08.2022):
 	```
 	npm install react-simple-code-editor
+	```
+</details>
+<details><summary><b><a href="https://github.com/ProseMirror/prosemirror">prosemirror</a></b> (🥉28 ·  ⭐ 6K) - The ProseMirror WYSIWYM editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/ProseMirror/prosemirror) (👨‍💻 36 · 🔀 290 · 📦 170 · 📋 1.2K - 8% open · ⏱️ 15.06.2022):
+
+	```
+	git clone https://github.com/ProseMirror/prosemirror
+	```
+- [npm](https://www.npmjs.com/package/prosemirror) (📥 8.4K / month · 📦 100 · ⏱️ 28.09.2017):
+	```
+	npm install prosemirror
 	```
 </details>
 <details><summary><b><a href="https://github.com/globocom/megadraft">megadraft</a></b> (🥉28 ·  ⭐ 1.1K) - Megadraft is a Rich Text editor built on top of Facebooks Draft.JS.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2814,33 +2814,33 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/globocom/megadraft
 	```
-- [npm](https://www.npmjs.com/package/megadraft) (📥 10K / month · 📦 74 · ⏱️ 13.07.2021):
+- [npm](https://www.npmjs.com/package/megadraft) (📥 12K / month · 📦 74 · ⏱️ 13.07.2021):
 	```
 	npm install megadraft
 	```
 </details>
-<details><summary><b><a href="https://github.com/uiwjs/react-md-editor">react-md-editor</a></b> (🥉28 ·  ⭐ 1K) - A simple markdown editor with preview, implemented with React.js.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/uiwjs/react-md-editor) (👨‍💻 20 · 🔀 93 · 📦 3.1K · 📋 180 - 25% open · ⏱️ 29.07.2022):
-
-	```
-	git clone https://github.com/uiwjs/react-md-editor
-	```
-- [npm](https://www.npmjs.com/package/@uiw/react-md-editor) (📥 75K / month · 📦 82 · ⏱️ 29.07.2022):
-	```
-	npm install @uiw/react-md-editor
-	```
-</details>
 <details><summary><b><a href="https://github.com/unlayer/react-email-editor">React Email Editor</a></b> (🥉27 ·  ⭐ 3.4K) - Drag-n-Drop Email Editor Component for React.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/unlayer/react-email-editor) (👨‍💻 9 · 🔀 580 · 📦 620 · 📋 240 - 59% open · ⏱️ 12.07.2022):
+- [GitHub](https://github.com/unlayer/react-email-editor) (👨‍💻 9 · 🔀 580 · 📦 630 · 📋 240 - 59% open · ⏱️ 12.07.2022):
 
 	```
 	git clone https://github.com/unlayer/react-email-editor
 	```
-- [npm](https://www.npmjs.com/package/react-email-editor) (📥 71K / month · 📦 18 · ⏱️ 12.07.2022):
+- [npm](https://www.npmjs.com/package/react-email-editor) (📥 72K / month · 📦 18 · ⏱️ 12.07.2022):
 	```
 	npm install react-email-editor
+	```
+</details>
+<details><summary><b><a href="https://github.com/uiwjs/react-md-editor">react-md-editor</a></b> (🥉27 ·  ⭐ 1K) - A simple markdown editor with preview, implemented with React.js.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/uiwjs/react-md-editor) (👨‍💻 20 · 🔀 94 · 📦 3.2K · 📋 190 - 26% open · ⏱️ 11.08.2022):
+
+	```
+	git clone https://github.com/uiwjs/react-md-editor
+	```
+- [npm](https://www.npmjs.com/package/@uiw/react-md-editor) (📥 80K / month · 📦 99 · ⏱️ 11.08.2022):
+	```
+	npm install @uiw/react-md-editor
 	```
 </details>
 <details><summary><b><a href="https://github.com/ricardo-ch/react-easy-crop">react-easy-crop</a></b> (🥉26 ·  ⭐ 1.5K · 🐣) - Ricardo fork of https://valentinh.github.io/react-easy-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2850,67 +2850,67 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/ricardo-ch/react-easy-crop
 	```
-- [npm](https://www.npmjs.com/package/react-easy-crop) (📥 700K / month · 📦 94 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/react-easy-crop) (📥 710K / month · 📦 94 · ⏱️ 03.08.2022):
 	```
 	npm install react-easy-crop
 	```
 </details>
-<details><summary><b><a href="https://github.com/HarryChen0506/react-markdown-editor-lite">react-markdown-editor-lite</a></b> (🥉26 ·  ⭐ 790) - a light-weight Markdown editor based on React... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/HarryChen0506/react-markdown-editor-lite">react-markdown-editor-lite</a></b> (🥉26 ·  ⭐ 800) - a light-weight Markdown editor based on React... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/HarryChen0506/react-markdown-editor-lite) (👨‍💻 21 · 🔀 140 · 📦 1.6K · 📋 160 - 20% open · ⏱️ 19.07.2022):
 
 	```
 	git clone https://github.com/HarryChen0506/react-markdown-editor-lite
 	```
-- [npm](https://www.npmjs.com/package/react-markdown-editor-lite) (📥 52K / month · 📦 24 · ⏱️ 21.07.2022):
+- [npm](https://www.npmjs.com/package/react-markdown-editor-lite) (📥 51K / month · 📦 24 · ⏱️ 21.07.2022):
 	```
 	npm install react-markdown-editor-lite
 	```
 </details>
 <details><summary><b><a href="https://github.com/RIP21/react-simplemde-editor">react-simplemde-editor</a></b> (🥉26 ·  ⭐ 630) - React wrapper for simplemde (easymde) markdown editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/RIP21/react-simplemde-editor) (👨‍💻 31 · 🔀 91 · 📦 3.2K · 📋 99 - 9% open · ⏱️ 13.04.2022):
+- [GitHub](https://github.com/RIP21/react-simplemde-editor) (👨‍💻 31 · 🔀 91 · 📦 3.3K · 📋 99 - 9% open · ⏱️ 13.04.2022):
 
 	```
 	git clone https://github.com/RIP21/react-simplemde-editor
 	```
-- [npm](https://www.npmjs.com/package/react-simplemde-editor) (📥 71K / month · 📦 120 · ⏱️ 25.09.2021):
+- [npm](https://www.npmjs.com/package/react-simplemde-editor) (📥 74K / month · 📦 120 · ⏱️ 25.09.2021):
 	```
 	npm install react-simplemde-editor
 	```
 </details>
 <details><summary><b><a href="https://github.com/uiwjs/react-codemirror">react-codemirror</a></b> (🥉26 ·  ⭐ 520) - CodeMirror 6 component for React. @codemirror.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/uiwjs/react-codemirror) (👨‍💻 19 · 🔀 61 · 📦 120 · 📋 120 - 25% open · ⏱️ 29.07.2022):
+- [GitHub](https://github.com/uiwjs/react-codemirror) (👨‍💻 19 · 🔀 61 · 📦 140 · 📋 120 - 24% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/uiwjs/react-codemirror
 	```
-- [npm](https://www.npmjs.com/package/@uiw/react-codemirror) (📥 280K / month · 📦 38 · ⏱️ 12.07.2022):
+- [npm](https://www.npmjs.com/package/@uiw/react-codemirror) (📥 340K / month · 📦 39 · ⏱️ 12.07.2022):
 	```
 	npm install @uiw/react-codemirror
 	```
 </details>
 <details><summary><b><a href="https://github.com/remcohaszing/monaco-yaml">Monaco Yaml</a></b> (🥉26 ·  ⭐ 140) - YAML plugin for the Monaco Editor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/remcohaszing/monaco-yaml) (👨‍💻 24 · 🔀 48 · 📦 220 · 📋 77 - 14% open · ⏱️ 21.07.2022):
+- [GitHub](https://github.com/remcohaszing/monaco-yaml) (👨‍💻 24 · 🔀 48 · 📦 220 · 📋 78 - 15% open · ⏱️ 21.07.2022):
 
 	```
 	git clone https://github.com/remcohaszing/monaco-yaml
 	```
-- [npm](https://www.npmjs.com/package/monaco-yaml) (📥 290K / month · 📦 1 · ⏱️ 22.06.2022):
+- [npm](https://www.npmjs.com/package/monaco-yaml) (📥 300K / month · 📦 1 · ⏱️ 22.06.2022):
 	```
 	npm install monaco-yaml
 	```
 </details>
 <details><summary><b><a href="https://github.com/antonmedv/codejar">codejar</a></b> (🥉23 ·  ⭐ 1.2K) - An embeddable code editor for the browser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/antonmedv/codejar) (👨‍💻 20 · 🔀 88 · 📦 320 · 📋 55 - 23% open · ⏱️ 31.07.2022):
+- [GitHub](https://github.com/antonmedv/codejar) (👨‍💻 20 · 🔀 87 · 📦 320 · 📋 56 - 25% open · ⏱️ 31.07.2022):
 
 	```
 	git clone https://github.com/antonmedv/codejar
 	```
-- [npm](https://www.npmjs.com/package/codejar) (📥 30K / month · 📦 5 · ⏱️ 03.04.2022):
+- [npm](https://www.npmjs.com/package/codejar) (📥 24K / month · 📦 5 · ⏱️ 03.04.2022):
 	```
 	npm install codejar
 	```
@@ -2922,19 +2922,19 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/edtr-io/edtr-io
 	```
-- [npm](https://www.npmjs.com/package/@edtr-io/store) (📥 210 / month · 📦 12 · ⏱️ 29.06.2022):
+- [npm](https://www.npmjs.com/package/@edtr-io/store) (📥 230 / month · 📦 12 · ⏱️ 29.06.2022):
 	```
 	npm install @edtr-io/store
 	```
 </details>
 <details><summary><b><a href="https://github.com/salgum1114/react-design-editor">react-design-editor</a></b> (🥉22 ·  ⭐ 1K) - React Design Editor has started to developed direct.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/salgum1114/react-design-editor) (👨‍💻 4 · 🔀 290 · 📦 26 · 📋 170 - 29% open · ⏱️ 13.07.2022):
+- [GitHub](https://github.com/salgum1114/react-design-editor) (👨‍💻 4 · 🔀 290 · 📦 27 · 📋 170 - 29% open · ⏱️ 13.07.2022):
 
 	```
 	git clone https://github.com/salgum1114/react-design-editor
 	```
-- [npm](https://www.npmjs.com/package/react-design-editor) (📥 680 / month · 📦 2 · ⏱️ 13.07.2022):
+- [npm](https://www.npmjs.com/package/react-design-editor) (📥 910 / month · 📦 2 · ⏱️ 13.07.2022):
 	```
 	npm install react-design-editor
 	```
@@ -2946,7 +2946,7 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/jaywcjlove/react-monacoeditor
 	```
-- [npm](https://www.npmjs.com/package/@uiw/react-monacoeditor) (📥 5.9K / month · 📦 1 · ⏱️ 11.07.2022):
+- [npm](https://www.npmjs.com/package/@uiw/react-monacoeditor) (📥 5.5K / month · 📦 1 · ⏱️ 11.07.2022):
 	```
 	npm install @uiw/react-monacoeditor
 	```
@@ -2958,19 +2958,19 @@ _Editor components for code, text, images and more._
 	```
 	git clone https://github.com/RD17/react-trumbowyg
 	```
-- [npm](https://www.npmjs.com/package/react-trumbowyg) (📥 9.4K / month · 📦 12 · ⏱️ 14.11.2016):
+- [npm](https://www.npmjs.com/package/react-trumbowyg) (📥 10K / month · 📦 12 · ⏱️ 14.11.2016):
 	```
 	npm install react-trumbowyg
 	```
 </details>
 <details><summary>Show 7 hidden projects...</summary>
 
-- <b><a href="https://github.com/ckeditor/ckeditor5-react">ckeditor5-react</a></b> (🥉28 ·  ⭐ 330) - Official CKEditor 5 React component. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
+- <b><a href="https://github.com/ckeditor/ckeditor5-react">ckeditor5-react</a></b> (🥉28 ·  ⭐ 340) - Official CKEditor 5 React component. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
 - <b><a href="https://github.com/ckeditor/ckeditor4-react">ckeditor4-react</a></b> (🥉26 ·  ⭐ 78) - Official CKEditor 4 React component. <code><a href="https://tldrlegal.com/search?q=CNRI-Python-GPL-Compatible">❗️CNRI-Python-GPL-Compatible</a></code>
 - <b><a href="https://github.com/kazzkiq/CodeFlask">CodeFlask</a></b> (🥉25 ·  ⭐ 940 · 💀) - A micro code-editor for awesome web pages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/leejaen/react-lz-editor">react-lz-editor</a></b> (🥉22 ·  ⭐ 930 · 💀) - A multilingual react rich-text editor component includes.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/appleple/smartblock">smartblock</a></b> (🥉15 ·  ⭐ 250 · 💀) - intuitive block based wysiwyg editor built with React and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/fritx/react-editor">react-editor</a></b> (🥉12 ·  ⭐ 50 · 💀) - Pure Rich-text Editor with TS & React-hooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/fritx/react-editor">react-editor</a></b> (🥉12 ·  ⭐ 52 · 💀) - Pure Rich-text Editor with TS & React-hooks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/JosephSmith127/react-avatar-generator">react-avatar-generator</a></b> (🥉10 ·  ⭐ 51 · 💀) - Generate fun kaleidoscope for user avatars. <code>❗Unlicensed</code>
 </details>
 <br>
@@ -2979,21 +2979,21 @@ _Editor components for code, text, images and more._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/react-dnd/react-dnd">react-dnd</a></b> (🥇41 ·  ⭐ 18K) - Drag and Drop for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/react-dnd/react-dnd">react-dnd</a></b> (🥇42 ·  ⭐ 18K) - Drag and Drop for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/react-dnd/react-dnd) (👨‍💻 210 · 🔀 1.8K · 📦 140K · 📋 1.6K - 20% open · ⏱️ 20.04.2022):
 
 	```
 	git clone https://github.com/react-dnd/react-dnd
 	```
-- [npm](https://www.npmjs.com/package/react-dnd-html5-backend) (📥 5.1M / month · 📦 8.8K · ⏱️ 19.04.2022):
+- [npm](https://www.npmjs.com/package/react-dnd-html5-backend) (📥 5.2M / month · 📦 8.8K · ⏱️ 19.04.2022):
 	```
 	npm install react-dnd-html5-backend
 	```
 </details>
 <details><summary><b><a href="https://github.com/SortableJS/Sortable">Sortable</a></b> (🥇40 ·  ⭐ 25K) - Reorderable drag-and-drop lists for modern browsers and touch devices. No.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/SortableJS/Sortable) (👨‍💻 170 · 🔀 3.5K · 📦 69K · 📋 1.6K - 22% open · ⏱️ 20.03.2022):
+- [GitHub](https://github.com/SortableJS/Sortable) (👨‍💻 170 · 🔀 3.5K · 📦 70K · 📋 1.6K - 22% open · ⏱️ 20.03.2022):
 
 	```
 	git clone https://github.com/SortableJS/Sortable
@@ -3005,19 +3005,19 @@ _Editor components for code, text, images and more._
 </details>
 <details><summary><b><a href="https://github.com/atlassian/react-beautiful-dnd">react-beautiful-dnd</a></b> (🥈37 ·  ⭐ 28K) - Beautiful and accessible drag and drop for lists with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/atlassian/react-beautiful-dnd) (👨‍💻 130 · 🔀 2.1K · 📦 53K · 📋 1.5K - 34% open · ⏱️ 10.02.2022):
+- [GitHub](https://github.com/atlassian/react-beautiful-dnd) (👨‍💻 130 · 🔀 2.2K · 📦 53K · 📋 1.6K - 35% open · ⏱️ 10.02.2022):
 
 	```
 	git clone https://github.com/atlassian/react-beautiful-dnd
 	```
-- [npm](https://www.npmjs.com/package/react-beautiful-dnd) (📥 5.2M / month · 📦 1.7K · ⏱️ 21.03.2021):
+- [npm](https://www.npmjs.com/package/react-beautiful-dnd) (📥 5.3M / month · 📦 1.9K · ⏱️ 21.03.2021):
 	```
 	npm install react-beautiful-dnd
 	```
 </details>
 <details><summary><b><a href="https://github.com/react-grid-layout/react-draggable">react-draggable</a></b> (🥈36 ·  ⭐ 7.8K) - React draggable component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-grid-layout/react-draggable) (👨‍💻 70 · 🔀 950 · 📦 92K · 📋 470 - 39% open · ⏱️ 26.04.2022):
+- [GitHub](https://github.com/react-grid-layout/react-draggable) (👨‍💻 70 · 🔀 950 · 📦 93K · 📋 470 - 39% open · ⏱️ 26.04.2022):
 
 	```
 	git clone https://github.com/react-grid-layout/react-draggable
@@ -3027,21 +3027,21 @@ _Editor components for code, text, images and more._
 	npm install react-draggable
 	```
 </details>
-<details><summary><b><a href="https://github.com/clauderic/dnd-kit">dnd-kit</a></b> (🥈31 ·  ⭐ 5.1K · 📈) - The modern, lightweight, performant, accessible and extensible drag &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/clauderic/dnd-kit">dnd-kit</a></b> (🥈31 ·  ⭐ 5.1K) - The modern, lightweight, performant, accessible and extensible drag &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/clauderic/dnd-kit) (👨‍💻 33 · 🔀 260 · 📦 3 · 📋 490 - 25% open · ⏱️ 22.06.2022):
 
 	```
 	git clone https://github.com/clauderic/dnd-kit
 	```
-- [npm](https://www.npmjs.com/package/@dnd-kit/core) (📥 1M / month · 📦 62 · ⏱️ 14.06.2022):
+- [npm](https://www.npmjs.com/package/@dnd-kit/core) (📥 1.1M / month · 📦 62 · ⏱️ 14.06.2022):
 	```
 	npm install @dnd-kit/core
 	```
 </details>
 <details><summary><b><a href="https://github.com/bokuweb/react-rnd">react-rnd</a></b> (🥈31 ·  ⭐ 2.9K) - A resizable and draggable component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bokuweb/react-rnd) (👨‍💻 42 · 🔀 270 · 📦 5K · 📋 300 - 42% open · ⏱️ 17.04.2022):
+- [GitHub](https://github.com/bokuweb/react-rnd) (👨‍💻 42 · 🔀 270 · 📦 5.1K · 📋 300 - 42% open · ⏱️ 17.04.2022):
 
 	```
 	git clone https://github.com/bokuweb/react-rnd
@@ -3053,19 +3053,19 @@ _Editor components for code, text, images and more._
 </details>
 <details><summary><b><a href="https://github.com/tajo/react-movable">react-movable</a></b> (🥉27 ·  ⭐ 1.3K) - Drag and drop for your React lists and tables. Accessible. Tiny. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tajo/react-movable) (👨‍💻 14 · 🔀 42 · 📦 1.9K · 📋 47 - 25% open · ⏱️ 13.03.2022):
+- [GitHub](https://github.com/tajo/react-movable) (👨‍💻 14 · 🔀 42 · 📦 2K · 📋 47 - 25% open · ⏱️ 13.03.2022):
 
 	```
 	git clone https://github.com/tajo/react-movable
 	```
-- [npm](https://www.npmjs.com/package/react-movable) (📥 250K / month · 📦 29 · ⏱️ 09.03.2022):
+- [npm](https://www.npmjs.com/package/react-movable) (📥 280K / month · 📦 29 · ⏱️ 09.03.2022):
 	```
 	npm install react-movable
 	```
 </details>
-<details><summary><b><a href="https://github.com/bokuweb/react-sortable-pane">react-sortable-pane</a></b> (🥉22 ·  ⭐ 600 · 💤) - A sortable and resizable pane component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bokuweb/react-sortable-pane">react-sortable-pane</a></b> (🥉22 ·  ⭐ 610 · 💤) - A sortable and resizable pane component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bokuweb/react-sortable-pane) (👨‍💻 19 · 🔀 46 · 📦 220 · 📋 71 - 52% open · ⏱️ 09.01.2022):
+- [GitHub](https://github.com/bokuweb/react-sortable-pane) (👨‍💻 19 · 🔀 46 · 📦 230 · 📋 71 - 52% open · ⏱️ 09.01.2022):
 
 	```
 	git clone https://github.com/bokuweb/react-sortable-pane
@@ -3097,89 +3097,89 @@ _Tools to help with React development._
 	```
 	git clone https://github.com/webpack/webpack
 	```
-- [npm](https://www.npmjs.com/package/webpack) (📥 99M / month · 📦 820K · ⏱️ 25.07.2022):
+- [npm](https://www.npmjs.com/package/webpack) (📥 100M / month · 📦 820K · ⏱️ 25.07.2022):
 	```
 	npm install webpack
 	```
 </details>
 <details><summary><b><a href="https://github.com/storybookjs/storybook">Storybook</a></b> (🥇48 ·  ⭐ 73K) - The UI component explorer. Develop, document, & test React, Vue,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/storybookjs/storybook) (👨‍💻 1.8K · 🔀 7.6K · 📦 4.7K · 📋 9.3K - 20% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/storybookjs/storybook) (👨‍💻 1.8K · 🔀 7.6K · 📦 4.7K · 📋 9.4K - 21% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/storybookjs/storybook
 	```
-- [npm](https://www.npmjs.com/package/@storybook/react) (📥 13M / month · 📦 25K · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/@storybook/react) (📥 13M / month · 📦 26K · ⏱️ 03.08.2022):
 	```
 	npm install @storybook/react
 	```
 </details>
-<details><summary><b><a href="https://github.com/vitejs/vite">vite</a></b> (🥇46 ·  ⭐ 46K · 📈) - Next generation frontend tooling. Its fast!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vitejs/vite">vite</a></b> (🥇46 ·  ⭐ 46K) - Next generation frontend tooling. Its fast!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vitejs/vite) (👨‍💻 620 · 🔀 3.7K · 📦 350K · 📋 4.5K - 12% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/vitejs/vite) (👨‍💻 620 · 🔀 3.7K · 📦 360K · 📋 4.6K - 12% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/vitejs/vite
 	```
-- [npm](https://www.npmjs.com/package/vite) (📥 5.5M / month · 📦 4.5K · ⏱️ 29.07.2022):
+- [npm](https://www.npmjs.com/package/vite) (📥 5.8M / month · 📦 5.3K · ⏱️ 29.07.2022):
 	```
 	npm install vite
 	```
 </details>
 <details><summary><b><a href="https://github.com/lerna/lerna">lerna</a></b> (🥈44 ·  ⭐ 33K) - Lerna is a fast, modern build system for managing and publishing multiple.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/lerna/lerna) (👨‍💻 290 · 🔀 2.2K · 📦 130K · 📋 2.3K - 18% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/lerna/lerna) (👨‍💻 300 · 🔀 2.2K · 📦 130K · 📋 2.3K - 18% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/lerna/lerna
 	```
-- [npm](https://www.npmjs.com/package/lerna) (📥 5.6M / month · 📦 19K · ⏱️ 27.07.2022):
+- [npm](https://www.npmjs.com/package/lerna) (📥 5.7M / month · 📦 19K · ⏱️ 08.08.2022):
 	```
 	npm install lerna
 	```
 </details>
 <details><summary><b><a href="https://github.com/evanw/esbuild">esbuild</a></b> (🥈44 ·  ⭐ 33K) - An extremely fast JavaScript and CSS bundler and minifier. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/evanw/esbuild) (👨‍💻 86 · 🔀 880 · 📦 660K · 📋 2.1K - 13% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/evanw/esbuild) (👨‍💻 86 · 🔀 880 · 📦 690K · 📋 2.2K - 13% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/evanw/esbuild
 	```
-- [npm](https://www.npmjs.com/package/esbuild) (📥 29M / month · 📦 3.2K · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/esbuild) (📥 30M / month · 📦 3.7K · ⏱️ 10.08.2022):
 	```
 	npm install esbuild
 	```
-- [Go](https://pkg.go.dev/github.com/evanw/esbuild) (📦 87 · ⏱️ 02.08.2022):
+- [Go](https://pkg.go.dev/github.com/evanw/esbuild) (📦 89 · ⏱️ 10.08.2022):
 	```
 	go install github.com/evanw/esbuild
 	```
 </details>
-<details><summary><b><a href="https://github.com/jsx-eslint/eslint-plugin-react">eslint-plugin-react</a></b> (🥈43 ·  ⭐ 7.9K) - React-specific linting rules for ESLint. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/parcel-bundler/parcel">parcel</a></b> (🥈43 ·  ⭐ 41K · 📈) - The zero configuration build tool for the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jsx-eslint/eslint-plugin-react) (👨‍💻 500 · 🔀 2.6K · 📦 6M · 📋 2.2K - 9% open · ⏱️ 18.07.2022):
-
-	```
-	git clone https://github.com/yannickcr/eslint-plugin-react
-	```
-- [npm](https://www.npmjs.com/package/eslint-plugin-react) (📥 54M / month · 📦 390K · ⏱️ 23.06.2022):
-	```
-	npm install eslint-plugin-react
-	```
-</details>
-<details><summary><b><a href="https://github.com/parcel-bundler/parcel">parcel</a></b> (🥈42 ·  ⭐ 41K) - The zero configuration build tool for the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/parcel-bundler/parcel) (👨‍💻 370 · 🔀 2.2K · 📦 74K · 📋 4.8K - 15% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/parcel-bundler/parcel) (👨‍💻 370 · 🔀 2.2K · 📦 75K · 📋 4.8K - 15% open · ⏱️ 09.08.2022):
 
 	```
 	git clone https://github.com/parcel-bundler/parcel
 	```
-- [Conda](https://anaconda.org/conda-forge/parceljs) (📥 13K · ⏱️ 03.08.2022):
+- [Conda](https://anaconda.org/conda-forge/parceljs) (📥 14K · ⏱️ 03.08.2022):
 	```
 	conda install -c conda-forge parceljs
 	```
-- [npm](https://www.npmjs.com/package/parcel) (📥 580K / month · 📦 3.2K · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/parcel) (📥 580K / month · 📦 3.3K · ⏱️ 03.08.2022):
 	```
 	npm install parcel
+	```
+</details>
+<details><summary><b><a href="https://github.com/jsx-eslint/eslint-plugin-react">eslint-plugin-react</a></b> (🥈42 ·  ⭐ 7.9K · 📉) - React-specific linting rules for ESLint. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jsx-eslint/eslint-plugin-react) (👨‍💻 500 · 🔀 2.6K · 📦 6.1M · 📋 2.2K - 8% open · ⏱️ 09.08.2022):
+
+	```
+	git clone https://github.com/yannickcr/eslint-plugin-react
+	```
+- [npm](https://www.npmjs.com/package/eslint-plugin-react) (📥 55M / month · 📦 390K · ⏱️ 23.06.2022):
+	```
+	npm install eslint-plugin-react
 	```
 </details>
 <details><summary><b><a href="https://github.com/facebook/create-react-app">create-react-app</a></b> (🥈40 ·  ⭐ 96K) - Set up a modern web app by running one command. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3189,7 +3189,7 @@ _Tools to help with React development._
 	```
 	git clone https://github.com/facebook/create-react-app
 	```
-- [npm](https://www.npmjs.com/package/@gd-uikit/react-scripts) (📥 560 / month · ⏱️ 22.07.2022):
+- [npm](https://www.npmjs.com/package/@gd-uikit/react-scripts) (📥 400 / month · ⏱️ 22.07.2022):
 	```
 	npm install @gd-uikit/react-scripts
 	```
@@ -3220,12 +3220,12 @@ _Tools to help with React development._
 </details>
 <details><summary><b><a href="https://github.com/teambit/bit">Bit</a></b> (🥈35 ·  ⭐ 16K) - Build, distribute, and collaborate on components. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/teambit/bit) (👨‍💻 73 · 🔀 860 · 📥 8.4K · 📦 23 · 📋 1.6K - 16% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/teambit/bit) (👨‍💻 73 · 🔀 860 · 📥 8.4K · 📦 23 · 📋 1.6K - 16% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/teambit/bit
 	```
-- [npm](https://www.npmjs.com/package/bit-bin) (📥 8.7K / month · 📦 89 · ⏱️ 08.07.2021):
+- [npm](https://www.npmjs.com/package/bit-bin) (📥 11K / month · 📦 89 · ⏱️ 08.07.2021):
 	```
 	npm install bit-bin
 	```
@@ -3249,62 +3249,62 @@ _Tools to help with React development._
 	```
 	git clone https://github.com/vercel/ncc
 	```
-- [npm](https://www.npmjs.com/package/@vercel/ncc) (📥 990K / month · 📦 290 · ⏱️ 25.05.2022):
+- [npm](https://www.npmjs.com/package/@vercel/ncc) (📥 1.1M / month · 📦 290 · ⏱️ 25.05.2022):
 	```
 	npm install @vercel/ncc
 	```
 </details>
 <details><summary><b><a href="https://github.com/yarnpkg/berry">yarn</a></b> (🥉34 ·  ⭐ 5.4K) - Active development trunk for Yarn. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/yarnpkg/berry) (👨‍💻 320 · 🔀 820 · 📥 320 · 📦 190 · 📋 2.1K - 20% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/yarnpkg/berry) (👨‍💻 320 · 🔀 820 · 📥 320 · 📦 190 · 📋 2.2K - 21% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/yarnpkg/berry
 	```
-- [npm](https://www.npmjs.com/package/@yarnpkg/pnpify) (📥 100K / month · 📦 240 · ⏱️ 21.07.2022):
+- [npm](https://www.npmjs.com/package/@yarnpkg/pnpify) (📥 97K / month · 📦 250 · ⏱️ 21.07.2022):
 	```
 	npm install @yarnpkg/pnpify
 	```
 </details>
 <details><summary><b><a href="https://github.com/thebuilder/react-intersection-observer">react-intersection-observer</a></b> (🥉34 ·  ⭐ 3.5K) - React implementation of the Intersection Observer API.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/thebuilder/react-intersection-observer) (👨‍💻 43 · 🔀 140 · 📦 42K · 📋 210 - 0% open · ⏱️ 22.07.2022):
+- [GitHub](https://github.com/thebuilder/react-intersection-observer) (👨‍💻 43 · 🔀 140 · 📦 43K · 📋 210 - 0% open · ⏱️ 22.07.2022):
 
 	```
 	git clone https://github.com/thebuilder/react-intersection-observer
 	```
-- [npm](https://www.npmjs.com/package/react-intersection-observer) (📥 3.5M / month · 📦 430 · ⏱️ 22.07.2022):
+- [npm](https://www.npmjs.com/package/react-intersection-observer) (📥 3.6M / month · 📦 430 · ⏱️ 22.07.2022):
 	```
 	npm install react-intersection-observer
 	```
 </details>
 <details><summary><b><a href="https://github.com/jsx-eslint/jsx-ast-utils">jsx-ast-utils</a></b> (🥉34 ·  ⭐ 130) - AST utility module for statically analyzing JSX. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jsx-eslint/jsx-ast-utils) (👨‍💻 14 · 🔀 32 · 📦 5.4M · 📋 39 - 10% open · ⏱️ 06.07.2022):
+- [GitHub](https://github.com/jsx-eslint/jsx-ast-utils) (👨‍💻 14 · 🔀 33 · 📦 5.5M · 📋 39 - 10% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/jsx-eslint/jsx-ast-utils
 	```
-- [npm](https://www.npmjs.com/package/jsx-ast-utils) (📥 54M / month · 📦 200K · ⏱️ 06.07.2022):
+- [npm](https://www.npmjs.com/package/jsx-ast-utils) (📥 55M / month · 📦 200K · ⏱️ 08.08.2022):
 	```
 	npm install jsx-ast-utils
 	```
 </details>
 <details><summary><b><a href="https://github.com/jsx-eslint/eslint-plugin-jsx-a11y">eslint-plugin-jsx-a11y</a></b> (🥉32 ·  ⭐ 2.9K) - Static AST checker for a11y rules on JSX elements. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) (👨‍💻 120 · 🔀 580 · 📦 5.2M · 📋 420 - 21% open · ⏱️ 09.07.2022):
+- [GitHub](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) (👨‍💻 120 · 🔀 580 · 📦 5.3M · 📋 420 - 21% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/jsx-eslint/eslint-plugin-jsx-a11y
 	```
-- [npm](https://www.npmjs.com/package/canglang-cli) (📥 7 / month · ⏱️ 12.07.2021):
+- [npm](https://www.npmjs.com/package/canglang-cli) (📥 8 / month · ⏱️ 12.07.2021):
 	```
 	npm install canglang-cli
 	```
 </details>
 <details><summary><b><a href="https://github.com/gregberge/loadable-components">loadable-components</a></b> (🥉31 ·  ⭐ 6.7K) - The recommended Code Splitting library for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gregberge/loadable-components) (👨‍💻 110 · 🔀 360 · 📦 4.7K · 📋 580 - 6% open · ⏱️ 02.08.2022):
+- [GitHub](https://github.com/gregberge/loadable-components) (👨‍💻 110 · 🔀 360 · 📦 4.8K · 📋 580 - 6% open · ⏱️ 02.08.2022):
 
 	```
 	git clone https://github.com/gregberge/loadable-components
@@ -3321,7 +3321,7 @@ _Tools to help with React development._
 	```
 	git clone https://github.com/electron-react-boilerplate/electron-react-boilerplate
 	```
-- [npm](https://www.npmjs.com/package/mib-browser) (📥 7 / month · ⏱️ 17.01.2022):
+- [npm](https://www.npmjs.com/package/mib-browser) (📥 8 / month · ⏱️ 17.01.2022):
 	```
 	npm install mib-browser
 	```
@@ -3340,12 +3340,12 @@ _Tools to help with React development._
 </details>
 <details><summary><b><a href="https://github.com/infinitered/reactotron">Reactotron</a></b> (🥉29 ·  ⭐ 14K) - A desktop app for inspecting your React JS and React Native projects... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/infinitered/reactotron) (👨‍💻 100 · 🔀 890 · 📥 2.2M · 📋 500 - 24% open · ⏱️ 13.07.2022):
+- [GitHub](https://github.com/infinitered/reactotron) (👨‍💻 100 · 🔀 890 · 📥 2.3M · 📋 500 - 24% open · ⏱️ 13.07.2022):
 
 	```
 	git clone https://github.com/infinitered/reactotron
 	```
-- [npm](https://www.npmjs.com/package/reactotron) (📥 2.6K / month · 📦 81 · ⏱️ 09.08.2016):
+- [npm](https://www.npmjs.com/package/reactotron) (📥 2.7K / month · 📦 81 · ⏱️ 09.08.2016):
 	```
 	npm install reactotron
 	```
@@ -3357,7 +3357,7 @@ _Tools to help with React development._
 	```
 	git clone https://github.com/welldone-software/why-did-you-render
 	```
-- [npm](https://www.npmjs.com/package/why-did-you-render) (📥 160 / month · ⏱️ 17.05.2020):
+- [npm](https://www.npmjs.com/package/why-did-you-render) (📥 200 / month · ⏱️ 17.05.2020):
 	```
 	npm install why-did-you-render
 	```
@@ -3374,14 +3374,14 @@ _Tools to help with React development._
 	npm install storybook-addon-material-ui
 	```
 </details>
-<details><summary><b><a href="https://github.com/dequelabs/axe-core-npm">axe-core-npm</a></b> (🥉24 ·  ⭐ 380) - Provides a method to inject and analyze web pages using axe. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/dequelabs/axe-core-npm">axe-core-npm</a></b> (🥉25 ·  ⭐ 390) - Provides a method to inject and analyze web pages using axe. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/dequelabs/axe-core-npm) (👨‍💻 21 · 🔀 35 · 📦 34 · 📋 170 - 24% open · ⏱️ 13.07.2022):
+- [GitHub](https://github.com/dequelabs/axe-core-npm) (👨‍💻 21 · 🔀 35 · 📦 34 · 📋 170 - 24% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/dequelabs/axe-core-npm
 	```
-- [npm](https://www.npmjs.com/package/@axe-core/webdriverjs) (📥 43K / month · 📦 8 · ⏱️ 13.07.2022):
+- [npm](https://www.npmjs.com/package/@axe-core/webdriverjs) (📥 43K / month · 📦 9 · ⏱️ 11.08.2022):
 	```
 	npm install @axe-core/webdriverjs
 	```
@@ -3393,14 +3393,14 @@ _Tools to help with React development._
 	```
 	git clone https://github.com/moroshko/react-scanner
 	```
-- [npm](https://www.npmjs.com/package/react-scanner) (📥 160K / month · ⏱️ 19.04.2022):
+- [npm](https://www.npmjs.com/package/react-scanner) (📥 180K / month · ⏱️ 19.04.2022):
 	```
 	npm install react-scanner
 	```
 </details>
 <details><summary><b><a href="https://github.com/dataformsjs/dataformsjs">dataformsjs</a></b> (🥉16 ·  ⭐ 140) - DataFormsJS A minimal JavaScript Framework, standalone React and Web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dataformsjs/dataformsjs) (👨‍💻 6 · 🔀 21 · 📦 2 · ⏱️ 23.07.2022):
+- [GitHub](https://github.com/dataformsjs/dataformsjs) (👨‍💻 6 · 🔀 22 · 📦 2 · ⏱️ 23.07.2022):
 
 	```
 	git clone https://github.com/dataformsjs/dataformsjs
@@ -3421,7 +3421,7 @@ _Tools to help with React development._
 <details><summary>Show 3 hidden projects...</summary>
 
 - <b><a href="https://github.com/jamiebuilds/react-loadable">react-loadable</a></b> (🥉33 ·  ⭐ 16K · 💀) - A higher order component for loading components with promises. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/react-boilerplate/react-boilerplate">react-boilerplate</a></b> (🥉29 ·  ⭐ 29K · 💀) - A highly scalable, offline-first foundation with the best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/react-boilerplate/react-boilerplate">react-boilerplate</a></b> (🥉28 ·  ⭐ 29K · 💀) - A highly scalable, offline-first foundation with the best.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/bareynol/mui-theme-creator">Material-UI Theme Creator</a></b> (🥉8 ·  ⭐ 280 · 💀) - A tool to help design and customize themes for the.. <code><a href="https://tldrlegal.com/search?q=0BSD">❗️0BSD</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
@@ -3432,14 +3432,14 @@ _Tools to help with React development._
 
 _Tools to build web-app based desktop applications._
 
-<details><summary><b><a href="https://github.com/tauri-apps/tauri">Tauri</a></b> (🥇40 ·  ⭐ 48K) - Build smaller, faster, and more secure desktop applications with a web.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/tauri-apps/tauri">Tauri</a></b> (🥇39 ·  ⭐ 48K) - Build smaller, faster, and more secure desktop applications with a web.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/tauri-apps/tauri) (👨‍💻 190 · 🔀 1.2K · 📥 750 · 📦 5.9K · 📋 1.7K - 13% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/tauri-apps/tauri) (👨‍💻 190 · 🔀 1.2K · 📥 770 · 📦 3.3K · 📋 1.7K - 12% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/tauri-apps/tauri
 	```
-- [npm](https://www.npmjs.com/package/tauri) (📥 800 / month · 📦 7 · ⏱️ 24.01.2021):
+- [npm](https://www.npmjs.com/package/tauri) (📥 820 / month · 📦 7 · ⏱️ 24.01.2021):
 	```
 	npm install tauri
 	```
@@ -3455,7 +3455,7 @@ _Tools to build web-app based desktop applications._
 	```
 	git clone https://github.com/electron/electron
 	```
-- [npm](https://www.npmjs.com/package/electron) (📥 2.4M / month · 📦 27K · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/electron) (📥 2.4M / month · 📦 27K · ⏱️ 10.08.2022):
 	```
 	npm install electron
 	```
@@ -3468,7 +3468,7 @@ _Tools to build web-app based desktop applications._
 
 <details><summary><b><a href="https://github.com/axios/axios">axios</a></b> (🥇51 ·  ⭐ 95K) - Promise based HTTP client for the browser and node.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/axios/axios) (👨‍💻 380 · 🔀 9.7K · 📦 7M · 📋 3.8K - 4% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/axios/axios) (👨‍💻 380 · 🔀 9.7K · 📦 7M · 📋 3.8K - 4% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/axios/axios
@@ -3485,19 +3485,19 @@ _Tools to build web-app based desktop applications._
 	```
 	git clone https://github.com/date-fns/date-fns
 	```
-- [npm](https://www.npmjs.com/package/date-fns) (📥 58M / month · 📦 75K · ⏱️ 22.07.2022):
+- [npm](https://www.npmjs.com/package/date-fns) (📥 59M / month · 📦 75K · ⏱️ 22.07.2022):
 	```
 	npm install date-fns
 	```
 </details>
 <details><summary><b><a href="https://github.com/winstonjs/winston">winston</a></b> (🥉44 ·  ⭐ 19K) - A logger for just about everything. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/winstonjs/winston) (👨‍💻 370 · 🔀 1.7K · 📦 540K · 📋 1.4K - 31% open · ⏱️ 30.06.2022):
+- [GitHub](https://github.com/winstonjs/winston) (👨‍💻 370 · 🔀 1.7K · 📦 550K · 📋 1.4K - 31% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/winstonjs/winston
 	```
-- [npm](https://www.npmjs.com/package/winston) (📥 33M / month · 📦 72K · ⏱️ 30.06.2022):
+- [npm](https://www.npmjs.com/package/winston) (📥 34M / month · 📦 72K · ⏱️ 30.06.2022):
 	```
 	npm install winston
 	```
@@ -3514,26 +3514,26 @@ _Tools to build web-app based desktop applications._
 	npm install log4js
 	```
 </details>
-<details><summary><b><a href="https://github.com/i18next/i18next">i18next</a></b> (🥉41 ·  ⭐ 6.3K) - i18next: learn once - translate everywhere. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/i18next/i18next">i18next</a></b> (🥉40 ·  ⭐ 6.3K · 📉) - i18next: learn once - translate everywhere. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/i18next/i18next) (👨‍💻 220 · 🔀 580 · 📦 100K · 📋 1.2K - 0% open · ⏱️ 31.07.2022):
+- [GitHub](https://github.com/i18next/i18next) (👨‍💻 220 · 🔀 580 · 📦 100K · 📋 1.2K - 0% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/i18next/i18next
 	```
-- [npm](https://www.npmjs.com/package/i18next) (📥 12M / month · 📦 7.3K · ⏱️ 30.07.2022):
+- [npm](https://www.npmjs.com/package/i18next) (📥 12M / month · 📦 7.4K · ⏱️ 08.08.2022):
 	```
 	npm install i18next
 	```
 </details>
 <details><summary><b><a href="https://github.com/jquense/yup">yup</a></b> (🥉37 ·  ⭐ 18K) - Dead simple Object schema validation. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jquense/yup) (👨‍💻 150 · 🔀 770 · 📦 330K · 📋 1.4K - 26% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/jquense/yup) (👨‍💻 150 · 🔀 770 · 📦 330K · 📋 1.4K - 26% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/jquense/yup
 	```
-- [npm](https://www.npmjs.com/package/yup) (📥 14M / month · 📦 11K · ⏱️ 10.04.2022):
+- [npm](https://www.npmjs.com/package/yup) (📥 15M / month · 📦 11K · ⏱️ 10.04.2022):
 	```
 	npm install yup
 	```
@@ -3560,28 +3560,28 @@ _Tools to build web-app based desktop applications._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/facebook/jest">jest</a></b> (🥇48 ·  ⭐ 40K) - Delightful JavaScript Testing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/facebook/jest) (👨‍💻 1.5K · 🔀 5.7K · 📦 6.3M · 📋 7.6K - 21% open · ⏱️ 04.08.2022):
-
-	```
-	git clone https://github.com/facebook/jest
-	```
-- [npm](https://www.npmjs.com/package/jest) (📥 72M / month · 📦 430K · ⏱️ 04.08.2022):
-	```
-	npm install jest
-	```
-</details>
 <details><summary><b><a href="https://github.com/cypress-io/cypress">cypress</a></b> (🥇48 ·  ⭐ 40K) - Fast, easy and reliable testing for anything that runs in a browser. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/cypress-io/cypress) (👨‍💻 390 · 🔀 2.5K · 📦 520K · 📋 11K - 24% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/cypress-io/cypress) (👨‍💻 390 · 🔀 2.5K · 📦 520K · 📋 11K - 24% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/cypress-io/cypress
 	```
-- [npm](https://www.npmjs.com/package/cypress) (📥 17M / month · 📦 6.8K · ⏱️ 02.08.2022):
+- [npm](https://www.npmjs.com/package/cypress) (📥 17M / month · 📦 6.9K · ⏱️ 02.08.2022):
 	```
 	npm install cypress
+	```
+</details>
+<details><summary><b><a href="https://github.com/facebook/jest">jest</a></b> (🥇48 ·  ⭐ 40K) - Delightful JavaScript Testing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/facebook/jest) (👨‍💻 1.5K · 🔀 5.7K · 📦 6.4M · 📋 7.6K - 20% open · ⏱️ 11.08.2022):
+
+	```
+	git clone https://github.com/facebook/jest
+	```
+- [npm](https://www.npmjs.com/package/jest) (📥 73M / month · 📦 430K · ⏱️ 04.08.2022):
+	```
+	npm install jest
 	```
 </details>
 <details><summary><b><a href="https://github.com/enzymejs/enzyme">enzyme</a></b> (🥈42 ·  ⭐ 20K · 💤) - JavaScript Testing utilities for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3591,31 +3591,31 @@ _Tools to build web-app based desktop applications._
 	```
 	git clone https://github.com/enzymejs/enzyme
 	```
-- [npm](https://www.npmjs.com/package/enzyme) (📥 9.6M / month · 📦 78K · ⏱️ 20.12.2019):
+- [npm](https://www.npmjs.com/package/enzyme) (📥 9.7M / month · 📦 78K · ⏱️ 20.12.2019):
 	```
 	npm install enzyme
 	```
 </details>
 <details><summary><b><a href="https://github.com/testing-library/react-testing-library">react-testing-library</a></b> (🥉37 ·  ⭐ 17K) - Simple and complete React DOM testing utilities that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/testing-library/react-testing-library) (👨‍💻 170 · 🔀 990 · 📦 5.1M · 📋 630 - 2% open · ⏱️ 28.05.2022):
+- [GitHub](https://github.com/testing-library/react-testing-library) (👨‍💻 170 · 🔀 990 · 📦 5.2M · 📋 630 - 2% open · ⏱️ 28.05.2022):
 
 	```
 	git clone https://github.com/testing-library/react-testing-library
 	```
-- [npm](https://www.npmjs.com/package/react-testing-library) (📥 350K / month · 📦 4.3K · ⏱️ 30.05.2019):
+- [npm](https://www.npmjs.com/package/react-testing-library) (📥 360K / month · 📦 4.3K · ⏱️ 30.05.2019):
 	```
 	npm install react-testing-library
 	```
 </details>
 <details><summary><b><a href="https://github.com/testing-library/react-hooks-testing-library">react-hooks-testing-library</a></b> (🥉36 ·  ⭐ 4.7K) - Simple and complete React hooks testing utilities.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/testing-library/react-hooks-testing-library) (👨‍💻 64 · 🔀 200 · 📦 56K · 📋 220 - 14% open · ⏱️ 16.07.2022):
+- [GitHub](https://github.com/testing-library/react-hooks-testing-library) (👨‍💻 65 · 🔀 200 · 📦 57K · 📋 220 - 14% open · ⏱️ 16.07.2022):
 
 	```
 	git clone https://github.com/testing-library/react-hooks-testing-library
 	```
-- [npm](https://www.npmjs.com/package/@testing-library/react-hooks) (📥 10M / month · 📦 3.4K · ⏱️ 18.06.2022):
+- [npm](https://www.npmjs.com/package/@testing-library/react-hooks) (📥 11M / month · 📦 3.4K · ⏱️ 18.06.2022):
 	```
 	npm install @testing-library/react-hooks
 	```
@@ -3634,36 +3634,36 @@ _Admin frontend frameworks, dashboards and templates._
 
 <details><summary><b><a href="https://github.com/marmelab/react-admin">React Admin</a></b> (🥇42 ·  ⭐ 20K) - A frontend Framework for building B2B applications running in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/marmelab/react-admin) (👨‍💻 560 · 🔀 4.5K · 📦 11K · 📋 3.8K - 3% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/marmelab/react-admin) (👨‍💻 560 · 🔀 4.5K · 📦 11K · 📋 3.8K - 3% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/marmelab/react-admin
 	```
-- [npm](https://www.npmjs.com/package/react-admin) (📥 200K / month · 📦 400 · ⏱️ 29.07.2022):
+- [npm](https://www.npmjs.com/package/react-admin) (📥 200K / month · 📦 410 · ⏱️ 11.08.2022):
 	```
 	npm install react-admin
 	```
 </details>
 <details><summary><b><a href="https://github.com/ant-design/ant-design-pro">Ant Design Pro</a></b> (🥇39 ·  ⭐ 33K) - Use Ant Design like a Pro!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ant-design/ant-design-pro) (👨‍💻 310 · 🔀 7.5K · 📦 2.5K · 📋 8.6K - 0% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/ant-design/ant-design-pro) (👨‍💻 310 · 🔀 7.6K · 📦 2.5K · 📋 8.6K - 0% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/ant-design/ant-design-pro
 	```
-- [npm](https://www.npmjs.com/package/ant-design-pro) (📥 21K / month · 📦 210 · ⏱️ 08.05.2019):
+- [npm](https://www.npmjs.com/package/ant-design-pro) (📥 20K / month · 📦 210 · ⏱️ 08.05.2019):
 	```
 	npm install ant-design-pro
 	```
 </details>
 <details><summary><b><a href="https://github.com/coreui/coreui-free-bootstrap-admin-template">coreui-free-bootstrap-admin-template</a></b> (🥈28 ·  ⭐ 11K) - Free Bootstrap Admin & Dashboard Template. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/coreui/coreui-free-bootstrap-admin-template) (👨‍💻 26 · 🔀 3K · 📥 270 · 📋 480 - 5% open · ⏱️ 11.07.2022):
+- [GitHub](https://github.com/coreui/coreui-free-bootstrap-admin-template) (👨‍💻 26 · 🔀 3K · 📥 280 · 📋 480 - 5% open · ⏱️ 11.07.2022):
 
 	```
 	git clone https://github.com/coreui/coreui-free-bootstrap-admin-template
 	```
-- [npm](https://www.npmjs.com/package/@coreui/ajax) (📥 180 / month · 📦 7 · ⏱️ 28.02.2018):
+- [npm](https://www.npmjs.com/package/@coreui/ajax) (📥 170 / month · 📦 7 · ⏱️ 28.02.2018):
 	```
 	npm install @coreui/ajax
 	```
@@ -3684,19 +3684,19 @@ _Admin frontend frameworks, dashboards and templates._
 	git clone https://github.com/dunky11/react-saas-template
 	```
 </details>
-<details><summary><b><a href="https://github.com/themesberg/volt-react-dashboard">Volt React Dashboard</a></b> (🥉14 ·  ⭐ 630 · 💤) - Free and open source React.js admin dashboard.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/themesberg/volt-react-dashboard">Volt React Dashboard</a></b> (🥉14 ·  ⭐ 640 · 💤) - Free and open source React.js admin dashboard.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/themesberg/volt-react-dashboard) (👨‍💻 3 · 🔀 260 · 📦 1 · 📋 17 - 58% open · ⏱️ 31.01.2022):
 
 	```
 	git clone https://github.com/themesberg/volt-react-dashboard
 	```
-- [npm](https://www.npmjs.com/package/@themesberg/volt-react-dashboard) (📥 53 / month · ⏱️ 26.01.2021):
+- [npm](https://www.npmjs.com/package/@themesberg/volt-react-dashboard) (📥 58 / month · ⏱️ 26.01.2021):
 	```
 	npm install @themesberg/volt-react-dashboard
 	```
 </details>
-<details><summary><b><a href="https://github.com/uilibrary/matx-react">matx-react</a></b> (🥉13 ·  ⭐ 720) - Matx -Free and open-source React Material UI Admin Dashboard Template. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/uilibrary/matx-react">matx-react</a></b> (🥉13 ·  ⭐ 730) - Matx -Free and open-source React Material UI Admin Dashboard Template. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/uilibrary/matx-react) (👨‍💻 6 · 🔀 300 · 📋 27 - 40% open · ⏱️ 21.06.2022):
 
@@ -3708,7 +3708,7 @@ _Admin frontend frameworks, dashboards and templates._
 
 - <b><a href="https://github.com/flatlogic/react-dashboard">React Dashboard</a></b> (🥈19 ·  ⭐ 1.4K · 💀) - React Dashboard - isomorphic admin dashboard template.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon-32x32.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/flatlogic/react-material-admin">React Material Admin</a></b> (🥉16 ·  ⭐ 1.4K · 💀) - React Material Admin is a React template built with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/creativetimofficial/notus-react">Notus React</a></b> (🥉14 ·  ⭐ 540 · 💀) - Notus React: Free Tailwind CSS UI Kit and Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/creativetimofficial/notus-react">Notus React</a></b> (🥉13 ·  ⭐ 550 · 💀) - Notus React: Free Tailwind CSS UI Kit and Admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/PlainAdmin/plain-free-bootstrap-admin-template">plain-free-bootstrap-admin-template</a></b> (🥉8 ·  ⭐ 220) - Free Bootstrap 5 Admin and Dashboard Template that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
@@ -3721,24 +3721,24 @@ _Collection of other components._
 
 <details><summary><b><a href="https://github.com/sweetalert2/sweetalert2">sweetalert2</a></b> (🥇42 ·  ⭐ 15K) - A beautiful, responsive, highly customizable and accessible (WAI-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sweetalert2/sweetalert2) (👨‍💻 120 · 🔀 1.5K · 📥 210K · 📦 180K · 📋 1.5K - 0% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/sweetalert2/sweetalert2) (👨‍💻 120 · 🔀 1.5K · 📥 220K · 📦 190K · 📋 1.5K - 0% open · ⏱️ 06.08.2022):
 
 	```
 	git clone https://github.com/sweetalert2/sweetalert2
 	```
-- [npm](https://www.npmjs.com/package/sweetalert2) (📥 1.8M / month · 📦 4.1K · ⏱️ 21.07.2022):
+- [npm](https://www.npmjs.com/package/sweetalert2) (📥 1.8M / month · 📦 4.1K · ⏱️ 06.08.2022):
 	```
 	npm install sweetalert2
 	```
 </details>
 <details><summary><b><a href="https://github.com/akiran/react-slick">react-slick</a></b> (🥇40 ·  ⭐ 11K) - React carousel component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/akiran/react-slick) (👨‍💻 150 · 🔀 2K · 📦 190K · 📋 1.6K - 27% open · ⏱️ 23.07.2022):
+- [GitHub](https://github.com/akiran/react-slick) (👨‍💻 150 · 🔀 2K · 📦 190K · 📋 1.6K - 26% open · ⏱️ 23.07.2022):
 
 	```
 	git clone https://github.com/akiran/react-slick
 	```
-- [npm](https://www.npmjs.com/package/react-slick) (📥 3.8M / month · 📦 10K · ⏱️ 17.04.2022):
+- [npm](https://www.npmjs.com/package/react-slick) (📥 3.9M / month · 📦 10K · ⏱️ 17.04.2022):
 	```
 	npm install react-slick
 	```
@@ -3750,19 +3750,19 @@ _Collection of other components._
 	```
 	git clone https://github.com/visgl/react-map-gl
 	```
-- [npm](https://www.npmjs.com/package/react-map-gl) (📥 870K / month · 📦 930 · ⏱️ 21.07.2022):
+- [npm](https://www.npmjs.com/package/react-map-gl) (📥 890K / month · 📦 930 · ⏱️ 21.07.2022):
 	```
 	npm install react-map-gl
 	```
 </details>
 <details><summary><b><a href="https://github.com/jquense/react-big-calendar">react-big-calendar</a></b> (🥇39 ·  ⭐ 5.9K) - gcal/outlook like calendar component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jquense/react-big-calendar) (👨‍💻 220 · 🔀 1.9K · 📦 21K · 📋 1.5K - 12% open · ⏱️ 19.07.2022):
+- [GitHub](https://github.com/jquense/react-big-calendar) (👨‍💻 220 · 🔀 1.9K · 📦 21K · 📋 1.6K - 13% open · ⏱️ 19.07.2022):
 
 	```
 	git clone https://github.com/jquense/react-big-calendar
 	```
-- [npm](https://www.npmjs.com/package/react-big-calendar) (📥 710K / month · 📦 850 · ⏱️ 19.07.2022):
+- [npm](https://www.npmjs.com/package/react-big-calendar) (📥 720K / month · 📦 860 · ⏱️ 19.07.2022):
 	```
 	npm install react-big-calendar
 	```
@@ -3781,19 +3781,19 @@ _Collection of other components._
 </details>
 <details><summary><b><a href="https://github.com/reactjs/react-modal">react-modal</a></b> (🥈37 ·  ⭐ 7K) - Accessible modal dialog component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reactjs/react-modal) (👨‍💻 160 · 🔀 800 · 📦 250K · 📋 580 - 28% open · ⏱️ 12.04.2022):
+- [GitHub](https://github.com/reactjs/react-modal) (👨‍💻 160 · 🔀 810 · 📦 250K · 📋 590 - 29% open · ⏱️ 12.04.2022):
 
 	```
 	git clone https://github.com/reactjs/react-modal
 	```
-- [npm](https://www.npmjs.com/package/react-modal) (📥 6.5M / month · 📦 17K · ⏱️ 27.04.2022):
+- [npm](https://www.npmjs.com/package/react-modal) (📥 6.7M / month · 📦 17K · ⏱️ 27.04.2022):
 	```
 	npm install react-modal
 	```
 </details>
 <details><summary><b><a href="https://github.com/reactjs/react-tabs">react-tabs</a></b> (🥈37 ·  ⭐ 2.8K) - An accessible and easy tab component for ReactJS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/reactjs/react-tabs) (👨‍💻 69 · 🔀 420 · 📦 26K · 📋 260 - 17% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/reactjs/react-tabs) (👨‍💻 69 · 🔀 420 · 📦 26K · 📋 260 - 17% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/reactjs/react-tabs
@@ -3810,26 +3810,26 @@ _Collection of other components._
 	```
 	git clone https://github.com/remarkjs/react-markdown
 	```
-- [npm](https://www.npmjs.com/package/react-markdown) (📥 5.3M / month · 📦 5K · ⏱️ 20.04.2022):
+- [npm](https://www.npmjs.com/package/react-markdown) (📥 5.5M / month · 📦 5K · ⏱️ 20.04.2022):
 	```
 	npm install react-markdown
 	```
 </details>
-<details><summary><b><a href="https://github.com/wojtekmaj/react-pdf">react-pdf</a></b> (🥈36 ·  ⭐ 6.1K) - Display PDFs in your React app as easily as if they were images. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wojtekmaj/react-pdf">react-pdf</a></b> (🥈36 ·  ⭐ 6.2K) - Display PDFs in your React app as easily as if they were images. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wojtekmaj/react-pdf) (👨‍💻 47 · 🔀 640 · 📦 20K · 📋 820 - 5% open · ⏱️ 27.07.2022):
+- [GitHub](https://github.com/wojtekmaj/react-pdf) (👨‍💻 47 · 🔀 650 · 📦 21K · 📋 820 - 4% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/wojtekmaj/react-pdf
 	```
-- [npm](https://www.npmjs.com/package/react-pdf) (📥 1.9M / month · 📦 580 · ⏱️ 27.07.2022):
+- [npm](https://www.npmjs.com/package/react-pdf) (📥 2M / month · 📦 600 · ⏱️ 27.07.2022):
 	```
 	npm install react-pdf
 	```
 </details>
 <details><summary><b><a href="https://github.com/gpbl/react-day-picker">react-day-picker</a></b> (🥈36 ·  ⭐ 4.6K) - Date picker component for React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gpbl/react-day-picker) (👨‍💻 130 · 🔀 580 · 📦 23K · 📋 730 - 1% open · ⏱️ 01.08.2022):
+- [GitHub](https://github.com/gpbl/react-day-picker) (👨‍💻 140 · 🔀 580 · 📦 23K · 📋 730 - 1% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/gpbl/react-day-picker
@@ -3841,12 +3841,12 @@ _Collection of other components._
 </details>
 <details><summary><b><a href="https://github.com/algolia/react-instantsearch">react-instantsearch</a></b> (🥈35 ·  ⭐ 1.9K) - Lightning-fast search for React and React Native.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/algolia/react-instantsearch) (👨‍💻 120 · 🔀 400 · 📦 3.6K · 📋 670 - 27% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/algolia/react-instantsearch) (👨‍💻 130 · 🔀 400 · 📦 3.6K · 📋 670 - 27% open · ⏱️ 08.08.2022):
 
 	```
 	git clone https://github.com/algolia/react-instantsearch
 	```
-- [npm](https://www.npmjs.com/package/react-instantsearch) (📥 74K / month · 📦 470 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/react-instantsearch) (📥 73K / month · 📦 470 · ⏱️ 08.08.2022):
 	```
 	npm install react-instantsearch
 	```
@@ -3863,18 +3863,6 @@ _Collection of other components._
 	npm install react-content-loader
 	```
 </details>
-<details><summary><b><a href="https://github.com/xiaolin/react-image-gallery">react-image-gallery</a></b> (🥈34 ·  ⭐ 3.2K) - React carousel image gallery component with thumbnail.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/xiaolin/react-image-gallery) (👨‍💻 83 · 🔀 640 · 📦 16K · 📋 530 - 4% open · ⏱️ 30.07.2022):
-
-	```
-	git clone https://github.com/xiaolin/react-image-gallery
-	```
-- [npm](https://www.npmjs.com/package/react-image-gallery) (📥 550K / month · 📦 600 · ⏱️ 30.07.2022):
-	```
-	npm install react-image-gallery
-	```
-</details>
 <details><summary><b><a href="https://github.com/wwayne/react-tooltip">react-tooltip</a></b> (🥈34 ·  ⭐ 2.8K) - react tooltip component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wwayne/react-tooltip) (👨‍💻 120 · 🔀 470 · 📦 47K · 📋 560 - 46% open · ⏱️ 02.05.2022):
@@ -3882,31 +3870,31 @@ _Collection of other components._
 	```
 	git clone https://github.com/wwayne/react-tooltip
 	```
-- [npm](https://www.npmjs.com/package/react-tooltip) (📥 4.9M / month · 📦 2.7K · ⏱️ 28.05.2021):
+- [npm](https://www.npmjs.com/package/react-tooltip) (📥 5M / month · 📦 2.7K · ⏱️ 28.05.2021):
 	```
 	npm install react-tooltip
 	```
 </details>
 <details><summary><b><a href="https://github.com/tjallingt/react-youtube">react-youtube</a></b> (🥈34 ·  ⭐ 1.6K) - react.js powered YouTube player component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tjallingt/react-youtube) (👨‍💻 46 · 🔀 210 · 📥 520 · 📦 35K · 📋 210 - 24% open · ⏱️ 04.07.2022):
+- [GitHub](https://github.com/tjallingt/react-youtube) (👨‍💻 46 · 🔀 210 · 📥 520 · 📦 36K · 📋 210 - 24% open · ⏱️ 04.07.2022):
 
 	```
 	git clone https://github.com/tjallingt/react-youtube
 	```
-- [npm](https://www.npmjs.com/package/react-youtube) (📥 870K / month · 📦 1.3K · ⏱️ 04.07.2022):
+- [npm](https://www.npmjs.com/package/react-youtube) (📥 880K / month · 📦 1.3K · ⏱️ 04.07.2022):
 	```
 	npm install react-youtube
 	```
 </details>
-<details><summary><b><a href="https://github.com/wbkd/react-flow">React Flow</a></b> (🥉33 ·  ⭐ 11K) - Highly customizable library for building an interactive node-based UI,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wbkd/react-flow">React Flow</a></b> (🥉33 ·  ⭐ 12K) - Highly customizable library for building an interactive node-based UI,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wbkd/react-flow) (👨‍💻 58 · 🔀 740 · 📋 980 - 6% open · ⏱️ 25.07.2022):
+- [GitHub](https://github.com/wbkd/react-flow) (👨‍💻 59 · 🔀 750 · 📋 980 - 6% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/wbkd/react-flow
 	```
-- [npm](https://www.npmjs.com/package/react-flow-renderer) (📥 650K / month · 📦 28 · ⏱️ 25.07.2022):
+- [npm](https://www.npmjs.com/package/react-flow-renderer) (📥 670K / month · 📦 38 · ⏱️ 05.08.2022):
 	```
 	npm install react-flow-renderer
 	```
@@ -3923,16 +3911,16 @@ _Collection of other components._
 	npm install google-map-react
 	```
 </details>
-<details><summary><b><a href="https://github.com/sachinchoolur/lightGallery">lightGallery</a></b> (🥉33 ·  ⭐ 5.3K) - A customizable, modular, responsive, lightbox gallery plugin. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/xiaolin/react-image-gallery">react-image-gallery</a></b> (🥉33 ·  ⭐ 3.2K) - React carousel image gallery component with thumbnail.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sachinchoolur/lightGallery) (👨‍💻 62 · 🔀 1.2K · 📥 510 · 📦 3.7K · 📋 1.1K - 4% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/xiaolin/react-image-gallery) (👨‍💻 83 · 🔀 640 · 📦 16K · 📋 530 - 4% open · ⏱️ 30.07.2022):
 
 	```
-	git clone https://github.com/sachinchoolur/lightGallery
+	git clone https://github.com/xiaolin/react-image-gallery
 	```
-- [npm](https://www.npmjs.com/package/lightgallery) (📥 160K / month · 📦 140 · ⏱️ 03.08.2022):
+- [npm](https://www.npmjs.com/package/react-image-gallery) (📥 570K / month · 📦 600 · ⏱️ 30.07.2022):
 	```
-	npm install lightgallery
+	npm install react-image-gallery
 	```
 </details>
 <details><summary><b><a href="https://github.com/wojtekmaj/react-calendar">react-calendar</a></b> (🥉33 ·  ⭐ 2.5K) - Ultimate calendar for your React app. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3954,19 +3942,31 @@ _Collection of other components._
 	```
 	git clone https://github.com/video-react/video-react
 	```
-- [npm](https://www.npmjs.com/package/video-react) (📥 520K / month · 📦 480 · ⏱️ 08.01.2022):
+- [npm](https://www.npmjs.com/package/video-react) (📥 510K / month · 📦 480 · ⏱️ 08.01.2022):
 	```
 	npm install video-react
 	```
 </details>
+<details><summary><b><a href="https://github.com/AdeleD/react-paginate">react-paginate</a></b> (🥉33 ·  ⭐ 2.3K) - A ReactJS component that creates a pagination. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/AdeleD/react-paginate) (👨‍💻 64 · 🔀 580 · 📦 35K · 📋 270 - 8% open · ⏱️ 10.05.2022):
+
+	```
+	git clone https://github.com/AdeleD/react-paginate
+	```
+- [npm](https://www.npmjs.com/package/react-paginate) (📥 1.3M / month · 📦 1K · ⏱️ 12.04.2022):
+	```
+	npm install react-paginate
+	```
+</details>
 <details><summary><b><a href="https://github.com/leandrowd/react-responsive-carousel">react-responsive-carousel</a></b> (🥉33 ·  ⭐ 2.2K) - React.js Responsive Carousel (with Swipe). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/leandrowd/react-responsive-carousel) (👨‍💻 74 · 🔀 570 · 📦 47K · 📋 460 - 6% open · ⏱️ 03.03.2022):
+- [GitHub](https://github.com/leandrowd/react-responsive-carousel) (👨‍💻 74 · 🔀 580 · 📦 47K · 📋 450 - 5% open · ⏱️ 03.03.2022):
 
 	```
 	git clone https://github.com/leandrowd/react-responsive-carousel
 	```
-- [npm](https://www.npmjs.com/package/react-responsive-carousel) (📥 910K / month · 📦 900 · ⏱️ 03.03.2022):
+- [npm](https://www.npmjs.com/package/react-responsive-carousel) (📥 910K / month · 📦 930 · ⏱️ 03.03.2022):
 	```
 	npm install react-responsive-carousel
 	```
@@ -3983,98 +3983,98 @@ _Collection of other components._
 	npm install react-avatar-editor
 	```
 </details>
+<details><summary><b><a href="https://github.com/sachinchoolur/lightGallery">lightGallery</a></b> (🥉32 ·  ⭐ 5.3K) - A customizable, modular, responsive, lightbox gallery plugin. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/sachinchoolur/lightGallery) (👨‍💻 62 · 🔀 1.2K · 📥 520 · 📦 3.8K · 📋 1.1K - 4% open · ⏱️ 03.08.2022):
+
+	```
+	git clone https://github.com/sachinchoolur/lightGallery
+	```
+- [npm](https://www.npmjs.com/package/lightgallery) (📥 160K / month · 📦 140 · ⏱️ 03.08.2022):
+	```
+	npm install lightgallery
+	```
+</details>
 <details><summary><b><a href="https://github.com/appbaseio/reactivesearch">Reactive Search</a></b> (🥉32 ·  ⭐ 4.7K) - Search UI components for React and Vue: powered by.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/appbaseio/reactivesearch) (👨‍💻 67 · 🔀 470 · 📦 140 · 📋 1.1K - 16% open · ⏱️ 04.08.2022):
+- [GitHub](https://github.com/appbaseio/reactivesearch) (👨‍💻 67 · 🔀 470 · 📦 140 · 📋 1.1K - 16% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/appbaseio/reactivesearch
 	```
-- [npm](https://www.npmjs.com/package/@appbaseio/reactivesearch) (📥 22K / month · 📦 110 · ⏱️ 29.07.2022):
+- [npm](https://www.npmjs.com/package/@appbaseio/reactivesearch) (📥 22K / month · 📦 110 · ⏱️ 10.08.2022):
 	```
 	npm install @appbaseio/reactivesearch
 	```
 </details>
-<details><summary><b><a href="https://github.com/AdeleD/react-paginate">react-paginate</a></b> (🥉32 ·  ⭐ 2.3K) - A ReactJS component that creates a pagination. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/AdeleD/react-paginate) (👨‍💻 64 · 🔀 580 · 📦 34K · 📋 270 - 7% open · ⏱️ 10.05.2022):
-
-	```
-	git clone https://github.com/AdeleD/react-paginate
-	```
-- [npm](https://www.npmjs.com/package/react-paginate) (📥 1.4M / month · 📦 1K · ⏱️ 12.04.2022):
-	```
-	npm install react-paginate
-	```
-</details>
 <details><summary><b><a href="https://github.com/nkbt/react-copy-to-clipboard">react-copy-to-clipboard</a></b> (🥉32 ·  ⭐ 2K) - Copy-to-clipboard React component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nkbt/react-copy-to-clipboard) (👨‍💻 18 · 🔀 120 · 📦 92K · 📋 91 - 19% open · ⏱️ 13.04.2022):
+- [GitHub](https://github.com/nkbt/react-copy-to-clipboard) (👨‍💻 18 · 🔀 120 · 📦 94K · 📋 91 - 19% open · ⏱️ 13.04.2022):
 
 	```
 	git clone https://github.com/nkbt/react-copy-to-clipboard
 	```
-- [npm](https://www.npmjs.com/package/react-copy-to-clipboard) (📥 4.5M / month · 📦 4.2K · ⏱️ 13.04.2022):
+- [npm](https://www.npmjs.com/package/react-copy-to-clipboard) (📥 4.6M / month · 📦 4.2K · ⏱️ 13.04.2022):
 	```
 	npm install react-copy-to-clipboard
 	```
 </details>
 <details><summary><b><a href="https://github.com/searchkit/searchkit">searchkit</a></b> (🥉30 ·  ⭐ 4.4K) - Node.js & Browser SDK & React UI components for Elasticsearch. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/searchkit/searchkit) (👨‍💻 55 · 🔀 420 · 📦 640 · 📋 570 - 2% open · ⏱️ 11.07.2022):
+- [GitHub](https://github.com/searchkit/searchkit) (👨‍💻 55 · 🔀 420 · 📦 640 · 📋 570 - 3% open · ⏱️ 07.08.2022):
 
 	```
 	git clone https://github.com/searchkit/searchkit
 	```
-- [npm](https://www.npmjs.com/package/searchkit) (📥 7.8K / month · 📦 160 · ⏱️ 13.01.2021):
+- [npm](https://www.npmjs.com/package/searchkit) (📥 7.7K / month · 📦 160 · ⏱️ 13.01.2021):
 	```
 	npm install searchkit
 	```
 </details>
 <details><summary><b><a href="https://github.com/lovasoa/react-contenteditable">react-contenteditable</a></b> (🥉30 ·  ⭐ 1.3K) - React component for a div with editable contents. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/lovasoa/react-contenteditable) (👨‍💻 33 · 🔀 200 · 📥 95 · 📦 5.3K · 📋 150 - 30% open · ⏱️ 12.02.2022):
+- [GitHub](https://github.com/lovasoa/react-contenteditable) (👨‍💻 33 · 🔀 200 · 📥 95 · 📦 5.4K · 📋 150 - 30% open · ⏱️ 12.02.2022):
 
 	```
 	git clone https://github.com/lovasoa/react-contenteditable
 	```
-- [npm](https://www.npmjs.com/package/react-contenteditable) (📥 540K / month · 📦 420 · ⏱️ 12.08.2021):
+- [npm](https://www.npmjs.com/package/react-contenteditable) (📥 550K / month · 📦 420 · ⏱️ 12.08.2021):
 	```
 	npm install react-contenteditable
 	```
 </details>
 <details><summary><b><a href="https://github.com/fullcalendar/fullcalendar-react">fullcalendar-react</a></b> (🥉30 ·  ⭐ 1.3K) - An official React component for FullCalendar. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fullcalendar/fullcalendar-react) (👨‍💻 3 · 🔀 71 · 📦 12K · 📋 180 - 12% open · ⏱️ 27.07.2022):
+- [GitHub](https://github.com/fullcalendar/fullcalendar-react) (👨‍💻 3 · 🔀 72 · 📦 12K · 📋 180 - 12% open · ⏱️ 27.07.2022):
 
 	```
 	git clone https://github.com/fullcalendar/fullcalendar-react
 	```
-- [npm](https://www.npmjs.com/package/@fullcalendar/react) (📥 630K / month · 📦 98 · ⏱️ 27.07.2022):
+- [npm](https://www.npmjs.com/package/@fullcalendar/react) (📥 640K / month · 📦 98 · ⏱️ 27.07.2022):
 	```
 	npm install @fullcalendar/react
 	```
 </details>
 <details><summary><b><a href="https://github.com/siriwatknp/mui-treasury">Material-UI Treasury</a></b> (🥉24 ·  ⭐ 2.1K · 💤) - A collection of ready-to-use components based on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://mui.com/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/siriwatknp/mui-treasury) (👨‍💻 19 · 🔀 140 · 📦 90 · 📋 310 - 23% open · ⏱️ 14.09.2021):
+- [GitHub](https://github.com/siriwatknp/mui-treasury) (👨‍💻 19 · 🔀 140 · 📦 92 · 📋 310 - 23% open · ⏱️ 14.09.2021):
 
 	```
 	git clone https://github.com/siriwatknp/mui-treasury
 	```
-- [npm](https://www.npmjs.com/package/@mui-treasury/components) (📥 7.7K / month · 📦 32 · ⏱️ 18.06.2021):
+- [npm](https://www.npmjs.com/package/@mui-treasury/components) (📥 8K / month · 📦 32 · ⏱️ 18.06.2021):
 	```
 	npm install @mui-treasury/components
 	```
 </details>
-<details><summary><b><a href="https://github.com/dapilab/react-nice-avatar">react-nice-avatar</a></b> (🥉18 ·  ⭐ 700 · 💤) - react library for generating avatar. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dapi-labs/react-nice-avatar">react-nice-avatar</a></b> (🥉18 ·  ⭐ 700) - react library for generating avatar. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dapilab/react-nice-avatar) (👨‍💻 8 · 🔀 43 · 📦 140 · ⏱️ 30.10.2021):
+- [GitHub](https://github.com/dapi-labs/react-nice-avatar) (👨‍💻 8 · 🔀 43 · 📦 140 · ⏱️ 06.08.2022):
 
 	```
 	git clone https://github.com/dapilab/react-nice-avatar
 	```
-- [npm](https://www.npmjs.com/package/react-nice-avatar) (📥 1.8K / month · ⏱️ 30.08.2021):
+- [npm](https://www.npmjs.com/package/react-nice-avatar) (📥 2K / month · ⏱️ 30.08.2021):
 	```
 	npm install react-nice-avatar
 	```
@@ -4096,38 +4096,38 @@ _Collection of other components._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/preactjs/preact">preact</a></b> (🥇44 ·  ⭐ 32K) - Fast 3kB React alternative with the same modern API. Components & Virtual.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/preactjs/preact">preact</a></b> (🥇44 ·  ⭐ 33K) - Fast 3kB React alternative with the same modern API. Components & Virtual.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/preactjs/preact) (👨‍💻 300 · 🔀 1.8K · 📥 270 · 📦 130K · 📋 1.6K - 13% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/preactjs/preact) (👨‍💻 300 · 🔀 1.8K · 📥 280 · 📦 130K · 📋 1.6K - 13% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/preactjs/preact
 	```
-- [npm](https://www.npmjs.com/package/preact) (📥 6.1M / month · 📦 8.3K · ⏱️ 13.07.2022):
+- [npm](https://www.npmjs.com/package/preact) (📥 6.3M / month · 📦 8.4K · ⏱️ 10.08.2022):
 	```
 	npm install preact
 	```
 </details>
 <details><summary><b><a href="https://github.com/streamich/react-use">react-use</a></b> (🥇40 ·  ⭐ 31K) - React Hooks. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
-- [GitHub](https://github.com/streamich/react-use) (👨‍💻 190 · 🔀 2.5K · 📦 34K · 📋 710 - 69% open · ⏱️ 20.05.2022):
+- [GitHub](https://github.com/streamich/react-use) (👨‍💻 190 · 🔀 2.5K · 📦 35K · 📋 710 - 68% open · ⏱️ 20.05.2022):
 
 	```
 	git clone https://github.com/streamich/react-use
 	```
-- [npm](https://www.npmjs.com/package/react-use) (📥 4.1M / month · 📦 1.2K · ⏱️ 20.05.2022):
+- [npm](https://www.npmjs.com/package/react-use) (📥 4.2M / month · 📦 1.3K · ⏱️ 20.05.2022):
 	```
 	npm install react-use
 	```
 </details>
 <details><summary><b><a href="https://github.com/react-icons/react-icons">react-icons</a></b> (🥈37 ·  ⭐ 8.3K) - svg react icons of popular icon packs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/react-icons/react-icons) (👨‍💻 70 · 🔀 530 · 📥 470 · 📦 780K · 📋 430 - 48% open · ⏱️ 30.05.2022):
+- [GitHub](https://github.com/react-icons/react-icons) (👨‍💻 70 · 🔀 530 · 📥 480 · 📦 790K · 📋 430 - 48% open · ⏱️ 30.05.2022):
 
 	```
 	git clone https://github.com/react-icons/react-icons
 	```
-- [npm](https://www.npmjs.com/package/react-icons) (📥 4.8M / month · 📦 12K · ⏱️ 30.05.2022):
+- [npm](https://www.npmjs.com/package/react-icons) (📥 4.9M / month · 📦 12K · ⏱️ 30.05.2022):
 	```
 	npm install react-icons
 	```
@@ -4144,33 +4144,9 @@ _Collection of other components._
 	npm install react-syntax-highlighter
 	```
 </details>
-<details><summary><b><a href="https://github.com/sql-js/sql.js">sql.js</a></b> (🥈34 ·  ⭐ 10K) - A javascript library to run SQLite on the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/diegomura/react-pdf">diegomura/react-pdf</a></b> (🥈34 ·  ⭐ 11K) - Create PDF files using React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sql-js/sql.js) (👨‍💻 47 · 🔀 970 · 📥 22K · 📦 4.2K · 📋 390 - 27% open · ⏱️ 27.06.2022):
-
-	```
-	git clone https://github.com/sql-js/sql.js
-	```
-- [npm](https://www.npmjs.com/package/sql.js) (📥 86K / month · 📦 640 · ⏱️ 01.06.2022):
-	```
-	npm install sql.js
-	```
-</details>
-<details><summary><b><a href="https://github.com/microsoft/FluidFramework">FluidFramework</a></b> (🥈34 ·  ⭐ 4K) - Library for building distributed, real-time collaborative web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/microsoft/FluidFramework) (👨‍💻 210 · 🔀 380 · 📦 14 · 📋 3.3K - 12% open · ⏱️ 04.08.2022):
-
-	```
-	git clone https://github.com/microsoft/FluidFramework
-	```
-- [npm](https://www.npmjs.com/package/@fluidframework/eslint-config-fluid) (📥 6K / month · 📦 130 · ⏱️ 14.07.2022):
-	```
-	npm install @fluidframework/eslint-config-fluid
-	```
-</details>
-<details><summary><b><a href="https://github.com/diegomura/react-pdf">diegomura/react-pdf</a></b> (🥉33 ·  ⭐ 11K) - Create PDF files using React. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/diegomura/react-pdf) (👨‍💻 93 · 🔀 880 · 📦 680 · 📋 1.3K - 23% open · ⏱️ 11.07.2022):
+- [GitHub](https://github.com/diegomura/react-pdf) (👨‍💻 93 · 🔀 890 · 📦 770 · 📋 1.3K - 23% open · ⏱️ 11.07.2022):
 
 	```
 	git clone https://github.com/diegomura/react-pdf
@@ -4180,21 +4156,45 @@ _Collection of other components._
 	npm install @react-pdf/png-js
 	```
 </details>
-<details><summary><b><a href="https://github.com/FirebaseExtended/reactfire">reactfire</a></b> (🥉30 ·  ⭐ 3.1K) - Hooks, Context Providers, and Components that make it easy to interact.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sql-js/sql.js">sql.js</a></b> (🥈34 ·  ⭐ 10K) - A javascript library to run SQLite on the web. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/FirebaseExtended/reactfire) (👨‍💻 61 · 🔀 390 · 📥 920 · 📦 4.8K · 📋 240 - 27% open · ⏱️ 03.08.2022):
+- [GitHub](https://github.com/sql-js/sql.js) (👨‍💻 47 · 🔀 970 · 📥 22K · 📦 4.3K · 📋 390 - 27% open · ⏱️ 27.06.2022):
+
+	```
+	git clone https://github.com/sql-js/sql.js
+	```
+- [npm](https://www.npmjs.com/package/sql.js) (📥 94K / month · 📦 640 · ⏱️ 01.06.2022):
+	```
+	npm install sql.js
+	```
+</details>
+<details><summary><b><a href="https://github.com/microsoft/FluidFramework">FluidFramework</a></b> (🥈34 ·  ⭐ 4K) - Library for building distributed, real-time collaborative web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/microsoft/FluidFramework) (👨‍💻 210 · 🔀 390 · 📦 14 · 📋 3.3K - 12% open · ⏱️ 11.08.2022):
+
+	```
+	git clone https://github.com/microsoft/FluidFramework
+	```
+- [npm](https://www.npmjs.com/package/@fluidframework/eslint-config-fluid) (📥 6K / month · 📦 130 · ⏱️ 10.08.2022):
+	```
+	npm install @fluidframework/eslint-config-fluid
+	```
+</details>
+<details><summary><b><a href="https://github.com/FirebaseExtended/reactfire">reactfire</a></b> (🥉29 ·  ⭐ 3.1K) - Hooks, Context Providers, and Components that make it easy to interact.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/FirebaseExtended/reactfire) (👨‍💻 61 · 🔀 390 · 📥 920 · 📦 4.8K · 📋 230 - 25% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/FirebaseExtended/reactfire
 	```
-- [npm](https://www.npmjs.com/package/reactfire) (📥 30K / month · 📦 890 · ⏱️ 13.05.2022):
+- [npm](https://www.npmjs.com/package/reactfire) (📥 31K / month · 📦 890 · ⏱️ 10.08.2022):
 	```
 	npm install reactfire
 	```
 </details>
-<details><summary><b><a href="https://github.com/liveblocks/liveblocks">liveblocks</a></b> (🥉26 ·  ⭐ 700) - This repository is a set of open-source packages for building.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/liveblocks/liveblocks">liveblocks</a></b> (🥉26 ·  ⭐ 710) - This repository is a set of open-source packages for building.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/liveblocks/liveblocks) (👨‍💻 12 · 🔀 35 · 📦 89 · 📋 120 - 38% open · ⏱️ 29.07.2022):
+- [GitHub](https://github.com/liveblocks/liveblocks) (👨‍💻 12 · 🔀 35 · 📦 90 · 📋 120 - 38% open · ⏱️ 11.08.2022):
 
 	```
 	git clone https://github.com/liveblocks/liveblocks
@@ -4206,19 +4206,19 @@ _Collection of other components._
 </details>
 <details><summary><b><a href="https://github.com/iconify/iconify">iconify</a></b> (🥉20 ·  ⭐ 1.6K) - Universal icon framework. One syntax for FontAwesome, Material Design.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iconify/iconify) (👨‍💻 8 · 🔀 50 · 📦 2 · 📋 120 - 9% open · ⏱️ 17.06.2022):
+- [GitHub](https://github.com/iconify/iconify) (👨‍💻 8 · 🔀 51 · 📦 2 · 📋 120 - 9% open · ⏱️ 17.06.2022):
 
 	```
 	git clone https://github.com/iconify/iconify
 	```
-- [npm](https://www.npmjs.com/package/iconify) (📥 2.6K / month · 📦 4 · ⏱️ 13.01.2022):
+- [npm](https://www.npmjs.com/package/iconify) (📥 2.7K / month · 📦 4 · ⏱️ 13.01.2022):
 	```
 	npm install iconify
 	```
 </details>
-<details><summary><b><a href="https://github.com/alan2207/bulletproof-react">bulletproof-react</a></b> (🥉19 ·  ⭐ 13K) - A simple, scalable, and powerful architecture for building.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/alan2207/bulletproof-react">bulletproof-react</a></b> (🥉19 ·  ⭐ 14K) - A simple, scalable, and powerful architecture for building.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/alan2207/bulletproof-react) (👨‍💻 27 · 🔀 1K · 📋 39 - 30% open · ⏱️ 31.07.2022):
+- [GitHub](https://github.com/alan2207/bulletproof-react) (👨‍💻 27 · 🔀 1.1K · 📋 45 - 37% open · ⏱️ 10.08.2022):
 
 	```
 	git clone https://github.com/alan2207/bulletproof-react
