@@ -1855,3 +1855,11 @@ projects:
     github_id: alexkuz/react-input-enhancements
     category: input-components
     npm_id: react-input-enhancements
+  - name: talkr
+    github_id: DoneDeal0/Talkr
+    category: i18
+    npm_id: talkr
+  - name: alright react app
+    github_id: DoneDeal0/alright-react-app
+    category: generator
+    npm_id: alright-react-app
