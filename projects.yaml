@@ -517,6 +517,11 @@ projects:
     github_id: transloadit/uppy
     npm_id: uppy
     category: file-handling
+  - name: react-uploady
+    github_id: rpldy/react-uploady
+    npm_id: "@rpldy/uploady"   
+    category: file-handling
+    demo_url: https://react-uploady.org
   - name: atomic-layout
     github_id: kettanaito/atomic-layout
     npm_id: atomic-layout
