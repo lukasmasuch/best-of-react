@@ -61,7 +61,7 @@ categories:
   - category: "other-components"
     title: "Other Components"
     subtitle: "Collection of other components."
- 
+
 labels:
   - label: "material-ui"
     image: "https://mui.com/static/favicon.ico"
@@ -519,7 +519,7 @@ projects:
     category: file-handling
   - name: react-uploady
     github_id: rpldy/react-uploady
-    npm_id: "@rpldy/uploady"   
+    npm_id: "@rpldy/uploady"
     category: file-handling
     demo_url: https://react-uploady.org
   - name: atomic-layout
@@ -672,7 +672,7 @@ projects:
     github_id: styled-components/styled-components
     npm_id: styled-components
     category: styling
-  - name: Tailewind CSS
+  - name: Tailwind CSS
     github_id: tailwindlabs/tailwindcss
     npm_id: tailwindcss
     category: styling
