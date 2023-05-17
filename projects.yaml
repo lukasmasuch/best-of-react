@@ -1868,3 +1868,8 @@ projects:
     github_id: DoneDeal0/alright-react-app
     category: generator
     npm_id: alright-react-app
+  - name: next-enterprise
+    github_id: Blazity/next-enterprise
+    category: dev-tools
+    demo_url: https://next-enterprise.vercel.app/
+    
