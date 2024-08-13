@@ -1872,4 +1872,7 @@ projects:
     github_id: Blazity/next-enterprise
     category: dev-tools
     demo_url: https://next-enterprise.vercel.app/
+  - name: react-call
+    github_id: desko27/react-call
+    npm_id: react-call
     
