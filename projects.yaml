@@ -1875,4 +1875,6 @@ projects:
   - name: react-call
     github_id: desko27/react-call
     npm_id: react-call
-    
+  - name: React Starter Kit
+    github_id: kriasoft/react-starter-kit
+    category: dev-tools
