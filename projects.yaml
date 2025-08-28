@@ -1295,7 +1295,7 @@ projects:
   - name: react-router
     github_id: remix-run/react-router
     category: routing
-    npm_id: react-router-dom
+    npm_id: react-router
   - name: navi
     github_id: frontarm/navi
     category: routing
@@ -1328,10 +1328,6 @@ projects:
     github_id: taion/react-router-scroll
     category: routing
     npm_id: react-router-scroll
-  - name: remix-run/react-router
-    github_id: remix-run/react-router
-    category: routing
-    npm_id: react-router-dom
   - name: redux-first-history
     github_id: salvoravida/redux-first-history
     category: routing
