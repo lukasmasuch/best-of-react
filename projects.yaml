@@ -1736,6 +1736,10 @@ projects:
     github_id: danilowoz/react-content-loader
     category: other-components
     npm_id: react-content-loader
+  - name: svg-loaders-react
+    github_id: ajwann/svg-loaders-react
+    category: other-components
+    npm_id: svg-loaders-react
   - name: react-youtube
     github_id: tjallingt/react-youtube
     category: other-components
